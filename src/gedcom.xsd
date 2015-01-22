@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Définition des restrictions -->
+  <xsd:simpleType name="SEX">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="M"/>
+      <xsd:enumeration value="F"/>
+      <xsd:whiteSpace value="collapse"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="ENCODING">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="ANSEL"/>
+      <xsd:enumeration value="ANSI"/>
+      <xsd:enumeration value="UTF-8"/>
+      <xsd:whiteSpace value="collapse"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="VERSION">
+    <xsd:restriction base="xsd:double">
+      <xsd:minInclusive value="0.0"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="GEDCOM_FILE">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="(\p{L}*).(ged|GED)"/>
+      <xsd:whiteSpace value="collapse"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="PHONE">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="\(\d{3}\) \d{3}-\d{4}"/>
+      <xsd:whiteSpace value="collapse"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="DATE">
+    <xsd:restriction base="xsd:string">
+      <!-- TO IMPROVE -->
+      <xsd:pattern value="(BEF |AFT |ABT )?(\d{1,2} )?(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC) (\d*|\d*/\d*)"/>
+      <xsd:pattern value="(BEF |AFT |ABT )?\d{1,2} (JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)"/>
+      <xsd:pattern value="(BEF |AFT |ABT )?\d*/\d*"/>
+      <xsd:pattern value="(BEF |AFT |ABT )?\d*"/>
+      <xsd:whiteSpace value="collapse"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+ 
+  <xsd:simpleType name="PLACE">
+    <xsd:restriction base="xsd:string">
+      <xsd:pattern value="(([A-Za-z0-9\.':\-&amp;&#47; ']+)*)?(,(([A-Za-z0-9\.:'\-&amp;&#47; ']+)*)?){0,4}"/>
+      <xsd:whiteSpace value="collapse"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+  
+  <xsd:simpleType name="EXTENSION">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="html"/>
+      <xsd:enumeration value="gif"/>
+      <xsd:enumeration value="jpeg"/>
+      <xsd:enumeration value="jpg"/>
+      <xsd:enumeration value="png"/>
+      <xsd:whiteSpace value="collapse"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="ANSWER">
+    <xsd:restriction base="xsd:string">
+      <xsd:enumeration value="Y"/>
+      <xsd:enumeration value="N"/>
+      <xsd:enumeration value=""/>
+      <xsd:whiteSpace value="collapse"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <!-- Définition des complexType et des éléments -->
+  <xsd:complexType name="GEDCOM">
+    <xsd:sequence>
+      <xsd:element name="version" type="VERSION"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="SOURCE_ID">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string">
+        <xsd:attribute name="id" type="xsd:ID" use="required"/>
+      </xsd:extension>
+    </xsd:simpleContent>  
+  </xsd:complexType>
+
+  <xsd:complexType name="SOURCE_IDREF">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string">
+        <xsd:attribute name="idref" type="xsd:IDREF" use="required"/>
+      </xsd:extension>
+    </xsd:simpleContent>  
+  </xsd:complexType>
+ 
+  <xsd:complexType name="DATE_PLACE" mixed="true">
+    <xsd:sequence>
+      <xsd:element ref="date" minOccurs="0" maxOccurs="1"/>
+      <xsd:element ref="place" minOccurs="0" maxOccurs="1"/>
+      <xsd:element ref="quality_of_data" minOccurs="0" maxOccurs="1"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="MISCELLANEOUS" mixed="true">
+    <xsd:sequence>
+      <xsd:element ref="date" minOccurs="0" maxOccurs="1"/>
+      <xsd:element ref="place" minOccurs="0" maxOccurs="1"/>
+      <xsd:choice minOccurs="0" maxOccurs="2">
+        <xsd:element name="source" type="SOURCE_IDREF"/>
+        <xsd:element ref="quality_of_data"/>
+      </xsd:choice>
+    </xsd:sequence>
+  </xsd:complexType>   
+
+  <xsd:complexType name="OBJECT_FAMILLE">
+    <xsd:sequence>
+      <xsd:element name="file" type="FILE_FAMILLE"/>
+      <xsd:element ref="title"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="FILE_FAMILLE" mixed="true">
+    <xsd:sequence>
+      <xsd:element ref="name"/>
+      <xsd:element ref="format"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="OBJECT_INDIVIDU">
+    <xsd:sequence>
+      <xsd:element name="file">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="name" type="xsd:string"/>
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element ref="format"/>
+      <xsd:element ref="title"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="HEADER_FILE">
+    <xsd:sequence>
+      <xsd:element name="name" type="GEDCOM_FILE"/>
+      <xsd:element name="number" type="xsd:nonNegativeInteger" minOccurs="0" maxOccurs="1"/>
+    </xsd:sequence>
+  </xsd:complexType>
+
+  <xsd:complexType name="IDREF">
+    <xsd:attribute name="idref" type="xsd:IDREF" use="required"/>
+  </xsd:complexType>
+
+  <xsd:complexType name="IDREFS">
+    <xsd:attribute name="idrefs" type="xsd:IDREFS" use="required"/>
+  </xsd:complexType>
+
+  <!-- Common elements -->
+  <xsd:element name="title" type="xsd:string"/>
+  <xsd:element name="format" type="EXTENSION"/>
+  <xsd:element name="husband" type="IDREF"/>
+  <xsd:element name="famc" type="IDREF"/>
+  <xsd:element name="fams" type="IDREF"/>
+  <xsd:element name="wife" type="IDREF"/>
+  <xsd:element name="child" type="IDREF"/>
+  <xsd:element name="children" type="IDREFS"/>
+  <xsd:element name="name" type="xsd:string"/>
+  <xsd:element name="address" type="xsd:string"/>
+  <xsd:element name="miscellaneous" type="MISCELLANEOUS"/>
+  <xsd:element name="quality_of_data" type="xsd:nonNegativeInteger"/>
+  <xsd:element name="date" type="DATE"/>
+  <!-- 
+       Do not fit for the last Gedcom file (french) ...
+       <xsd:element name="place" type="PLACE"/> 
+  -->
+  <xsd:element name="place" type="xsd:string"/>
+  <xsd:element name="change" type="DATE_PLACE"/>
+  <xsd:element name="number" type="xsd:string"/>
+
+  <xsd:element name="header">
+    <xsd:complexType>
+      <xsd:all minOccurs="0" maxOccurs="1">
+        <xsd:element ref="source"/>
+        <xsd:element name="destination" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+        <xsd:element ref="date"/>
+        <xsd:element name="charset" type="ENCODING" minOccurs="0" maxOccurs="1"/>
+        <xsd:element name="file" type="HEADER_FILE"/>
+        <xsd:element name="gedcom" type="GEDCOM" minOccurs="0" maxOccurs="1"/>
+      </xsd:all>
+    </xsd:complexType>
+  </xsd:element>
+
+  <xsd:element name="source">
+    <xsd:complexType mixed="true">
+      <xsd:sequence minOccurs="0" maxOccurs="1">
+        <xsd:element name="version" type="VERSION"/>
+        <xsd:element ref="name"/>
+        <xsd:element ref="corporation"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+  <xsd:element name="corporation">
+    <xsd:complexType mixed="true">
+      <xsd:sequence>
+        <xsd:element ref="address"/>
+        <xsd:element name="phone" type="PHONE"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+  <xsd:element name="submitter">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="name"/>
+        <xsd:element ref="address"/>
+        <xsd:element name="phone" type="PHONE"/>
+        <xsd:element name="comment" type="xsd:string"/>
+      </xsd:sequence>
+       <xsd:attribute name="id" type="xsd:string" use="required"/>
+    </xsd:complexType>
+  </xsd:element>
+
+  <xsd:element name="individual">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="name" minOccurs="0" maxOccurs="1"/>
+        <xsd:element ref="title" minOccurs="0" maxOccurs="1"/>
+        <xsd:element name="sex" type="SEX" minOccurs="0" maxOccurs="1"/>
+        <xsd:element name="stil" minOccurs="0" maxOccurs="1"/>
+        <xsd:element name="illegitimate" minOccurs="0" maxOccurs="1"/>
+        <xsd:element name="source" type="SOURCE_IDREF" minOccurs="0" maxOccurs="1"/>
+        <xsd:element ref="change" minOccurs="0" maxOccurs="1"/>
+        <xsd:element ref="number" minOccurs="0" maxOccurs="1"/>
+        <xsd:element name="birth" type="DATE_PLACE" minOccurs="0" maxOccurs="1"/>
+        <xsd:choice minOccurs="0" maxOccurs="2">
+          <xsd:element name="christening" type="DATE_PLACE"/>
+          <xsd:element name="death"  type="DATE_PLACE"/>
+        </xsd:choice>
+        <xsd:element name="baptism" type="DATE_PLACE" minOccurs="0" maxOccurs="1"/>
+        <xsd:choice minOccurs="0" maxOccurs="unbounded">
+          <xsd:element name="burial" type="DATE_PLACE"/>
+          <xsd:element ref="miscellaneous"/>
+        </xsd:choice>
+        <xsd:element name="attribute" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+        <xsd:element name="occupation" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+        <xsd:element name="reference" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+        <xsd:choice minOccurs="0" maxOccurs="unbounded">
+          <xsd:element ref="famc"/>
+          <xsd:element ref="fams"/>
+        </xsd:choice>
+        <xsd:element name="object" type="OBJECT_INDIVIDU" minOccurs="0" maxOccurs="1"/>
+        <xsd:element name="note" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+      </xsd:sequence>
+      <xsd:attribute name="id" type="xsd:string" use="required"/>
+    </xsd:complexType>
+  </xsd:element>
+
+  <xsd:element name="family">
+    <xsd:complexType>
+      <xsd:choice minOccurs="1" maxOccurs="unbounded">
+        <xsd:element ref="husband"/>
+        <xsd:element ref="wife"/>
+        <xsd:choice minOccurs="0" maxOccurs="1">
+          <xsd:element ref="child"/>
+          <xsd:element ref="children"/>
+        </xsd:choice>
+        <xsd:element name="divorce" type="ANSWER"/>
+        <xsd:element name="marriage" type="DATE_PLACE"/>
+        <xsd:element name="object" type="OBJECT_FAMILLE"/>
+        <xsd:element name="source" type="SOURCE_IDREF"/>
+        <xsd:element ref="change"/>
+        <xsd:element ref="number"/>
+        <xsd:element ref="miscellaneous"/>
+        <xsd:element name="engagement" type="DATE_PLACE"/>
+        <xsd:element name="annulment" type="DATE_PLACE"/>
+      </xsd:choice>
+      <xsd:attribute name="id" type="xsd:string" use="required"/>
+    </xsd:complexType>
+  </xsd:element>
+
+  <!-- Définition du document XML -->
+  <xsd:element name="family_tree">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="header"/>
+        <xsd:element name="source" type="SOURCE_ID" minOccurs="0" maxOccurs="unbounded"/>
+        <xsd:element ref="submitter" minOccurs="0" maxOccurs="1"/>
+        <xsd:choice minOccurs="1" maxOccurs="unbounded">
+          <xsd:element ref="individual"/>
+          <xsd:element ref="family"/>
+        </xsd:choice>
+      </xsd:sequence>
+    </xsd:complexType>
+
+     <!-- Définition des contraintes -->
+     <xsd:key name="submitter.id">
+      <xsd:selector xpath="submitter"/>
+      <xsd:field    xpath="@id"/>
+    </xsd:key>
+
+    <xsd:key name="individual.id">
+      <xsd:selector xpath="individual"/>
+      <xsd:field    xpath="@id"/>
+    </xsd:key>
+
+    <xsd:key name="family.id">
+      <xsd:selector xpath="family"/>
+      <xsd:field    xpath="@id"/>
+    </xsd:key>
+
+    <xsd:key name="source.id">
+      <xsd:selector xpath="source"/>
+      <xsd:field    xpath="@id"/>
+    </xsd:key>
+
+    <xsd:keyref name="husband.idref" refer="individual.id">
+      <xsd:selector xpath="family/husband"/>
+      <xsd:field    xpath="@idref"/>
+    </xsd:keyref>
+
+    <xsd:keyref name="wife.idref" refer="individual.id">
+      <xsd:selector xpath="family/wife"/>
+      <xsd:field    xpath="@idref"/>
+    </xsd:keyref>
+
+    <xsd:keyref name="child.idref" refer="individual.id">
+      <xsd:selector xpath="family/child"/>
+      <xsd:field    xpath="@idref"/>
+    </xsd:keyref>
+
+    <!-- NOT POSSIBLE -->
+    <!-- 
+    <xsd:keyref name="children.idrefs" refer="individual.id">
+      <xsd:selector xpath="family/children"/>
+      <xsd:field    xpath="@idrefs"/>
+    </xsd:keyref>
+    -->
+
+    <xsd:keyref name="source.idref" refer="source.id">
+      <xsd:selector xpath="individual/source"/>
+      <xsd:field    xpath="@idref"/>
+    </xsd:keyref>
+
+    <xsd:keyref name="source2.idref" refer="source.id">
+      <xsd:selector xpath="family/source"/>
+      <xsd:field    xpath="@idref"/>
+    </xsd:keyref>
+
+    <xsd:keyref name="source3.idref" refer="source.id">
+      <xsd:selector xpath="miscellaneous/source"/>
+      <xsd:field    xpath="@idref"/>
+    </xsd:keyref>
+
+  </xsd:element>
+</xsd:schema>

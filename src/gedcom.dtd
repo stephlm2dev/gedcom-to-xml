@@ -1,0 +1,65 @@
+<!ELEMENT family_tree (header, submitter?, source*, (individual|family)*)>
+  <!ELEMENT header (source | destination | date | charset | file | gedcom)*>
+    <!ELEMENT source (#PCDATA | version | name | corporation)* >
+      <!ATTLIST source id ID #IMPLIED> 
+      <!ATTLIST source idref IDREFS #IMPLIED>
+      <!ELEMENT version (#PCDATA)>
+      <!ELEMENT name (#PCDATA)>
+      <!ELEMENT corporation (#PCDATA | address | phone )*>
+        <!ELEMENT address (#PCDATA)>
+        <!ELEMENT phone (#PCDATA)>
+    <!ELEMENT destination (#PCDATA)>
+    <!ELEMENT charset (#PCDATA)>
+    <!ELEMENT file (#PCDATA | name | format | number)*>
+      <!ELEMENT number (#PCDATA)>
+      <!ELEMENT format (#PCDATA)>
+    <!ELEMENT gedcom (version)>
+  <!ELEMENT submitter (name, address, phone, comment)>
+    <!ATTLIST submitter id ID #REQUIRED>
+    <!ELEMENT comment (#PCDATA)>
+  <!ELEMENT individual (name?, title?, sex?, stil?, illegitimate?, source?, change?, 
+                        number?, birth?, (death | christening)* ,baptism?, 
+                        (burial | miscellaneous)*, attribute?, occupation?, reference?, 
+                        (famc?, fams?)*, object?, note?)>
+    <!ATTLIST individual id ID #REQUIRED>
+    <!ELEMENT sex (#PCDATA)>
+    <!ELEMENT stil EMPTY>
+    <!ELEMENT illegitimate EMPTY>
+    <!ELEMENT change (date)>
+    <!ELEMENT fams EMPTY>
+      <!ATTLIST fams idref IDREF #REQUIRED>
+    <!ELEMENT famc EMPTY>
+      <!ATTLIST famc idref IDREF #REQUIRED>
+    <!ELEMENT birth (date?, place?, quality_of_data?)>
+      <!ELEMENT quality_of_data (#PCDATA)>
+    <!ELEMENT christening (date?, place?, quality_of_data?)>
+    <!ELEMENT death (date?, place?, quality_of_data?)>
+      <!ELEMENT date (#PCDATA)>
+      <!ELEMENT place (#PCDATA)>
+    <!ELEMENT baptism (date?, place?, quality_of_data?)>
+    <!ELEMENT occupation (#PCDATA)>
+    <!ELEMENT attribute (#PCDATA)>
+    <!ELEMENT burial (date?, place?, quality_of_data?)>
+    <!ELEMENT reference (#PCDATA)>
+    <!ELEMENT note (#PCDATA)>
+  <!ELEMENT family (husband?| wife?| (child | children)?| divorce?| marriage| 
+                    object| source | change | number | miscellaneous |
+                    engagement | annulment)*>
+    <!ATTLIST family id ID #REQUIRED>
+    <!ELEMENT husband EMPTY>
+      <!ATTLIST husband idref IDREF #REQUIRED> 
+    <!ELEMENT wife EMPTY>
+      <!ATTLIST wife idref IDREF #REQUIRED>
+    <!ELEMENT child EMPTY>
+      <!ATTLIST child idref IDREF #REQUIRED>
+    <!ELEMENT children EMPTY>
+      <!ATTLIST children idrefs IDREFS #REQUIRED>
+    <!ELEMENT divorce (#PCDATA | quality_of_data)*>
+    <!ELEMENT marriage (date?, place?, quality_of_data?)>
+    <!ELEMENT object (file, format?, title)>
+      <!ELEMENT url (#PCDATA)>
+      <!ELEMENT title (#PCDATA)>
+    <!ELEMENT miscellaneous (#PCDATA | date| place | quality_of_data | source )*>
+    <!ELEMENT engagement (date?, place?, quality_of_data?)>
+    <!ELEMENT annulment (date?, place?, quality_of_data?)>
+

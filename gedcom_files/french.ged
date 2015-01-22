@@ -1,0 +1,9960 @@
+0 HEAD 
+1 SOUR ROOTSIII
+1 DATE 13 JUL 1989
+1 FILE ROYAL.GED
+2 NUMB 54
+0 @S2@ SOUR [DEL] 
+0 @S8@ SOUR by Ralph d'Escures, Archbishop of Canterbury 
+0 @S9@ SOUR [DEL] 
+0 @S10@ SOUR Regains throne in 1014 till his death in 1016 
+0 @R1@ INDI 
+1 NAME William I ,The Conqueror
+1 SEX M
+1 ILLE 
+1 CHAN 
+2 DATE 13 JUL 1989
+1 NUMB 1
+1 BIRT 
+2 DATE ABT 1028
+2 PLAC Falaise, Normandy
+2 QUAY 2
+1 DEAT 
+2 DATE 9 SEP 1087
+2 PLAC St. Gervais, Priory, near Rouen
+2 QUAY 2
+1 MISC Crowned
+2 DATE 11 MAY 1068
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1087
+2 PLAC Abbey, St. Stephen Caen
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 14 OCT 1066
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1087
+2 QUAY 2
+1 OCCU King of England
+1 REFN WILLIAMI
+1 FAMS @F0@
+1 FAMC @F176@
+1 NOTE 
+2 CONT     Survived his father as (William II) Duke of Normandy 1035, conquered Maine
+2 CONT 1063, Obtained crown of England by conquest 14, Oct. 1066.  Crowned at
+2 CONT Westminster Abbey by Ealdred, Archbishop of York, 25 Dec. 1066.  He died at the
+2 CONT Priory of St. Gervais, near Rouen and was buried at the Abbey of St. Stephen
+2 CONT Caen, which he founded.
+0 @R3@ INDI 
+1 NAME Paul Eugene/Hedges
+1 SEX M
+1 CHAN 
+2 DATE 12 SEP 1988
+1 NUMB 3
+1 BIRT 
+2 DATE 4 APR 1960
+2 PLAC Montebello, L.A. County, CA.
+2 QUAY 3
+1 REFN HEDGESP
+0 @R4@ INDI 
+1 NAME William II Rufus
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 4
+1 BIRT 
+2 DATE ABT 1056
+2 PLAC Normandy
+2 QUAY 2
+1 DEAT 
+2 DATE 2 AUG 1100
+2 PLAC New Forest
+2 QUAY 2
+1 MISC Crowned
+2 DATE 26 SEP 1087
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1100
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 26 SEP 1087
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1100
+2 QUAY 2
+1 OCCU King of England
+1 REFN WILLIAII
+1 FAMC @F0@
+0 @R5@ INDI 
+1 NAME Matilda
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 5
+1 BIRT 
+2 DATE ABT 1031
+2 QUAY 2
+1 DEAT 
+2 DATE 2 NOV 1083
+2 PLAC Caen
+2 QUAY 2
+1 MISC Crowned
+2 DATE 11 MAY 1068
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1083
+2 PLAC Caen, Church of the, Holy Trinity
+2 QUAY 2
+1 OCCU Queen of England
+1 REFN MATILDA
+1 FAMS @F0@
+1 FAMC @F13@
+0 @R6@ INDI 
+1 NAME Robert II ,Curthose
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 6
+1 BIRT 
+2 DATE ABT 1051
+2 PLAC Normandy
+2 QUAY 2
+1 DEAT 
+2 DATE 10 FEB 1134
+2 PLAC Cardiff Castle
+2 QUAY 2
+1 BURI 
+2 DATE 1134
+2 PLAC Cathedral, Gloucestor
+2 QUAY 2
+1 OCCU Duke of Normandy
+1 FAMC @F0@
+1 FAMS @F7@
+0 @R7@ INDI 
+1 NAME Henry I ,Beauclerc
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 7
+1 BIRT 
+2 DATE ABT 1068
+2 PLAC Selby, York
+2 QUAY 2
+1 DEAT 
+2 DATE 1 DEC 1135
+2 PLAC Denis-le-Fermont, St., near Rouen
+2 QUAY 2
+1 MISC Crowned
+2 DATE 6 AUG 1100
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1135
+2 PLAC Abbey, Reading
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1100
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1135
+2 QUAY 2
+1 OCCU King of England
+1 REFN HENRYI68
+1 FAMC @F0@
+1 FAMS @F2@
+1 FAMS @F5@
+0 @R8@ INDI 
+1 NAME Cecilia (Cecily)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 8
+1 BIRT 
+2 DATE ABT 1055
+2 PLAC Normandy
+2 QUAY 1
+1 DEAT 
+2 DATE 30 JUL 1126
+2 PLAC Caen
+2 QUAY 2
+1 BURI 
+2 DATE 1126
+2 PLAC Caen, Church of the, Holy Trinity
+2 QUAY 2
+1 OCCU Nun
+1 REFN CECILIA
+1 FAMC @F0@
+0 @R9@ INDI 
+1 NAME Agatha
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 9
+1 DEAT 
+2 QUAY 2
+1 BURI 
+2 PLAC Bayeux
+2 QUAY 2
+1 REFN AGATHA
+1 FAMC @F0@
+0 @R10@ INDI 
+1 NAME Adeliza
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 10
+1 DEAT 
+2 QUAY 2
+1 OCCU Nun
+1 REFN ADELIZA
+1 FAMC @F0@
+0 @R11@ INDI 
+1 NAME Adela
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 11
+1 BIRT 
+2 DATE ABT 1062
+2 PLAC Normandy
+2 QUAY 2
+1 DEAT 
+2 DATE 8 MAR 1138
+2 PLAC Caen
+2 QUAY 2
+1 BURI 
+2 DATE 1138
+2 PLAC Caen, Church of the, Holy Trinity
+2 QUAY 2
+1 OCCU Countess, Nun
+1 REFN ADELA
+1 FAMC @F0@
+1 FAMS @F1@
+0 @R12@ INDI 
+1 NAME Constance
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 12
+1 DEAT 
+2 QUAY 2
+1 OCCU Countess
+1 REFN CONSTANC
+1 FAMC @F0@
+0 @R13@ INDI 
+1 NAME Matilda
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 13
+1 DEAT 
+2 DATE AFT 1112
+2 QUAY 2
+1 REFN MATILDA
+1 FAMC @F0@
+0 @R14@ INDI 
+1 NAME Stephen
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 14
+1 BIRT 
+2 DATE ABT 1096
+2 PLAC Blois
+2 QUAY 2
+1 DEAT 
+2 DATE 25 OCT 1154
+2 PLAC Dover
+2 QUAY 2
+1 MISC Crowned
+2 DATE 26 DEC 1135
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1154
+2 PLAC Abbey, Faversham
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1135
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1154
+2 QUAY 2
+1 OCCU King of England
+1 REFN STEPHEN
+1 FAMC @F1@
+1 FAMS @F160@
+0 @R15@ INDI 
+1 NAME Stephen (Etienne)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 15
+1 DEAT 
+2 DATE 19 MAY 1102
+2 PLAC Ramleh, First Crusade
+2 QUAY 2
+1 OCCU Count of Blois
+1 FAMS @F1@
+1 FAMC @F14@
+0 @R16@ INDI 
+1 NAME William (Guillaume)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 16
+1 BIRT 
+2 DATE BEF 1084
+2 QUAY 0
+1 DEAT 
+2 QUAY 2
+1 OCCU Lord of Sully
+1 FAMC @F1@
+1 FAMS @F16@
+1 NOTE 
+2 CONT     Lord of Sully jure uxoris, excluded from succession to Blois and Chartres
+2 CONT for lack of capacity.  He had 3 sons and two daughters by his only wife Agnes.
+0 @R17@ INDI 
+1 NAME Theobald IV (Thibault)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 17
+1 BIRT 
+2 DATE ABT 1085
+2 QUAY 2
+1 DEAT 
+2 DATE 8 JAN 1152
+2 QUAY 2
+1 OCCU Count of Blois
+1 FAMC @F1@
+1 FAMS @F17@
+1 NOTE 
+2 CONT     Count of Blois and Chartres 1102-52, and of Champagne 1125-52.
+0 @R18@ INDI 
+1 NAME Henry
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 18
+1 BIRT 
+2 DATE ABT 1099
+2 QUAY 2
+1 DEAT 
+2 DATE 6 AUG 1171
+2 QUAY 2
+1 BURI 
+2 DATE AUG 1171
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 OCCU Abbot,Bishop
+1 FAMC @F1@
+0 @R19@ INDI 
+1 NAME Phillipe ,Bishop of Chalons
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 19
+1 DEAT 
+2 QUAY 3
+1 OCCU Bishop of Chalon
+1 FAMC @F1@
+0 @R20@ INDI 
+1 NAME Matilda (Maud)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 20
+1 DEAT 
+2 DATE 25 NOV 1120
+2 PLAC Barfleur, off the coast in, White Ship
+2 QUAY 2
+1 FAMC @F1@
+0 @R21@ INDI 
+1 NAME Agnes
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 21
+1 DEAT 
+2 QUAY 3
+1 FAMC @F1@
+0 @R22@ INDI 
+1 NAME Matilda (formerly called Edith)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 22
+1 BIRT 
+2 DATE 1079
+2 PLAC Dunfermline
+2 QUAY 2
+1 DEAT 
+2 DATE 1 MAY 1118
+2 PLAC Palace, Westminster
+2 QUAY 2
+1 MISC Crowned
+2 DATE 11 NOV 1100
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE MAY 1118
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F2@
+0 @R23@ INDI 
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 15 SEP 1988
+1 NUMB 23
+1 BIRT 
+2 DATE JUL 1101
+2 QUAY 2
+1 DEAT 
+2 QUAY 3
+1 FAMC @F2@
+0 @R24@ INDI 
+1 NAME William the Atheling
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 24
+1 BIRT 
+2 DATE AUG 1103
+2 PLAC Winchester
+2 QUAY 2
+1 DEAT 
+2 DATE 25 NOV 1120
+2 PLAC Barfleur, off the coast in, White Ship
+2 QUAY 2
+1 OCCU Duke of Normandy
+1 FAMC @F2@
+1 FAMS @F159@
+0 @R25@ INDI 
+1 NAME Richard
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 25
+1 DEAT 
+2 DATE 25 NOV 1120
+2 PLAC Barfleur, off the coast in, White Ship
+2 QUAY 2
+1 FAMC @F2@
+0 @R26@ INDI 
+1 NAME Matilda (formerly called Alice or_Aethelic)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 26
+1 BIRT 
+2 DATE ABT 1102
+2 PLAC Winchester
+2 QUAY 2
+1 DEAT 
+2 DATE 10 SEP 1169
+2 PLAC Rouen
+2 QUAY 2
+1 BURI 
+2 DATE SEP 1169
+2 PLAC Abbey, Bec
+2 QUAY 2
+1 OCCU Empress of Rome
+1 FAMC @F2@
+1 FAMS @F3@
+1 FAMS @F4@
+0 @R27@ INDI 
+1 NAME Heinrich V
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 27
+1 DEAT 
+2 DATE 23 MAY 1127
+2 PLAC Utrecht
+2 QUAY 3
+1 BURI 
+2 DATE 1127
+2 PLAC Speyer
+2 QUAY 2
+1 OCCU Emperor of Rome
+1 FAMS @F3@
+0 @R28@ INDI 
+1 NAME Geoffrey V/Plantagenet
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 28
+1 BIRT 
+2 DATE 24 AUG 1113
+2 QUAY 2
+1 DEAT 
+2 DATE 7 SEP 1151
+2 PLAC Chateau-du-Loir
+2 QUAY 2
+1 BURI 
+2 DATE SEP 1151
+2 PLAC Cathedral, Le Mans
+2 QUAY 2
+1 OCCU Count of Anjou
+1 FAMS @F4@
+1 FAMC @F10@
+0 @R29@ INDI 
+1 NAME Matilda (formerly Alice)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 29
+1 BIRT 
+2 DATE 1107
+2 QUAY 2
+1 DEAT 
+2 DATE 1154
+2 PLAC Abbey, Fontevrault
+2 QUAY 2
+1 OCCU Duchess
+1 FAMC @F10@
+1 FAMS @F159@
+0 @R30@ INDI 
+1 NAME Henry II Curtmantle
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 30
+1 BIRT 
+2 DATE 5 MAR 1133
+2 PLAC Le Mans
+2 QUAY 2
+1 DEAT 
+2 DATE 6 JUL 1189
+2 PLAC Chinon
+2 QUAY 2
+1 MISC Crowned
+2 DATE 19 DEC 1154
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE JUL 1189
+2 PLAC Fontevrault
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1154
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1189
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F4@
+1 FAMS @F39@
+0 @R31@ INDI 
+1 NAME Geoffrey VI Martel
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 31
+1 BIRT 
+2 DATE 1 JUN 1134
+2 PLAC Argentan
+2 QUAY 2
+1 DEAT 
+2 DATE 26 JUL 1158
+2 PLAC Nantes
+2 QUAY 2
+1 BURI 
+2 DATE 1158
+2 PLAC Nantes
+2 QUAY 2
+1 OCCU Count of Nantes
+1 FAMC @F4@
+0 @R32@ INDI 
+1 NAME William
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 32
+1 BIRT 
+2 DATE AUG 1136
+2 PLAC Angers
+2 QUAY 2
+1 DEAT 
+2 DATE 30 JAN 1164
+2 PLAC Rouen
+2 QUAY 2
+1 BURI 
+2 DATE FEB 1164
+2 PLAC Rouen, Notre Dame
+2 QUAY 2
+1 FAMC @F4@
+0 @R33@ INDI 
+1 NAME Adeliza
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 33
+1 BIRT 
+2 DATE ABT 1104
+2 QUAY 2
+1 DEAT 
+2 DATE 23 MAR 1151
+2 PLAC Flanders
+2 QUAY 2
+1 MISC Crowned
+2 DATE 3 FEB 1121
+2 PLAC Abbey, Westminster
+2 SOUR @S8@
+2 QUAY 2
+1 BURI 
+2 DATE 1151
+2 PLAC Flanders
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F5@
+0 @R34@ INDI 
+1 NAME Richard I Coeur De Lion
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 34
+1 BIRT 
+2 DATE 8 SEP 1157
+2 PLAC Beumont Palace, Oxford
+2 QUAY 2
+1 DEAT 
+2 DATE 6 APR 1199
+2 PLAC Castle of Chalus, Aquitaine
+2 QUAY 2
+1 MISC Crowned
+2 DATE 3 SEP 1189
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1199
+2 PLAC Abbey, Fontevrault
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1189
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1199
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F39@
+0 @R35@ INDI 
+1 NAME John Lackland
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 35
+1 BIRT 
+2 DATE 24 DEC 1167
+2 PLAC Beumont Palace, Oxford
+2 QUAY 2
+1 DEAT 
+2 DATE 19 OCT 1216
+2 PLAC Newark Castle
+2 QUAY 2
+1 MISC Crowned
+2 DATE 27 MAY 1199
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1216
+2 PLAC Cathedral, Worchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1199
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1216
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F39@
+1 FAMS @F40@
+1 FAMS @F42@
+0 @R36@ INDI 
+1 NAME Henry III
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 36
+1 BIRT 
+2 DATE 1 OCT 1207
+2 PLAC Castle, Winchester
+2 QUAY 2
+1 DEAT 
+2 DATE 16 NOV 1272
+2 PLAC Palace, Westminster
+2 QUAY 2
+1 MISC Crowned
+2 DATE 28 OCT 1216
+2 PLAC Cathedral, Gloucestor
+2 QUAY 2
+1 BURI 
+2 DATE 1272
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1216
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1272
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F42@
+1 FAMS @F45@
+0 @R37@ INDI 
+1 NAME Edward I Longshanks
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 37
+1 BIRT 
+2 DATE 17 JUN 1239
+2 PLAC Palace, Westminster
+2 QUAY 2
+1 DEAT 
+2 DATE 8 JUL 1307
+2 PLAC Burgh-on-the, -Sands, near Carlisle
+2 QUAY 2
+1 MISC Crowned
+2 DATE 19 AUG 1274
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1307
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1272
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1307
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F45@
+1 FAMS @F46@
+1 FAMS @F48@
+0 @R38@ INDI 
+1 NAME Edward II
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 38
+1 BIRT 
+2 DATE 25 APR 1284
+2 PLAC Castle, Caernarvon
+2 QUAY 2
+1 DEAT 
+2 DATE 21 SEP 1327
+2 PLAC Castle, Berkely
+2 QUAY 2
+1 MISC Crowned
+2 DATE 24 FEB 1308
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1327
+2 PLAC Cathedral, Gloucestor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1307
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1327
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F46@
+1 FAMS @F49@
+0 @R39@ INDI 
+1 NAME Edward III
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 39
+1 BIRT 
+2 DATE 13 NOV 1312
+2 PLAC Castle, Windsor
+2 QUAY 2
+1 DEAT 
+2 DATE 21 JUN 1377
+2 PLAC Palace, Sheen, Surrey
+2 QUAY 2
+1 MISC Crowned
+2 DATE 2 FEB 1327
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1377
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1327
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1377
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F49@
+1 FAMS @F51@
+0 @R40@ INDI 
+1 NAME Edward of Woodstock
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 40
+1 BIRT 
+2 DATE 15 JUN 1330
+2 PLAC Woodstock
+2 QUAY 2
+1 DEAT 
+2 DATE 8 JUN 1376
+2 PLAC Palace, Westminster
+2 QUAY 2
+1 MISC Crowned
+2 DATE 12 MAY 1343
+2 PLAC Parliament
+2 QUAY 2
+1 BURI 
+2 DATE 1376
+2 PLAC Cathedral, Canterbury
+2 QUAY 2
+1 OCCU Prince of Wales
+1 FAMC @F51@
+1 FAMS @F54@
+1 NOTE Known to poesterity as the Black Prince
+0 @R41@ INDI 
+1 NAME Richard II
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 41
+1 BIRT 
+2 DATE 6 JAN 1367
+2 PLAC Bordeaux
+2 QUAY 2
+1 DEAT 
+2 DATE 6 JAN 1400
+2 PLAC Castle, Pontefract, Yorkshire
+2 QUAY 2
+1 MISC Crowned
+2 DATE 16 JUL 1377
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1400
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1377
+2 QUAY 2
+1 MISC End Reign
+2 DATE 29 SEP 1399
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F54@
+1 FAMS @F62@
+1 FAMS @F64@
+0 @R42@ INDI 
+1 NAME John of Gaunt
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 42
+1 BIRT 
+2 DATE MAR 1340
+2 PLAC Abbey, of St. Bavon, Ghent
+2 QUAY 2
+1 DEAT 
+2 DATE 21 OCT 1425
+2 PLAC Castle, Raby
+2 QUAY 2
+1 MISC Crowned
+2 DATE 20 NOV 1342
+2 QUAY 2
+1 BURI 
+2 DATE 1425
+2 QUAY 0
+1 OCCU Earl of Richmond
+1 FAMC @F51@
+1 FAMS @F55@
+1 FAMS @F57@
+1 FAMS @F59@
+0 @R43@ INDI 
+1 NAME Henry IV
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 43
+1 BIRT 
+2 DATE 3 APR 1367
+2 PLAC Castle, Bolingbroke, Lincs
+2 QUAY 2
+1 DEAT 
+2 DATE 20 MAR 1413
+2 PLAC Abbey, Westminster, JerusalemChamber
+2 QUAY 2
+1 MISC Crowned
+2 DATE 13 OCT 1399
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1413
+2 PLAC Cathedral, Canterbury
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1399
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1413
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F55@
+1 FAMS @F66@
+1 FAMS @F67@
+0 @R44@ INDI 
+1 NAME Henry V
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 44
+1 BIRT 
+2 DATE 16 SEP 1387
+2 PLAC Monmouth
+2 QUAY 2
+1 DEAT 
+2 DATE 31 AUG 1422
+2 PLAC Bois deVincennes
+2 QUAY 2
+1 MISC Crowned
+2 DATE 9 APR 1413
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1422
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1413
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1422
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F66@
+1 FAMS @F69@
+0 @R45@ INDI 
+1 NAME Henry VI
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 45
+1 BIRT 
+2 DATE 6 DEC 1421
+2 PLAC Castle, Windsor
+2 QUAY 2
+1 DEAT 
+2 DATE 21 MAY 1471
+2 PLAC Tower of London
+2 QUAY 2
+1 MISC Crowned
+2 DATE 6 NOV 1429
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1471
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1422
+2 QUAY 2
+1 MISC End Reign
+2 DATE MAR 1461
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F69@
+1 FAMS @F71@
+0 @R46@ INDI 
+1 NAME Edward IV
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 46
+1 BIRT 
+2 DATE 28 APR 1442
+2 PLAC Rouen
+2 QUAY 2
+1 DEAT 
+2 DATE 9 APR 1483
+2 PLAC Palace, Westminster
+2 QUAY 2
+1 MISC Crowned
+2 DATE 29 JUN 1461
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1483
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1461
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1483
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F82@
+1 FAMS @F84@
+0 @R47@ INDI 
+1 NAME Richard Plantagenet
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 47
+1 BIRT 
+2 DATE 20 SEP 1411
+2 QUAY 2
+1 DEAT 
+2 DATE 31 DEC 1460
+2 PLAC Wakefield
+2 QUAY 2
+1 BURI 
+2 DATE 1460
+2 PLAC Fotheringay
+2 QUAY 2
+1 OCCU Duke of York
+1 FAMC @F79@
+1 FAMS @F82@
+0 @R48@ INDI 
+1 NAME Richard
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 48
+1 BIRT 
+2 DATE SEP 1376
+2 PLAC Castle, Conisborough, Yorks
+2 QUAY 2
+1 DEAT 
+2 DATE 6 AUG 1415
+2 PLAC Southampton, Green
+2 QUAY 2
+1 CHR 
+2 QUAY 3
+1 BURI 
+2 DATE 1415
+2 PLAC Chapel, of God's House, Southampton
+2 QUAY 2
+1 ATTR Behead
+1 OCCU Earl of Cambridg
+1 FAMC @F60@
+1 FAMS @F79@
+1 FAMS @F81@
+0 @R49@ INDI 
+1 NAME Edmund of Langley
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 49
+1 BIRT 
+2 DATE 5 JUN 1341
+2 PLAC Kings Langley, Herts
+2 QUAY 2
+1 DEAT 
+2 DATE 1 AUG 1402
+2 PLAC Kings Langley, Herts
+2 QUAY 2
+1 MISC Crowned
+2 DATE 6 AUG 1385
+2 QUAY 2
+1 OCCU Duke of York
+1 FAMC @F51@
+1 FAMS @F60@
+1 FAMS @F61@
+0 @R50@ INDI 
+1 NAME Edward V
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 50
+1 BIRT 
+2 DATE 4 NOV 1470
+2 PLAC Westminster
+2 QUAY 2
+1 DEAT 
+2 DATE JUL 1483
+2 PLAC Tower of London
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 9 APR 1483
+2 QUAY 2
+1 MISC End Reign
+2 DATE 25 JUN 1483
+2 PLAC Parliament
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F84@
+0 @R51@ INDI 
+1 NAME Richard III
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 51
+1 BIRT 
+2 DATE 2 OCT 1452
+2 PLAC Castle, Fotheringay
+2 QUAY 2
+1 DEAT 
+2 DATE 22 AUG 1485
+2 PLAC Bosworth Field
+2 QUAY 2
+1 MISC Crowned
+2 DATE 6 JUL 1483
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1485
+2 PLAC Abbey, Grey Friars, Leicester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 26 JUN 1483
+2 QUAY 2
+1 MISC End Reign
+2 DATE AUG 1485
+2 QUAY 2
+1 OCCU King of England
+1 FAMS @F74@
+1 FAMC @F82@
+0 @R52@ INDI 
+1 NAME John/Beaufort
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 52
+1 BIRT 
+2 DATE ABT 1373
+2 PLAC Castle, Beaufort, Anjou
+2 QUAY 2
+1 DEAT 
+2 DATE 21 APR 1410
+2 QUAY 2
+1 MISC Crowned
+2 DATE 10 FEB 1397
+2 QUAY 2
+1 BURI 
+2 DATE 1410
+2 PLAC Cathedral, Canterbury
+2 QUAY 2
+1 OCCU Earl of Somerset
+1 FAMC @F59@
+1 FAMS @F75@
+0 @R53@ INDI 
+1 NAME John/Beaufort
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 53
+1 BIRT 
+2 DATE 25 MAR 1404
+2 QUAY 2
+1 DEAT 
+2 DATE 27 MAY 1444
+2 QUAY 2
+1 MISC Crowned
+2 DATE 28 AUG 1443
+2 QUAY 2
+1 BURI 
+2 DATE 1444
+2 PLAC Minster, Wimborne, Dorset
+2 QUAY 2
+1 OCCU Duke of Somerset
+1 FAMC @F75@
+1 FAMS @F76@
+0 @R54@ INDI 
+1 NAME Margaret/Beaufort
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 54
+1 BIRT 
+2 DATE APR 1441
+2 PLAC Bletso, Beds
+2 QUAY 2
+1 DEAT 
+2 DATE 5 JUL 1509
+2 PLAC Palace, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1509
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMS @F6@
+1 FAMC @F76@
+1 FAMS @F77@
+1 FAMS @F78@
+0 @R55@ INDI 
+1 NAME Edmund/Tudor
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 55
+1 BIRT 
+2 DATE ABT 1430
+2 PLAC Hadham, Beds
+2 QUAY 2
+1 DEAT 
+2 DATE 3 NOV 1456
+2 PLAC Carmarthen
+2 QUAY 2
+1 BURI 
+2 DATE 1456
+2 PLAC Cathedral, St. Davids
+2 QUAY 2
+1 OCCU Earl of Richmond
+1 FAMS @F6@
+1 FAMC @F70@
+0 @R56@ INDI 
+1 NAME Henry VII/Tudor
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 56
+1 BIRT 
+2 DATE 28 JAN 1457
+2 PLAC Castle, Pembroke
+2 QUAY 2
+1 DEAT 
+2 DATE 21 APR 1509
+2 PLAC Palace, Sheen, Surrey
+2 QUAY 2
+1 MISC Crowned
+2 DATE 30 OCT 1485
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1509
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 22 AUG 1485
+2 PLAC Bosworth Field
+2 QUAY 2
+1 MISC End Reign
+2 DATE APR 1509
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F6@
+1 FAMS @F86@
+0 @R57@ INDI 
+1 NAME Henry VIII/Tudor
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 57
+1 BIRT 
+2 DATE 28 JAN 1491
+2 PLAC Palace, Greenwich
+2 QUAY 2
+1 DEAT 
+2 DATE 28 JAN 1547
+2 QUAY 2
+1 MISC Crowned
+2 DATE 24 JUN 1509
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1547
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1509
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1547
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F86@
+1 FAMS @F87@
+1 FAMS @F89@
+1 FAMS @F91@
+1 FAMS @F92@
+1 FAMS @F94@
+1 FAMS @F95@
+0 @R58@ INDI 
+1 NAME Edward VI/Tudor
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 58
+1 BIRT 
+2 DATE 12 OCT 1537
+2 PLAC Palace, Hampton Court
+2 QUAY 2
+1 DEAT 
+2 DATE 6 JUL 1553
+2 PLAC Greenwich
+2 QUAY 2
+1 MISC Crowned
+2 DATE 20 FEB 1547
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 DATE 1553
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1547
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1553
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F91@
+0 @R59@ INDI 
+1 NAME Jane/Grey
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 59
+1 BIRT 
+2 DATE OCT 1537
+2 PLAC Bradgate, Leics
+2 QUAY 2
+1 DEAT 
+2 DATE 12 FEB 1554
+2 PLAC Tower Green
+2 QUAY 2
+1 BURI 
+2 DATE 1554
+2 PLAC Chapel, of St. Peter, ad Vincula, in the Tower
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 10 JUL 1553
+2 QUAY 2
+1 MISC End Reign
+2 DATE 19 JUL 1553
+2 QUAY 2
+1 ATTR Behead
+1 OCCU Queen of England
+1 FAMS @F100@
+1 FAMC @F105@
+0 @R60@ INDI 
+1 NAME Frances/Brandon
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 60
+1 BIRT 
+2 DATE 16 JUL 1517
+2 PLAC Hatfield, Herts
+2 QUAY 2
+1 DEAT 
+2 DATE 11 NOV 1559
+2 PLAC Charterhouse, London
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F104@
+1 FAMS @F105@
+1 FAMS @F106@
+0 @R61@ INDI 
+1 NAME Mary/Tudor
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 61
+1 BIRT 
+2 DATE 18 MAR 1496
+2 PLAC Palace, Richmond
+2 QUAY 2
+1 DEAT 
+2 DATE 24 JUN 1533
+2 QUAY 2
+1 BURI 
+2 PLAC Church, St. Mary's, Bury
+2 QUAY 2
+1 FAMC @F86@
+1 FAMS @F103@
+1 FAMS @F104@
+0 @R62@ INDI 
+1 NAME Margaret/Tudor
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 62
+1 BIRT 
+2 DATE 29 NOV 1489
+2 PLAC Palace, Westminster
+2 QUAY 2
+1 DEAT 
+2 DATE 24 NOV 1541
+2 PLAC Castle, Methven
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, St. John's, Perth
+2 QUAY 2
+1 FAMS @F19@
+1 FAMS @F22@
+1 FAMC @F86@
+0 @R63@ INDI 
+1 NAME Geoffrey ,Count of Conversano
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 63
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Convers
+1 FAMS @F177@
+0 @R64@ INDI 
+1 NAME Sibylla
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 64
+1 DEAT 
+2 DATE FEB 1103
+2 PLAC Rouen
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Caen
+2 QUAY 2
+1 FAMS @F7@
+1 FAMC @F177@
+0 @R65@ INDI 
+1 NAME William Clito, Count of Flanders
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 65
+1 BIRT 
+2 DATE 1101
+2 QUAY 2
+1 DEAT 
+2 DATE 27 JUL 1128
+2 PLAC Alost, Abbey, St. Berin, St. Omer
+2 QUAY 2
+1 BURI 
+2 PLAC Alost, Abbey, St. Berin, St. Omer
+2 QUAY 2
+1 OCCU Count of Flander
+1 FAMC @F7@
+1 FAMS @F8@
+1 FAMS @F11@
+0 @R66@ INDI 
+1 NAME Henry
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 66
+1 BIRT 
+2 DATE 1102
+2 QUAY 2
+1 DEAT 
+2 PLAC New Forest
+2 QUAY 2
+1 FAMC @F7@
+0 @R67@ INDI 
+1 NAME Sibylla
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 67
+1 BIRT 
+2 DATE 1112
+2 QUAY 2
+1 DEAT 
+2 DATE 1165
+2 PLAC Abbey, St. Lazarus, Bethlehem
+2 QUAY 2
+1 FAMS @F8@
+1 FAMS @F9@
+1 FAMC @F10@
+0 @R68@ INDI 
+1 NAME Thierry of Alsace, Count of_Flanders
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 68
+1 DEAT 
+2 DATE 1168
+2 QUAY 2
+1 OCCU Count of Flander
+1 FAMS @F9@
+0 @R69@ INDI 
+1 NAME Fulk (Foulques) V
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 69
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Jerusalm
+1 FAMS @F10@
+0 @R70@ INDI 
+1 NAME Heremburge
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 70
+1 DEAT 
+2 QUAY 3
+1 FAMS @F10@
+1 FAMC @F178@
+0 @R71@ INDI 
+1 NAME Helie I ,Count of Maine
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 71
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Maine
+1 FAMS @F178@
+0 @R72@ INDI 
+1 NAME Joan (Giovanna)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 72
+1 DEAT 
+2 QUAY 3
+1 FAMS @F11@
+0 @R73@ INDI 
+1 NAME Baldwin (Baudoin) V
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 73
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Flander
+1 FAMS @F13@
+0 @R74@ INDI 
+1 NAME Adele
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 74
+1 DEAT 
+2 QUAY 3
+1 FAMS @F12@
+1 FAMS @F13@
+1 FAMC @F179@
+0 @R75@ INDI 
+1 NAME Richard III ,Duke of Normandy
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 75
+1 DEAT 
+2 DATE 6 AUG 1028
+2 QUAY 2
+1 OCCU Duke of Normandy
+1 FAMS @F12@
+1 FAMC @F136@
+0 @R76@ INDI 
+1 NAME Robert II , The Pious
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 76
+1 DEAT 
+2 QUAY 3
+1 OCCU King of France
+1 FAMS @F179@
+0 @R77@ INDI 
+1 NAME Richard
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 77
+1 BIRT 
+2 DATE ABT 1056
+2 PLAC Normandy
+2 QUAY 2
+1 DEAT 
+2 DATE 1081
+2 PLAC New Forest
+2 QUAY 1
+1 BURI 
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 FAMC @F0@
+0 @R78@ INDI 
+1 NAME Thibaut III
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 78
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Blois
+1 FAMS @F14@
+0 @R79@ INDI 
+1 NAME Alix
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 79
+1 DEAT 
+2 QUAY 3
+1 FAMS @F14@
+1 FAMC @F180@
+0 @R80@ INDI 
+1 NAME Raoul III
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 80
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Crepy
+1 FAMS @F180@
+1 NOTE 
+2 CONT     Count of Crepy and Valois
+0 @R81@ INDI 
+1 NAME Agnes
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 81
+1 DEAT 
+2 QUAY 3
+1 FAMC @F15@
+1 FAMS @F16@
+0 @R82@ INDI 
+1 NAME Gilon , Lord of Sully
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 82
+1 DEAT 
+2 QUAY 3
+1 OCCU Lord of Sully
+1 FAMS @F15@
+0 @R83@ INDI 
+1 NAME Eldeburge
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 83
+1 DEAT 
+2 QUAY 3
+1 FAMS @F15@
+1 NOTE 
+2 CONT     Sister and heiress of Etienne, Viscount of Bourges.
+0 @R84@ INDI 
+1 NAME Matilda
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 84
+1 DEAT 
+2 QUAY 3
+1 FAMS @F17@
+1 FAMC @F18@
+0 @R85@ INDI 
+1 NAME Engelbert II
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 85
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Carinthi
+1 FAMS @F18@
+0 @R86@ INDI 
+1 NAME Uta
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 86
+1 DEAT 
+2 QUAY 3
+1 FAMS @F18@
+1 FAMC @F181@
+0 @R87@ INDI 
+1 NAME Udalrich ,Count of Passau
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 87
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Passau
+1 FAMS @F181@
+0 @R88@ INDI 
+1 NAME Mary I/Tudor
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 88
+1 BIRT 
+2 DATE 18 FEB 1516
+2 PLAC Palace, Greenwich
+2 QUAY 2
+1 DEAT 
+2 DATE 17 NOV 1558
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 MISC Crowned
+2 DATE 1 OCT 1553
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 20 JUL 1553
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1558
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMC @F87@
+1 FAMS @F101@
+0 @R89@ INDI 
+1 NAME Elizabeth I/Tudor
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 89
+1 BIRT 
+2 DATE 7 SEP 1533
+2 PLAC Palace, Greenwich
+2 QUAY 2
+1 DEAT 
+2 DATE 24 MAR 1602/1603
+2 PLAC Palace, Richmond
+2 QUAY 2
+1 MISC Crowned
+2 DATE 15 JAN 1559
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1558
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1602/1603
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMC @F89@
+0 @R90@ INDI 
+1 NAME James IV
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 90
+1 DEAT 
+2 DATE 9 SEP 1513
+2 PLAC Battle, of Flodden
+2 QUAY 2
+1 OCCU King of Scots
+1 FAMS @F19@
+0 @R91@ INDI 
+1 NAME James V
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 91
+1 BIRT 
+2 DATE 10 APR 1512
+2 QUAY 2
+1 DEAT 
+2 DATE 14 DEC 1542
+2 QUAY 2
+1 OCCU King of Scots
+1 FAMC @F19@
+1 FAMS @F20@
+0 @R92@ INDI 
+1 NAME Marie de Lorraine
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 92
+1 DEAT 
+2 DATE 10 JUN 1560
+2 QUAY 2
+1 FAMS @F20@
+1 NOTE 
+2 CONT     Widow of Louis II Duke of Longueville, and eldest daughter of Claude I de
+2 CONT Lorraine, Duke of Guise.
+0 @R93@ INDI 
+1 NAME Mary ,Queen of Scots
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 93
+1 BIRT 
+2 DATE 4 DEC 1542
+2 QUAY 2
+1 DEAT 
+2 DATE 8 FEB 1586/1587
+2 PLAC Castle, Fotheringay
+2 QUAY 2
+1 OCCU Queen of Scots
+1 FAMC @F20@
+1 FAMS @F21@
+0 @R94@ INDI 
+1 NAME Henry/Stuart/, Lord Darnley
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 94
+1 BIRT 
+2 DATE 7 DEC 1545
+2 QUAY 2
+1 DEAT 
+2 DATE 10 FEB 1567
+2 QUAY 2
+1 OCCU Duke of Albany
+1 FAMS @F21@
+1 FAMC @F23@
+0 @R95@ INDI 
+1 NAME Archibald/Douglas
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 95
+1 DEAT 
+2 DATE 1557
+2 QUAY 2
+1 OCCU Earl of Angus
+1 FAMS @F22@
+0 @R96@ INDI 
+1 NAME Margaret/Douglas
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 96
+1 BIRT 
+2 DATE 7 OCT 1515
+2 PLAC Castle, Harbottle, Northumberland
+2 QUAY 2
+1 DEAT 
+2 DATE 9 MAR 1578
+2 PLAC Hackney, Middlesex
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F22@
+1 FAMS @F23@
+0 @R97@ INDI 
+1 NAME Matthew/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 97
+1 DEAT 
+2 DATE 4 SEP 1571
+2 QUAY 2
+1 OCCU Earl of Lennox
+1 FAMS @F23@
+0 @R98@ INDI 
+1 NAME James I/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 98
+1 BIRT 
+2 DATE 19 JUN 1566
+2 PLAC Castle, Edinburgh
+2 QUAY 2
+1 DEAT 
+2 DATE 27 MAR 1625
+2 PLAC Theobald's Park, Herts.
+2 QUAY 2
+1 MISC Crowned
+2 DATE 25 JUL 1603
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1602/1603
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1624/1625
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F21@
+1 FAMS @F25@
+0 @R99@ INDI 
+1 NAME Anna of Denmark
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 99
+1 BIRT 
+2 DATE 14 OCT 1574
+2 PLAC Castle, Skanderborg, Jutland
+2 QUAY 2
+1 DEAT 
+2 DATE 4 MAR 1618/1619
+2 PLAC Palace, Hampton Court
+2 QUAY 2
+1 MISC Crowned
+2 DATE 25 JUL 1603
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMC @F24@
+1 FAMS @F25@
+0 @R100@ INDI 
+1 NAME Frederik II ,King of Denmark
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 100
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Denmark
+1 FAMS @F24@
+0 @R101@ INDI 
+1 NAME Sophie
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 101
+1 DEAT 
+2 QUAY 3
+1 FAMS @F24@
+1 FAMC @F182@
+0 @R102@ INDI 
+1 NAME Ulrich III
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 102
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Meklen
+1 FAMS @F182@
+0 @R103@ INDI 
+1 NAME Henry Frederick
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 103
+1 BIRT 
+2 DATE 19 FEB 1593/1594
+2 PLAC Castle, Stirling
+2 QUAY 2
+1 DEAT 
+2 DATE 6 NOV 1612
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 MISC Crowned
+2 DATE 4 JUN 1610
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Prince of Wales
+1 FAMC @F25@
+0 @R104@ INDI 
+1 NAME Charles I/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 104
+1 BIRT 
+2 DATE 19 NOV 1600
+2 PLAC Dunfermline
+2 QUAY 2
+1 DEAT 
+2 DATE 30 JAN 1648/1649
+2 PLAC Palace, Whitehall
+2 QUAY 2
+1 MISC Crowned
+2 DATE 2 FEB 1625/1626
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1624/1625
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1648/1649
+2 QUAY 2
+1 ATTR Behead
+1 OCCU King of England
+1 FAMC @F25@
+1 FAMS @F30@
+0 @R105@ INDI 
+1 NAME Robert/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 105
+1 BIRT 
+2 DATE 18 JAN 1601/1602
+2 PLAC Dunfermline
+2 QUAY 2
+1 DEAT 
+2 DATE 27 MAY 1602
+2 PLAC Dunfermline
+2 QUAY 2
+1 BURI 
+2 PLAC Dunfermline
+2 QUAY 2
+1 OCCU Earl of Carrick
+1 FAMC @F25@
+0 @R106@ INDI 
+1 SEX M
+1 STIL 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 106
+1 BIRT 
+2 DATE MAY 1603
+2 PLAC Stirling
+2 QUAY 2
+1 DEAT 
+2 DATE MAY 1603
+2 PLAC Stirling
+2 QUAY 2
+1 FAMC @F25@
+0 @R107@ INDI 
+1 NAME Elizabeth/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 107
+1 BIRT 
+2 DATE 19 AUG 1596
+2 PLAC Dunfermline
+2 QUAY 2
+1 DEAT 
+2 DATE 13 FEB 1661/1662
+2 PLAC Leicester House, London
+2 QUAY 2
+1 MISC Crowned
+2 DATE 6 NOV 1619
+2 PLAC Bohemia
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1619/1620
+2 PLAC Bohemia
+2 QUAY 2
+1 OCCU Queen of Bohemia
+1 FAMC @F25@
+1 FAMS @F27@
+0 @R108@ INDI 
+1 NAME Margaret/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 108
+1 BIRT 
+2 DATE 24 DEC 1598
+2 PLAC Palace, Dalkeith
+2 QUAY 2
+1 DEAT 
+2 DATE MAR 1599/1600
+2 PLAC Linlithgow
+2 QUAY 2
+1 FAMC @F25@
+0 @R109@ INDI 
+1 NAME Mary/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 109
+1 BIRT 
+2 DATE 8 APR 1605
+2 PLAC Palace, Greenwich
+2 QUAY 2
+1 DEAT 
+2 DATE 16 SEP 1607
+2 PLAC Stanwell Park, Middlesex
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F25@
+0 @R110@ INDI 
+1 NAME Sophia/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 110
+1 BIRT 
+2 DATE 22 JUN 1606
+2 PLAC Palace, Greenwich
+2 QUAY 2
+1 DEAT 
+2 DATE 23 JUN 1606
+2 PLAC Palace, Greenwich
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F25@
+0 @R111@ INDI 
+1 NAME Friedrich V
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 111
+1 BIRT 
+2 DATE 16 AUG 1596
+2 PLAC Amberg
+2 QUAY 2
+1 DEAT 
+2 DATE 29 NOV 1632
+2 PLAC Mentz
+2 QUAY 2
+1 MISC Crowned
+2 DATE 3 NOV 1619
+2 PLAC Prague
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1619/1620
+2 QUAY 2
+1 OCCU King of Bohemia
+1 FAMC @F26@
+1 FAMS @F27@
+0 @R112@ INDI 
+1 NAME Friedrich IV
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 112
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Bavaria
+1 FAMS @F26@
+0 @R113@ INDI 
+1 NAME Louise Juliana
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 113
+1 DEAT 
+2 QUAY 3
+1 FAMS @F26@
+1 FAMC @F183@
+0 @R114@ INDI 
+1 NAME Willem I , The Silent
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 114
+1 DEAT 
+2 QUAY 3
+1 OCCU Prince of Orange
+1 FAMS @F183@
+0 @R115@ INDI 
+1 NAME Sophia
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 115
+1 BIRT 
+2 DATE 14 OCT 1630
+2 PLAC The Hague
+2 QUAY 2
+1 DEAT 
+2 DATE 8 JUN 1714
+2 PLAC Herrenhausen
+2 QUAY 2
+1 BURI 
+2 PLAC Hanover
+2 QUAY 2
+1 OCCU Heiress Presumpt
+1 FAMC @F27@
+1 FAMS @F28@
+0 @R116@ INDI 
+1 NAME Ernst/August
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 28 JAN 1989
+1 NUMB 116
+1 BIRT 
+2 DATE 20 NOV 1629
+2 PLAC Herzberg
+2 QUAY 2
+1 DEAT 
+2 DATE 23 JAN 1697/1698
+2 PLAC Herrenhausen
+2 QUAY 2
+1 BURI 
+2 PLAC Hanover
+2 QUAY 2
+1 OCCU Duke of Hanover
+1 FAMS @F28@
+1 FAMC @F184@
+0 @R117@ INDI 
+1 NAME Sophia Dorothea
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 263
+1 BIRT 
+2 DATE 5 SEP 1666
+2 PLAC Zelle
+2 QUAY 2
+1 DEAT 
+2 DATE 2 NOV 1726
+2 PLAC Ahlden
+2 QUAY 2
+1 BURI 
+2 PLAC Zelle
+2 QUAY 2
+1 FAMS @F107@
+1 FAMC @F108@
+0 @R118@ INDI 
+1 NAME Henrietta Maria
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 118
+1 BIRT 
+2 DATE 25 NOV 1609
+2 PLAC Louvre, Paris
+2 QUAY 2
+1 DEAT 
+2 DATE 31 AUG 1669
+2 PLAC Colombe, near Paris
+2 QUAY 2
+1 BURI 
+2 PLAC St. Denis
+2 QUAY 2
+1 FAMC @F29@
+0 @R119@ INDI 
+1 NAME Henri IV ,King of France
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 119
+1 DEAT 
+2 QUAY 3
+1 OCCU King of France
+1 FAMS @F29@
+0 @R120@ INDI 
+1 NAME Marie dei Medici
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 120
+1 DEAT 
+2 QUAY 3
+1 FAMS @F29@
+1 FAMS @F30@
+1 FAMC @F185@
+0 @R121@ INDI 
+1 NAME Francesco I dei Medici
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 121
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Tuscany
+1 FAMS @F185@
+0 @R122@ INDI 
+1 NAME Charles II/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 122
+1 BIRT 
+2 DATE 29 MAY 1630
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 6 FEB 1684/1685
+2 PLAC Palace, Whitehall
+2 QUAY 2
+1 MISC Crowned
+2 DATE 23 APR 1661
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 29 MAY 1660
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1684/1685
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F30@
+1 NOTE 
+2 CONT     Duke of Cornwall and Duke of Rothsay, etc. at birth, declared (but never
+2 CONT crowned) Prince of Wales 1638, crowned King of Scots at Scone 1 Jan, 1651, lived
+2 CONT in exile in France, Germany and Holland 1651-60.  Crowned by William Juxon,
+2 CONT Archbishop of Canterbury.
+0 @R123@ INDI 
+1 NAME James II/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 123
+1 BIRT 
+2 DATE 14 OCT 1633
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 6 SEP 1701
+2 PLAC St. Germain, France
+2 QUAY 2
+1 MISC Crowned
+2 DATE 23 APR 1685
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC St. Germain, France
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1684/1685
+2 QUAY 2
+1 MISC End Reign
+2 DATE 11 DEC 1688
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F30@
+1 FAMS @F33@
+0 @R124@ INDI 
+1 NAME Charles James/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 124
+1 BIRT 
+2 DATE 13 MAY 1629
+2 PLAC Palace, Greenwich
+2 QUAY 2
+1 DEAT 
+2 DATE 13 MAY 1629
+2 PLAC Palace, Greenwich
+2 QUAY 2
+1 OCCU Duke of Cornwall
+1 FAMC @F30@
+0 @R125@ INDI 
+1 NAME Mary/Stuart/, Princess Royal
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 125
+1 BIRT 
+2 DATE 4 NOV 1631
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 24 DEC 1660
+2 PLAC Palace, Whitehall
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F30@
+1 FAMS @F36@
+0 @R126@ INDI 
+1 NAME Elizabeth/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 126
+1 BIRT 
+2 DATE 29 DEC 1635
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 8 SEP 1650
+2 PLAC Castle, Carisbrooke, Isle of Wight
+2 QUAY 2
+1 BURI 
+2 PLAC Church, St. Thomas's, Isle of Wight
+2 QUAY 2
+1 FAMC @F30@
+0 @R127@ INDI 
+1 NAME Henry/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 127
+1 BIRT 
+2 DATE 8 JUL 1640
+2 PLAC Oatlands, Surrey
+2 QUAY 2
+1 DEAT 
+2 DATE 13 SEP 1660
+2 PLAC Palace, Whitehall
+2 QUAY 2
+1 MISC Crowned
+2 DATE 13 MAY 1644
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Earl of Cambridg
+1 FAMC @F30@
+0 @R128@ INDI 
+1 NAME Anne/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 128
+1 BIRT 
+2 DATE 17 MAR 1636/1637
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 5 NOV 1640
+2 PLAC Palace, Richmond
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F30@
+0 @R129@ INDI 
+1 NAME Catherine/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 129
+1 BIRT 
+2 DATE 29 JUN 1639
+2 PLAC Palace, Whitehall
+2 QUAY 2
+1 DEAT 
+2 DATE 29 JUN 1639
+2 PLAC Palace, Whitehall
+2 QUAY 2
+1 FAMC @F30@
+0 @R130@ INDI 
+1 NAME Henrietta Anne/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 130
+1 BIRT 
+2 DATE 16 JUN 1644
+2 PLAC Bedford House, Exeter
+2 QUAY 2
+1 DEAT 
+2 DATE 30 JUN 1670
+2 PLAC St. Cloud
+2 QUAY 2
+1 BURI 
+2 PLAC St. Denis
+2 QUAY 2
+1 FAMC @F30@
+1 FAMS @F31@
+1 NOTE 
+2 CONT     Married Phillipe who was her 1st cousin.  She had one son and three
+2 CONT daughters.  The representation of the Royal Houses of Stuart, Tudor, Plantagenet
+2 CONT and Normandy is vested in the descendants of the Princess Henrietta, Duchess of
+2 CONT Orleans, but being Roman Catholics they were excluded from the succession to the
+2 CONT throne by the Act of Settlement 1788(?).
+0 @R131@ INDI 
+1 NAME Phillipe , Duke of Orleans
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 131
+1 DEAT 
+2 DATE 9 JUN 1701
+2 QUAY 2
+1 OCCU Duke of Orleans
+1 FAMS @F31@
+1 FAMC @F186@
+0 @R132@ INDI 
+1 NAME Louis XIII
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 132
+1 DEAT 
+2 QUAY 3
+1 OCCU King of France
+1 FAMS @F186@
+0 @R133@ INDI 
+1 NAME Catherine Henrietta
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 133
+1 BIRT 
+2 DATE 25 NOV 1638
+2 PLAC Vila Vicosa, Lisbon
+2 QUAY 2
+1 DEAT 
+2 DATE 31 DEC 1705
+2 PLAC Palace, Bemposta, Lisbon
+2 QUAY 2
+1 BURI 
+2 PLAC Belem
+2 QUAY 2
+1 FAMC @F32@
+0 @R134@ INDI 
+1 NAME Joao IV
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 134
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Portugal
+1 FAMS @F32@
+0 @R135@ INDI 
+1 NAME Luisa Maria/de Guzman
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JAN 1989
+1 NUMB 135
+1 DEAT 
+2 QUAY 3
+1 FAMS @F32@
+1 FAMC @F187@
+0 @R136@ INDI 
+1 NAME Juan Manuel Domingo/de Guzman
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JAN 1989
+1 NUMB 136
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Medina
+1 FAMS @F187@
+0 @R137@ INDI 
+1 NAME Anne/Hyde
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 137
+1 BIRT 
+2 DATE 12 MAR 1637/1638
+2 PLAC Cranbourne Lodge, nr Windsor
+2 QUAY 2
+1 DEAT 
+2 DATE 31 MAR 1671
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F33@
+1 FAMC @F188@
+0 @R138@ INDI 
+1 NAME Edward/Hyde
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JAN 1989
+1 NUMB 138
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Clarendn
+1 FAMS @F188@
+0 @R139@ INDI 
+1 NAME Charles/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 139
+1 BIRT 
+2 DATE 22 OCT 1660
+2 PLAC House, Worcester, London
+2 QUAY 2
+1 DEAT 
+2 DATE 5 MAY 1661
+2 PLAC Palace, Whitehall
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F33@
+0 @R140@ INDI 
+1 NAME James/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 140
+1 BIRT 
+2 DATE 12 JUL 1663
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 20 JUN 1667
+2 PLAC Palace, Richmond
+2 QUAY 2
+1 MISC Crowned
+2 DATE 23 AUG 1664
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Earl of Cambridg
+1 FAMC @F33@
+0 @R141@ INDI 
+1 NAME Charles/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 141
+1 BIRT 
+2 DATE 4 JUL 1666
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 22 MAY 1667
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F33@
+0 @R142@ INDI 
+1 NAME Edgar/Stuart
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 142
+1 BIRT 
+2 DATE 14 SEP 1667
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 8 JUN 1671
+2 PLAC Palace, Richmond
+2 QUAY 2
+1 MISC Crowned
+2 DATE 7 OCT 1667
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Earl of Cambridg
+1 FAMC @F33@
+0 @R143@ INDI 
+1 NAME Mary II/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 143
+1 BIRT 
+2 DATE 30 APR 1662
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 28 DEC 1694
+2 PLAC Palace, Kensington
+2 QUAY 2
+1 MISC Crowned
+2 DATE 11 APR 1689
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 13 FEB 1688/1689
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1693/1694
+2 QUAY 3
+1 OCCU Queen of England
+1 FAMC @F33@
+1 FAMS @F35@
+0 @R144@ INDI 
+1 NAME Anne/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 144
+1 BIRT 
+2 DATE 6 FEB 1664/1665
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 1 AUG 1714
+2 PLAC Palace, Kensington
+2 QUAY 2
+1 MISC Crowned
+2 DATE 23 APR 1702
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1701/1702
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1713/1714
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMC @F33@
+0 @R145@ INDI 
+1 NAME Henrietta/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 145
+1 BIRT 
+2 DATE 13 JAN 1668/1669
+2 PLAC Palace, Whitehall
+2 QUAY 2
+1 DEAT 
+2 DATE 15 NOV 1669
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F33@
+0 @R146@ INDI 
+1 NAME Catherine/Stuart
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 146
+1 BIRT 
+2 DATE 9 FEB 1670/1671
+2 PLAC Palace, Whitehall
+2 QUAY 2
+1 DEAT 
+2 DATE 5 DEC 1671
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F33@
+0 @R147@ INDI 
+1 NAME Mary Beatrice Eleanora
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 147
+1 BIRT 
+2 DATE 25 SEP 1658
+2 PLAC Modena
+2 QUAY 2
+1 DEAT 
+2 DATE 7 MAY 1718
+2 PLAC St. Germain, France
+2 QUAY 2
+1 MISC Crowned
+2 DATE 23 APR 1685
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chaillot
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMC @F34@
+0 @R148@ INDI 
+1 NAME Alfonso IV d'Este
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 148
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Modena
+1 FAMS @F34@
+0 @R149@ INDI 
+1 NAME Laura/Martinozzi
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 15 JAN 1989
+1 NUMB 149
+1 DEAT 
+2 QUAY 3
+1 FAMS @F34@
+1 FAMC @F189@
+0 @R150@ INDI 
+1 NAME Girolamo/Martinozzi
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 15 JAN 1989
+1 NUMB 150
+1 DEAT 
+2 QUAY 3
+1 OCCU Count
+1 FAMS @F189@
+0 @R151@ INDI 
+1 NAME William III
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 151
+1 BIRT 
+2 DATE 4 NOV 1650
+2 PLAC The Hague
+2 QUAY 2
+1 DEAT 
+2 DATE 8 MAR 1701/1702
+2 PLAC Palace, Kensington
+2 QUAY 2
+1 MISC Crowned
+2 DATE 11 APR 1689
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1688/1689
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1701/1702
+2 QUAY 2
+1 OCCU King of England
+1 FAMS @F35@
+1 FAMC @F36@
+0 @R152@ INDI 
+1 NAME Willem II
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 152
+1 DEAT 
+2 QUAY 3
+1 OCCU Prince of Orange
+1 FAMS @F36@
+0 @R153@ INDI 
+1 NAME George of Denmark
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 153
+1 BIRT 
+2 DATE 2 APR 1653
+2 PLAC Copenhagen
+2 QUAY 2
+1 DEAT 
+2 DATE 28 OCT 1708
+2 PLAC Palace, Kensington
+2 QUAY 2
+1 MISC Crowned
+2 DATE 9 APR 1689
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Duke of Cumberla
+1 FAMC @F37@
+0 @R154@ INDI 
+1 NAME Frederik III
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 154
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Denmark
+1 FAMS @F37@
+0 @R155@ INDI 
+1 NAME Sophie Amalie
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 155
+1 DEAT 
+2 QUAY 3
+1 OCCU Queen of Denmark
+1 FAMS @F37@
+1 FAMC @F184@
+0 @R156@ INDI 
+1 NAME Georg
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 156
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Brunswic
+1 FAMS @F184@
+0 @R157@ INDI 
+1 NAME George I (Louis)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 157
+1 BIRT 
+2 DATE 28 MAY 1660
+2 PLAC Osnabruck
+2 QUAY 2
+1 DEAT 
+2 DATE 11 JUN 1727
+2 PLAC Osnabruck
+2 QUAY 2
+1 MISC Crowned
+2 DATE 20 OCT 1714
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Hanover
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1713/1714
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1726/1727
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F28@
+1 FAMS @F107@
+0 @R158@ INDI 
+1 NAME George II (Augustus)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 158
+1 BIRT 
+2 DATE 30 OCT 1683
+2 PLAC Hanover
+2 QUAY 2
+1 DEAT 
+2 DATE 25 OCT 1760
+2 PLAC Palace, Kensington
+2 QUAY 2
+1 MISC Crowned
+2 DATE 11 OCT 1727
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1726/1727
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1760
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F107@
+1 FAMS @F109@
+0 @R159@ INDI 
+1 NAME Frederick Louis
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 159
+1 BIRT 
+2 DATE 20 JAN 1706/1707
+2 PLAC Hanover
+2 QUAY 2
+1 DEAT 
+2 DATE 8 FEB 1772
+2 PLAC Carlton House, London
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Prince of Wales
+1 FAMC @F109@
+1 FAMS @F111@
+0 @R160@ INDI 
+1 NAME George III (William Frederick)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 160
+1 BIRT 
+2 DATE 4 JUN 1738
+2 PLAC Norfolk House, St.James Square, London
+2 QUAY 2
+1 DEAT 
+2 DATE 29 JAN 1820
+2 PLAC Castle, Windsor
+2 QUAY 2
+1 MISC Crowned
+2 DATE 22 SEP 1761
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1760
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1820
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F111@
+1 FAMS @F113@
+0 @R161@ INDI 
+1 NAME Eleanor of Acquitaine
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 161
+1 BIRT 
+2 DATE 1122
+2 PLAC Bordeaux, or Belin
+2 QUAY 2
+1 DEAT 
+2 DATE 31 MAR 1204
+2 PLAC Fontevrault
+2 QUAY 2
+1 MISC Crowned
+2 DATE 19 DEC 1154
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Fontevrault
+2 QUAY 2
+1 OCCU Duchess-of-Acqui
+1 REFN ELEANOR
+1 FAMS @F38@
+1 FAMS @F39@
+0 @R162@ INDI 
+1 NAME Louis VII ,King of France
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 162
+1 DEAT 
+2 QUAY 3
+1 OCCU King of France
+1 FAMS @F38@
+0 @R163@ INDI 
+1 NAME Isabella
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 163
+1 DEAT 
+2 DATE 18 NOV 1217
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Canterbury
+2 QUAY 2
+1 OCCU Countess of Glou
+1 REFN ISABELLA
+1 FAMS @F40@
+1 FAMC @F41@
+0 @R164@ INDI 
+1 NAME William, Earl of Gloucester
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 164
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Gloucest
+1 FAMS @F41@
+0 @R165@ INDI 
+1 NAME Hawise
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 165
+1 DEAT 
+2 QUAY 3
+1 FAMS @F41@
+0 @R166@ INDI 
+1 NAME Isabella/Taillefer
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 166
+1 DEAT 
+2 DATE 31 MAY 1246
+2 PLAC Fontevrault
+2 QUAY 2
+1 BURI 
+2 PLAC Fontevrault
+2 QUAY 2
+1 FAMS @F42@
+1 FAMC @F43@
+0 @R167@ INDI 
+1 NAME Aymer/Taillefer
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 167
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Angoulm
+1 FAMS @F43@
+0 @R168@ INDI 
+1 NAME Alice
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 168
+1 DEAT 
+2 QUAY 3
+1 FAMS @F43@
+0 @R169@ INDI 
+1 NAME Eleanor/Berenger
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 169
+1 BIRT 
+2 DATE ABT 1217
+2 PLAC Aix-en-Provence
+2 QUAY 2
+1 DEAT 
+2 DATE 24 JUN 1291
+2 PLAC Amesbury, Wilts.
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMC @F44@
+1 FAMS @F45@
+0 @R170@ INDI 
+1 NAME Raymond/Berenger/V
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 170
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Provenc
+1 FAMS @F44@
+0 @R171@ INDI 
+1 NAME Beatrice
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 171
+1 DEAT 
+2 QUAY 3
+1 FAMS @F44@
+0 @R172@ INDI 
+1 NAME Eleanor (Leonor)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 172
+1 BIRT 
+2 DATE ABT 1244
+2 QUAY 2
+1 DEAT 
+2 DATE 28 NOV 1290
+2 PLAC Herdeby, Lincs.
+2 QUAY 2
+1 MISC Crowned
+2 DATE 19 AUG 1274
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F46@
+1 FAMC @F47@
+0 @R173@ INDI 
+1 NAME Fernando III
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 173
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Castile
+1 FAMS @F47@
+0 @R174@ INDI 
+1 NAME Jeanne
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 174
+1 DEAT 
+2 QUAY 3
+1 FAMS @F47@
+0 @R175@ INDI 
+1 NAME Marguerite
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 175
+1 BIRT 
+2 DATE 1279
+2 QUAY 2
+1 DEAT 
+2 DATE 14 FEB 1317
+2 PLAC Castle, Marlborough
+2 QUAY 2
+1 BURI 
+2 PLAC Church, Grey Friars, London
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F48@
+0 @R176@ INDI 
+1 NAME Phillipe III ,King of France
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 176
+1 DEAT 
+2 QUAY 3
+1 OCCU King of France
+0 @R177@ INDI 
+1 NAME Marie
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 177
+1 DEAT 
+2 QUAY 3
+1 OCCU Queen of France
+0 @R178@ INDI 
+1 NAME Isabelle
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 178
+1 BIRT 
+2 DATE 1295
+2 QUAY 2
+1 DEAT 
+2 DATE 22 AUG 1358
+2 PLAC Castle, Hertford
+2 QUAY 2
+1 BURI 
+2 PLAC Church, Grey Friars, London
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F49@
+1 FAMC @F50@
+0 @R179@ INDI 
+1 NAME Phillipe IV ,King of France
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 179
+1 DEAT 
+2 QUAY 3
+1 OCCU King of France
+1 FAMS @F50@
+0 @R180@ INDI 
+1 NAME Jeanne I
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 180
+1 DEAT 
+2 QUAY 3
+1 OCCU Queen of France
+1 FAMS @F50@
+0 @R181@ INDI 
+1 NAME Phillipa
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 181
+1 BIRT 
+2 DATE ABT 1312
+2 QUAY 2
+1 DEAT 
+2 DATE 15 AUG 1369
+2 PLAC Castle, Windsor
+2 QUAY 2
+1 MISC Crowned
+2 DATE 20 FEB 1328
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F51@
+1 FAMC @F52@
+0 @R182@ INDI 
+1 NAME Guillaume I
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 182
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Hainaul
+1 FAMS @F52@
+0 @R183@ INDI 
+1 NAME Jeanne
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 183
+1 DEAT 
+2 QUAY 3
+1 FAMS @F52@
+0 @R184@ INDI 
+1 NAME Joan of Woodstock
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 184
+1 BIRT 
+2 DATE 29 SEP 1328
+2 QUAY 2
+1 DEAT 
+2 DATE 8 AUG 1385
+2 PLAC Castle, Wallingford
+2 QUAY 2
+1 BURI 
+2 PLAC Stamford, Lincs.
+2 QUAY 2
+1 OCCU Countess of Kent
+1 FAMC @F53@
+1 FAMS @F54@
+0 @R185@ INDI 
+1 NAME Edmund of Woodstock
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 185
+1 BIRT 
+2 DATE 5 AUG 1301
+2 PLAC Woodstock
+2 QUAY 2
+1 DEAT 
+2 DATE 19 NOV 1330
+2 PLAC Winchester
+2 QUAY 2
+1 BURI 
+2 PLAC Church, of the Friars, Minors, Winchester
+2 QUAY 2
+1 ATTR Behead
+1 OCCU Earl of Kent
+1 FAMC @F48@
+1 FAMS @F53@
+0 @R186@ INDI 
+1 NAME Margaret, Baroness Wake
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 186
+1 BIRT 
+2 DATE ABT 1299
+2 QUAY 2
+1 DEAT 
+2 DATE 29 SEP 1349
+2 QUAY 2
+1 FAMS @F53@
+0 @R187@ INDI 
+1 NAME Blanche
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 187
+1 BIRT 
+2 DATE 25 MAR 1345
+2 QUAY 2
+1 DEAT 
+2 DATE 12 SEP 1369
+2 PLAC Castle, Bolingbroke, Lincs
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, St. Paul's
+2 QUAY 2
+1 FAMS @F55@
+1 FAMC @F56@
+0 @R188@ INDI 
+1 NAME Henry, Duke of Lancaster
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 188
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Lancastr
+1 FAMS @F56@
+1 NOTE This line is discussed on page 196 of the Burke's source
+0 @R189@ INDI 
+1 NAME Isabel
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 189
+1 DEAT 
+2 QUAY 3
+1 FAMS @F56@
+0 @R190@ INDI 
+1 NAME Constance
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 190
+1 BIRT 
+2 DATE 1354
+2 PLAC Castro Kerez
+2 QUAY 2
+1 DEAT 
+2 DATE 24 MAR 1394
+2 PLAC Leicester
+2 QUAY 2
+1 BURI 
+2 PLAC Church, St. Mary's, Leicester
+2 QUAY 2
+1 FAMS @F57@
+1 FAMC @F58@
+0 @R191@ INDI 
+1 NAME Pedro I
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 191
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Castile
+1 FAMS @F58@
+0 @R192@ INDI 
+1 NAME Maria de Padilla
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 192
+1 DEAT 
+2 QUAY 3
+1 FAMS @F58@
+0 @R193@ INDI 
+1 NAME Katherine/Roet
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 193
+1 BIRT 
+2 DATE 1350
+2 QUAY 2
+1 DEAT 
+2 DATE 10 MAY 1403
+2 PLAC Lincoln
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Lincoln
+2 QUAY 2
+1 FAMS @F59@
+1 FAMC @F190@
+0 @R194@ INDI 
+1 NAME Sir. Payn/Roet
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 194
+1 DEAT 
+2 QUAY 3
+1 FAMS @F190@
+0 @R195@ INDI 
+1 NAME Isabel
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 195
+1 BIRT 
+2 DATE 1355
+2 PLAC Morales, or Tordesillas
+2 QUAY 2
+1 DEAT 
+2 DATE 23 NOV 1393
+2 QUAY 2
+1 BURI 
+2 PLAC Kings Langley, Herts
+2 QUAY 2
+1 FAMC @F58@
+1 FAMS @F60@
+0 @R196@ INDI 
+1 NAME Joan/de Holand
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 196
+1 BIRT 
+2 DATE ABT 1380
+2 QUAY 2
+1 DEAT 
+2 DATE 12 APR 1434
+2 QUAY 2
+1 FAMS @F61@
+1 FAMC @F191@
+0 @R197@ INDI 
+1 NAME Thomas/de Holand
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 197
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Kent
+1 FAMS @F191@
+0 @R198@ INDI 
+1 NAME Anne
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 198
+1 BIRT 
+2 DATE 11 MAY 1366
+2 PLAC Prague
+2 QUAY 2
+1 DEAT 
+2 DATE 3 JUN 1394
+2 PLAC Palace, Sheen, Surrey
+2 QUAY 2
+1 MISC Crowned
+2 DATE 22 JAN 1382
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F62@
+1 FAMC @F63@
+0 @R199@ INDI 
+1 NAME Karl IV, Holy Roman Emperor
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 199
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Bohemia
+1 FAMS @F63@
+0 @R200@ INDI 
+1 NAME Elisabeth
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 200
+1 DEAT 
+2 QUAY 3
+1 OCCU Queen of Bohemia
+1 FAMS @F63@
+0 @R201@ INDI 
+1 NAME Isabelle
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 201
+1 BIRT 
+2 DATE 9 NOV 1389
+2 PLAC Louvre, Paris
+2 QUAY 2
+1 DEAT 
+2 DATE 13 SEP 1409
+2 PLAC Blois
+2 QUAY 2
+1 MISC Crowned
+2 DATE 8 JAN 1397
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F64@
+1 FAMC @F65@
+0 @R202@ INDI 
+1 NAME Charles VI ,King of France
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 202
+1 DEAT 
+2 QUAY 3
+1 OCCU King of France
+1 FAMS @F65@
+0 @R203@ INDI 
+1 NAME Isabelle (Isabeau)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 203
+1 DEAT 
+2 QUAY 3
+1 OCCU Queen of France
+1 FAMS @F65@
+0 @R204@ INDI 
+1 NAME Mary/de Bohun
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 204
+1 BIRT 
+2 DATE ABT 1370
+2 QUAY 2
+1 DEAT 
+2 DATE 4 JUN 1394
+2 PLAC Castle, Peterborough
+2 QUAY 2
+1 BURI 
+2 PLAC Church, St. Mary's, Leicester
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F66@
+1 FAMC @F192@
+0 @R205@ INDI 
+1 NAME Humphrey/de Bohun
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 205
+1 DEAT 
+2 QUAY 3
+1 FAMS @F192@
+0 @R206@ INDI 
+1 NAME Joan
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 206
+1 BIRT 
+2 DATE ABT 1370
+2 QUAY 2
+1 DEAT 
+2 DATE 9 JUL 1437
+2 PLAC Havering Bower, Essex
+2 QUAY 2
+1 MISC Crowned
+2 DATE 26 FEB 1403
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Canterbury
+2 QUAY 2
+1 FAMS @F67@
+1 FAMC @F68@
+0 @R207@ INDI 
+1 NAME Charles II, King of Vavarre
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 207
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Navarre
+1 FAMS @F68@
+0 @R208@ INDI 
+1 NAME Jeanne
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 208
+1 DEAT 
+2 QUAY 3
+1 OCCU Queen of Navarre
+1 FAMS @F68@
+0 @R209@ INDI 
+1 NAME Catherine
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 209
+1 BIRT 
+2 DATE 27 OCT 1401
+2 PLAC Paris, Hotel St. Pol
+2 QUAY 2
+1 DEAT 
+2 DATE 3 JAN 1437
+2 PLAC Abbey, Bermondsey
+2 QUAY 2
+1 MISC Crowned
+2 DATE 24 FEB 1421
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMC @F65@
+1 FAMS @F69@
+1 FAMS @F70@
+0 @R210@ INDI 
+1 NAME Owen/Tudor
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 210
+1 DEAT 
+2 DATE 2 FEB 1461
+2 QUAY 2
+1 FAMS @F70@
+0 @R211@ INDI 
+1 NAME Margaret
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 211
+1 BIRT 
+2 DATE 23 MAR 1429
+2 PLAC Pont-a-Mousson, Lorraine
+2 QUAY 2
+1 DEAT 
+2 DATE 25 AUG 1482
+2 PLAC Chateau Dampiere
+2 QUAY 2
+1 MISC Crowned
+2 DATE 30 MAY 1445
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Angers
+2 QUAY 2
+1 FAMS @F71@
+1 FAMC @F72@
+0 @R212@ INDI 
+1 NAME Rene
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 212
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Anjou
+1 FAMS @F72@
+0 @R213@ INDI 
+1 NAME Isabella
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 213
+1 DEAT 
+2 QUAY 3
+1 FAMS @F72@
+0 @R214@ INDI 
+1 NAME Edward
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 214
+1 BIRT 
+2 DATE 13 OCT 1453
+2 PLAC Palace, Westminster
+2 QUAY 2
+1 DEAT 
+2 DATE 4 MAY 1471
+2 PLAC Battle, of Tewkesbury
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Tewkesbury
+2 QUAY 2
+1 FAMC @F71@
+1 FAMS @F73@
+0 @R215@ INDI 
+1 NAME Anne/Neville
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 215
+1 BIRT 
+2 DATE 11 JUN 1456
+2 PLAC Castle, Warwick
+2 QUAY 2
+1 DEAT 
+2 DATE 16 MAR 1485
+2 PLAC Palace, Westminster
+2 QUAY 2
+1 MISC Crowned
+2 DATE 6 JUL 1483
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMS @F73@
+1 FAMS @F74@
+1 FAMC @F193@
+0 @R216@ INDI 
+1 NAME Richard/Neville
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 216
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Warwick
+1 FAMS @F193@
+0 @R217@ INDI 
+1 NAME Margaret/de Holand
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 217
+1 BIRT 
+2 DATE 1385
+2 QUAY 2
+1 DEAT 
+2 DATE 31 DEC 1429
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Canterbury
+2 QUAY 2
+1 FAMS @F75@
+1 FAMC @F191@
+0 @R218@ INDI 
+1 NAME Margaret/Beauchamp
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 218
+1 DEAT 
+2 QUAY 3
+1 FAMS @F76@
+1 FAMC @F194@
+0 @R219@ INDI 
+1 NAME John/Beauchamp
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 219
+1 DEAT 
+2 QUAY 3
+1 OCCU Baron of Bletso
+1 FAMS @F194@
+0 @R220@ INDI 
+1 NAME Lord Henry/Stafford
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 220
+1 DEAT 
+2 DATE 1481
+2 QUAY 2
+1 FAMS @F77@
+0 @R221@ INDI 
+1 NAME Thomas/Stanley
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 221
+1 DEAT 
+2 DATE 29 JUL 1504
+2 QUAY 2
+1 OCCU Earl of Derby
+1 FAMS @F78@
+0 @R222@ INDI 
+1 NAME Anne/Mortimer
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 222
+1 BIRT 
+2 DATE 27 DEC 1390
+2 QUAY 2
+1 DEAT 
+2 DATE SEP 1411
+2 QUAY 2
+1 BURI 
+2 PLAC Kings Langley, Herts
+2 QUAY 2
+1 FAMS @F79@
+1 FAMC @F80@
+0 @R223@ INDI 
+1 NAME Roger/Mortimer
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 223
+1 BIRT 
+2 DATE 1 SEP 1373
+2 PLAC Usk
+2 QUAY 2
+1 DEAT 
+2 DATE 20 JUL 1398
+2 PLAC Kenlis
+2 QUAY 2
+1 BURI 
+2 PLAC Wigmore
+2 QUAY 2
+1 OCCU Earl of March
+1 FAMS @F80@
+0 @R224@ INDI 
+1 NAME Eleanor/de Holand
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 224
+1 BIRT 
+2 DATE ABT 1373
+2 QUAY 2
+1 DEAT 
+2 DATE 23 OCT 1405
+2 QUAY 2
+1 FAMS @F80@
+1 FAMC @F191@
+0 @R225@ INDI 
+1 NAME Maud/de Clifford
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 225
+1 DEAT 
+2 DATE 26 AUG 1446
+2 QUAY 2
+1 FAMS @F81@
+1 FAMC @F195@
+0 @R226@ INDI 
+1 NAME Thomas/de Clifford
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 226
+1 DEAT 
+2 QUAY 3
+1 OCCU Baron of Cliffor
+1 FAMS @F195@
+0 @R227@ INDI 
+1 NAME Cicely/Nevill
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 227
+1 BIRT 
+2 DATE 3 MAY 1415
+2 PLAC Castle, Raby
+2 QUAY 2
+1 DEAT 
+2 DATE 31 MAY 1495
+2 PLAC Castle, Berkhamsted
+2 QUAY 2
+1 BURI 
+2 PLAC Fotheringay
+2 QUAY 2
+1 FAMS @F82@
+0 @R228@ INDI 
+1 NAME Ralph/Nevill
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 228
+1 DEAT 
+2 DATE 21 OCT 1425
+2 PLAC Castle, Raby
+2 QUAY 2
+1 OCCU Earl of Westmorl
+1 FAMS @F83@
+0 @R229@ INDI 
+1 NAME Joan/Beaufort
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 229
+1 BIRT 
+2 DATE ABT 1379
+2 PLAC Castle, Beaufort
+2 QUAY 2
+1 DEAT 
+2 DATE 13 NOV 1440
+2 PLAC Howden, Yorks.
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Lincoln
+2 QUAY 2
+1 FAMC @F59@
+1 FAMS @F83@
+0 @R230@ INDI 
+1 NAME Elizabeth/Woodville
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 230
+1 BIRT 
+2 DATE ABT 1437
+2 PLAC Grafton Regis
+2 QUAY 2
+1 DEAT 
+2 DATE 8 JUN 1492
+2 PLAC Abbey, Bermondsey
+2 QUAY 2
+1 MISC Crowned
+2 DATE 26 MAY 1465
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F84@
+1 FAMC @F85@
+0 @R231@ INDI 
+1 NAME Richard/Woodville
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 231
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Rivers
+1 FAMS @F85@
+0 @R232@ INDI 
+1 NAME Jacquette
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 232
+1 DEAT 
+2 QUAY 3
+1 FAMS @F85@
+0 @R233@ INDI 
+1 NAME Edward
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 233
+1 BIRT 
+2 DATE DEC 1473
+2 PLAC Castle, Middleham
+2 QUAY 2
+1 DEAT 
+2 DATE 9 APR 1484
+2 PLAC Castle, Middleham
+2 QUAY 2
+1 BURI 
+2 PLAC Sheriff Hutton, Yorks.
+2 QUAY 2
+1 FAMC @F74@
+0 @R234@ INDI 
+1 NAME Elizabeth
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 234
+1 BIRT 
+2 DATE 11 FEB 1465
+2 PLAC Palace, Westminster
+2 QUAY 2
+1 DEAT 
+2 DATE 11 FEB 1503
+2 PLAC Tower of London
+2 QUAY 2
+1 MISC Crowned
+2 DATE 18 JAN 1486
+2 PLAC Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMC @F84@
+1 FAMS @F86@
+0 @R235@ INDI 
+1 NAME Catherine of Aragon
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 235
+1 BIRT 
+2 DATE 16 DEC 1485
+2 PLAC Alcala de Henare
+2 QUAY 2
+1 DEAT 
+2 DATE 7 JAN 1536
+2 PLAC Castle, Kimbolton, Hunts.
+2 QUAY 2
+1 MISC Crowned
+2 DATE 24 JUN 1509
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F87@
+1 FAMC @F88@
+0 @R236@ INDI 
+1 NAME Fernando V, King of Spain
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 236
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Spain
+1 FAMS @F88@
+0 @R237@ INDI 
+1 NAME Isabel I
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 237
+1 DEAT 
+2 QUAY 3
+1 OCCU Queen of Spain
+1 FAMS @F88@
+0 @R238@ INDI 
+1 NAME Anne/Boleyn
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 238
+1 BIRT 
+2 DATE ABT 1507
+2 PLAC Blickling Hall, Norfolk, or, Hever Castle, Kent
+2 QUAY 2
+1 DEAT 
+2 DATE 19 MAY 1536
+2 PLAC Tower Green
+2 QUAY 2
+1 MISC Crowned
+2 DATE 1 JUN 1533
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, of St. Peter, ad Vincula, in the Tower
+2 QUAY 2
+1 ATTR Behead
+1 OCCU Marchioness
+1 FAMS @F89@
+0 @R239@ INDI 
+1 NAME Thomas/Boleyn
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 239
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Wiltshir
+1 FAMS @F90@
+0 @R240@ INDI 
+1 NAME Elizabeth
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 240
+1 DEAT 
+2 QUAY 3
+1 FAMS @F90@
+0 @R241@ INDI 
+1 NAME Jane/Seymour
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 241
+1 BIRT 
+2 DATE ABT 1509
+2 QUAY 2
+1 DEAT 
+2 DATE 24 OCT 1537
+2 PLAC Palace, Hampton Court
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F91@
+1 FAMC @F196@
+0 @R242@ INDI 
+1 NAME Sir John/Seymour
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 242
+1 DEAT 
+2 QUAY 3
+1 OCCU Kt. of Wolf Hall
+1 FAMS @F196@
+0 @R243@ INDI 
+1 NAME Anne of Cleves
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 243
+1 BIRT 
+2 DATE 22 SEP 1516
+2 PLAC Dusseldorf
+2 QUAY 2
+1 DEAT 
+2 DATE 17 JUL 1557
+2 PLAC Chelsea, Middlesex
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F92@
+1 FAMC @F93@
+0 @R244@ INDI 
+1 NAME Johann III, Duke of Cleves
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 244
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Cleves
+1 FAMS @F93@
+0 @R245@ INDI 
+1 NAME Marie
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 245
+1 DEAT 
+2 QUAY 3
+1 FAMS @F93@
+0 @R246@ INDI 
+1 NAME Catherine/Howard
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 246
+1 BIRT 
+2 DATE ABT 1521
+2 PLAC Lambeth
+2 QUAY 1
+1 DEAT 
+2 DATE 13 FEB 1542
+2 PLAC Tower Green
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, of St. Peter, ad Vincula, in the Tower
+2 QUAY 2
+1 ATTR Behead
+1 OCCU Queen of England
+1 FAMS @F94@
+1 FAMC @F197@
+0 @R247@ INDI 
+1 NAME Lord Edmund/Howard
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 247
+1 DEAT 
+2 QUAY 3
+1 FAMS @F197@
+1 FAMC @F198@
+0 @R248@ INDI 
+1 NAME Thomas/Howard
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 248
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Norfolk
+1 FAMS @F198@
+0 @R249@ INDI 
+1 NAME Catherine/Parr
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 249
+1 BIRT 
+2 DATE ABT 1512
+2 PLAC Castle, Kendal, Westmoreland
+2 QUAY 2
+1 DEAT 
+2 DATE 5 SEP 1548
+2 PLAC Castle, Sudely, Gloucester
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, Sudley, Gloucester
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F95@
+1 FAMC @F96@
+1 FAMS @F97@
+1 FAMS @F98@
+1 FAMS @F99@
+0 @R250@ INDI 
+1 NAME Sir Thomas/Parr
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 250
+1 DEAT 
+2 QUAY 3
+1 OCCU Kt. of Kendal
+1 FAMS @F96@
+0 @R251@ INDI 
+1 NAME Maud
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 251
+1 DEAT 
+2 QUAY 3
+1 FAMS @F96@
+0 @R252@ INDI 
+1 NAME John/Nevill
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 252
+1 DEAT 
+2 QUAY 3
+1 FAMS @F97@
+0 @R253@ INDI 
+1 NAME Edward/Borough
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 253
+1 DEAT 
+2 QUAY 3
+1 OCCU Baron Borough
+1 FAMS @F98@
+0 @R254@ INDI 
+1 NAME Thomas/Seymour
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 254
+1 DEAT 
+2 DATE 5 SEP 1548
+2 PLAC Castle, Sudely, Gloucester
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, Sudley, Gloucester
+2 QUAY 2
+1 OCCU Baron of Sudely
+1 FAMS @F99@
+0 @R255@ INDI 
+1 NAME Lord Guilford/Dudley
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 255
+1 DEAT 
+2 DATE 12 FEB 1554
+2 PLAC Tower Hill
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, of St. Peter, ad Vincula, in the Tower
+2 QUAY 2
+1 ATTR Behead
+1 FAMS @F100@
+0 @R256@ INDI 
+1 NAME Philip (Felipe) II
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 256
+1 BIRT 
+2 DATE 21 MAY 1527
+2 PLAC Valladolid
+2 QUAY 2
+1 DEAT 
+2 DATE 13 SEP 1598
+2 PLAC Madrid
+2 QUAY 2
+1 BURI 
+2 PLAC Escorial
+2 QUAY 2
+1 OCCU King of Spain
+1 FAMS @F101@
+1 FAMC @F102@
+0 @R257@ INDI 
+1 NAME Carlos I ,King of Spain
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 257
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Spain
+1 FAMS @F102@
+0 @R258@ INDI 
+1 NAME Isabel
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 258
+1 DEAT 
+2 QUAY 3
+1 OCCU Queen of Spain
+1 FAMS @F102@
+0 @R259@ INDI 
+1 NAME Louis XII, King of France
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 259
+1 DEAT 
+2 DATE 1 JAN 1515
+2 PLAC Palais, de Tournelles, Paris
+2 QUAY 2
+1 MISC Crowned
+2 DATE 5 NOV 1514
+2 PLAC St. Denis
+2 QUAY 2
+1 OCCU King of France
+1 FAMS @F103@
+0 @R260@ INDI 
+1 NAME Charles/Brandon
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 260
+1 BIRT 
+2 DATE 1484
+2 QUAY 2
+1 DEAT 
+2 DATE 24 AUG 1545
+2 PLAC Palace, Guildford
+2 QUAY 2
+1 BURI 
+2 PLAC Windsor
+2 QUAY 2
+1 OCCU Duke of Suffolk
+1 FAMS @F104@
+0 @R261@ INDI 
+1 NAME Henry/Grey
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 261
+1 DEAT 
+2 DATE 23 FEB 1554
+2 PLAC Tower Hill
+2 QUAY 2
+1 ATTR Behead
+1 OCCU Duke of Suffolk
+1 FAMS @F105@
+0 @R262@ INDI 
+1 NAME Adrian/Stokes
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 262
+1 DEAT 
+2 DATE ABT 1581
+2 QUAY 2
+1 FAMS @F106@
+0 @R263@ INDI 
+1 NAME Georg Wilhelm
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 264
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Brunswic
+1 FAMS @F108@
+0 @R264@ INDI 
+1 NAME Eleonore
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 265
+1 DEAT 
+2 QUAY 3
+1 FAMS @F108@
+0 @R265@ INDI 
+1 NAME Wilhelmina Charlotte Caroline
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 266
+1 BIRT 
+2 DATE 1 MAR 1682/1683
+2 PLAC Anspach
+2 QUAY 2
+1 DEAT 
+2 DATE 20 NOV 1737
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 MISC Crowned
+2 DATE 11 OCT 1727
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F109@
+1 FAMC @F110@
+0 @R266@ INDI 
+1 NAME Johann Friedrich
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 267
+1 DEAT 
+2 QUAY 3
+1 OCCU Margrave of Bran
+1 FAMS @F110@
+0 @R267@ INDI 
+1 NAME Eleonore Erdmuthe Louise
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 268
+1 DEAT 
+2 QUAY 3
+1 FAMS @F110@
+0 @R268@ INDI 
+1 NAME Augusta
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 269
+1 BIRT 
+2 DATE 30 NOV 1719
+2 PLAC Gotha
+2 QUAY 2
+1 DEAT 
+2 DATE 8 FEB 1772
+2 PLAC Carlton House, London
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMS @F111@
+1 FAMC @F112@
+0 @R269@ INDI 
+1 NAME Friedrich II
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 270
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Saxe
+1 FAMS @F112@
+0 @R270@ INDI 
+1 NAME Magdalene Auguste
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 271
+1 DEAT 
+2 QUAY 3
+1 FAMS @F112@
+0 @R271@ INDI 
+1 NAME Sophia Charlotte
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 272
+1 BIRT 
+2 DATE 19 MAY 1744
+2 PLAC Mirow
+2 QUAY 2
+1 DEAT 
+2 DATE 17 NOV 1818
+2 PLAC Palace, Kew
+2 QUAY 2
+1 MISC Crowned
+2 DATE 22 SEP 1761
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F113@
+0 @R272@ INDI 
+1 NAME George IV (Augustus Frederick)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 273
+1 BIRT 
+2 DATE 12 AUG 1762
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 DEAT 
+2 DATE 26 JUN 1830
+2 PLAC Castle, Windsor
+2 QUAY 2
+1 MISC Crowned
+2 DATE 19 JUL 1821
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1820
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1830
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F113@
+0 @R273@ INDI 
+1 NAME William IV (Henry)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 274
+1 BIRT 
+2 DATE 21 AUG 1765
+2 PLAC Buckingham House, St. James's Park
+2 QUAY 2
+1 DEAT 
+2 DATE 20 JUN 1837
+2 PLAC Castle, Windsor
+2 QUAY 2
+1 MISC Crowned
+2 DATE 8 SEP 1831
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1830
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1837
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F113@
+0 @R274@ INDI 
+1 NAME Edward, Duke of Kent
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 275
+1 BIRT 
+2 DATE 2 NOV 1767
+2 PLAC Buckingham House, St. James's Park
+2 QUAY 2
+1 DEAT 
+2 DATE 23 JAN 1820
+2 PLAC Sidmouth, Devon
+2 QUAY 2
+1 BURI 
+2 PLAC Kent Mausoleum, Frogmore
+2 QUAY 2
+1 OCCU Duke of Kent
+1 FAMC @F113@
+1 FAMS @F114@
+0 @R275@ INDI 
+1 NAME Victoria Mary Louisa
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 276
+1 BIRT 
+2 DATE 17 AUG 1786
+2 PLAC Coburg
+2 QUAY 2
+1 DEAT 
+2 DATE 16 MAR 1861
+2 PLAC Frogmore, near Windsor
+2 QUAY 2
+1 BURI 
+2 PLAC Kent Mausoleum, Frogmore
+2 QUAY 2
+1 FAMS @F114@
+0 @R276@ INDI 
+1 NAME Victoria (Alexandrina Victoria)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 277
+1 BIRT 
+2 DATE 24 MAY 1819
+2 PLAC Palace, Kensington
+2 QUAY 2
+1 DEAT 
+2 DATE 22 JAN 1901
+2 PLAC Osbourne House, Isle of Wight
+2 QUAY 2
+1 MISC Crowned
+2 DATE 28 JUN 1838
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Royal Mausoleum, Frogmore
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1837
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1901
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMC @F114@
+1 FAMS @F115@
+0 @R277@ INDI 
+1 NAME Francis Albert Augustus Charles Emmanuel
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 278
+1 BIRT 
+2 DATE 26 AUG 1819
+2 PLAC Schloss Rosenau, near Coburg
+2 QUAY 2
+1 DEAT 
+2 DATE 14 DEC 1861
+2 PLAC Castle, Windsor
+2 QUAY 2
+1 MISC Crowned
+2 DATE 26 JUN 1857
+2 QUAY 2
+1 BURI 
+2 PLAC Royal Mausoleum, Frogmore
+2 QUAY 2
+1 OCCU Duke of Saxony
+1 FAMS @F115@
+0 @R278@ INDI 
+1 NAME Edward VII (Albert)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 279
+1 BIRT 
+2 DATE 9 NOV 1841
+2 PLAC Palace, Buckingham
+2 QUAY 2
+1 DEAT 
+2 DATE 6 MAY 1910
+2 PLAC Palace, Buckingham
+2 QUAY 2
+1 MISC Crowned
+2 DATE 9 AUG 1902
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1901
+2 QUAY 2
+1 MISC End Reign
+2 DATE 6 MAY 1910
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F115@
+1 FAMS @F116@
+0 @R279@ INDI 
+1 NAME Alexandra Caroline Mary Charlotte Louisa,Julia
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 280
+1 BIRT 
+2 DATE 1 DEC 1844
+2 PLAC Palace, Yellow, Copenhagen
+2 QUAY 2
+1 DEAT 
+2 DATE 20 NOV 1925
+2 PLAC Sandringham, Norfolk
+2 QUAY 2
+1 MISC Crowned
+2 DATE 9 AUG 1902
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F116@
+0 @R280@ INDI 
+1 NAME George V (Frederick Ernest Albert)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 281
+1 BIRT 
+2 DATE 3 JUN 1865
+2 PLAC House, Marlborough
+2 QUAY 2
+1 DEAT 
+2 DATE 20 JAN 1936
+2 PLAC Sandringham, Norfolk
+2 QUAY 2
+1 MISC Crowned
+2 DATE 22 JUN 1911
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1910
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1936
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F116@
+1 FAMS @F156@
+0 @R281@ INDI 
+1 NAME Edward VIII
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 282
+1 BIRT 
+2 DATE 23 JUN 1894
+2 PLAC Richmond, Surrey
+2 QUAY 2
+1 DEAT 
+2 DATE 28 MAY 1972
+2 PLAC Paris
+2 QUAY 2
+1 MISC Crowned
+2 QUAY 2
+1 BURI 
+2 PLAC Frogmore, Windsor Castle
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 20 JAN 1936
+2 QUAY 2
+1 MISC End Reign
+2 DATE 10 DEC 1936
+2 QUAY 2
+1 OCCU King of England
+1 FAMS @F155@
+1 FAMC @F156@
+0 @R282@ INDI 
+1 NAME George VI (Albert Frederick George)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 283
+1 BIRT 
+2 DATE 14 DEC 1895
+2 PLAC York Cottage, Sandringham
+2 QUAY 2
+1 DEAT 
+2 DATE 6 FEB 1952
+2 PLAC House, Sandringham
+2 QUAY 2
+1 MISC Crowned
+2 DATE 12 MAY 1937
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 11 DEC 1936
+2 QUAY 2
+1 MISC End Reign
+2 DATE 6 FEB 1952
+2 QUAY 2
+1 OCCU King of England
+1 FAMS @F154@
+1 FAMC @F156@
+0 @R283@ INDI 
+1 NAME Elizabeth II
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 284
+1 BIRT 
+2 DATE 21 APR 1926
+2 PLAC 17 Bruton St., London
+2 QUAY 2
+1 MISC Crowned
+2 DATE 2 JUN 1953
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 6 FEB 1952
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F153@
+1 FAMC @F154@
+0 @R284@ INDI 
+1 NAME Charles/of Windsor
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 285
+1 BIRT 
+2 DATE 14 NOV 1948
+2 QUAY 2
+1 OCCU Prince of Wales
+1 FAMC @F153@
+0 @R285@ INDI 
+1 NAME Egbert
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 286
+1 BIRT 
+2 DATE ABT 770
+2 QUAY 2
+1 DEAT 
+2 DATE 839
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 802
+2 QUAY 2
+1 MISC End Reign
+2 DATE 839
+2 QUAY 2
+1 OCCU King of England
+1 FAMS @F117@
+1 FAMC @F199@
+1 NOTE     Expelled from England "to the land of the Franks" by Offa, King of Mercia
+2 CONT and Beorhtric, King of Wessex in 789?.  Acknowledged in Kent, Surrey,
+2 CONT Sussex, Essex and East Anglia after his victory over the Mercians at Ellendun
+2 CONT (near Wroughton, Wilts) in 825.  Conquered Mercia in 829 and reckoned as the
+2 CONT eighth Bretwalda (Ruler of Britain).
+0 @R286@ INDI 
+1 NAME Raedburh (Redburga)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 287
+1 DEAT 
+2 QUAY 3
+1 FAMS @F117@
+0 @R287@ INDI 
+1 NAME Aethelwulf
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 288
+1 BIRT 
+2 DATE ABT 795
+2 QUAY 2
+1 DEAT 
+2 DATE 13 JAN 858
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 839
+2 QUAY 2
+1 MISC End Reign
+2 DATE 855
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F117@
+1 FAMS @F118@
+1 FAMS @F119@
+1 NOTE     Sub-King of Kent, Essex, Sussex, and Surrey from 825-839.  Survived his
+2 CONT father in 839, resigned Wessex to his son Ethelbald in 855, retaining Kent,
+2 CONT Sussex and Essex.
+0 @R288@ INDI 
+1 NAME Osburh (Osgurga)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 289
+1 DEAT 
+2 DATE ABT 853
+2 QUAY 2
+1 FAMS @F118@
+0 @R289@ INDI 
+1 NAME Judith
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 290
+1 BIRT 
+2 DATE ABT 844
+2 QUAY 2
+1 DEAT 
+2 QUAY 3
+1 FAMS @F119@
+1 FAMS @F120@
+0 @R290@ INDI 
+1 NAME Aethelbald
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 291
+1 DEAT 
+2 DATE 860
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Sherborne
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 855
+2 QUAY 2
+1 MISC End Reign
+2 DATE 860
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F118@
+1 FAMS @F120@
+0 @R291@ INDI 
+1 NAME Aethelbert
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 292
+1 DEAT 
+2 DATE 866
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Sherborne
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 860
+2 QUAY 2
+1 MISC End Reign
+2 DATE 866
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F118@
+0 @R292@ INDI 
+1 NAME Aethelred I
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 293
+1 DEAT 
+2 DATE 15 APR 871
+2 PLAC Merton
+2 QUAY 2
+1 BURI 
+2 PLAC Wimborne Minster
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 866
+2 QUAY 2
+1 MISC End Reign
+2 DATE 871
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F118@
+0 @R293@ INDI 
+1 NAME Alfred the Great
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 294
+1 BIRT 
+2 DATE 849
+2 PLAC Wantage, Berks.
+2 QUAY 2
+1 DEAT 
+2 DATE 26 OCT 899
+2 QUAY 2
+1 BURI 
+2 PLAC New Minster, then Hyde Abbey, Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 871
+2 QUAY 2
+1 MISC End Reign
+2 DATE 899
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F118@
+1 FAMS @F121@
+0 @R294@ INDI 
+1 NAME Ealhswith
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 295
+1 DEAT 
+2 DATE 904
+2 QUAY 2
+1 FAMS @F121@
+0 @R295@ INDI 
+1 NAME Edward the Elder
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 296
+1 BIRT 
+2 DATE ABT 871
+2 QUAY 2
+1 DEAT 
+2 DATE 17 JUL 925
+2 PLAC Fardon-on-Dee
+2 QUAY 2
+1 MISC Crowned
+2 DATE 8 JUN 900
+2 PLAC Kingston, upon-Thames
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 899
+2 QUAY 2
+1 MISC End Reign
+2 DATE 17 JUL 925
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F121@
+1 FAMS @F122@
+1 FAMS @F123@
+1 FAMS @F124@
+0 @R296@ INDI 
+1 NAME Ecgwynn (Egwina)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 297
+1 DEAT 
+2 QUAY 3
+1 FAMS @F122@
+0 @R297@ INDI 
+1 NAME Aelflaed (Efleda)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 298
+1 DEAT 
+2 QUAY 3
+1 FAMS @F123@
+0 @R298@ INDI 
+1 NAME Eadgifu
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 299
+1 DEAT 
+2 DATE 25 AUG 968
+2 QUAY 2
+1 FAMS @F124@
+0 @R299@ INDI 
+1 NAME Athelstan
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 300
+1 BIRT 
+2 DATE ABT 895
+2 QUAY 2
+1 DEAT 
+2 DATE 27 OCT 939
+2 PLAC Gloucestor
+2 QUAY 2
+1 MISC Crowned
+2 DATE 5 SEP 925
+2 PLAC Kingston, upon-Thames
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Malmsbury
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 925
+2 QUAY 2
+1 MISC End Reign
+2 DATE 939
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F122@
+0 @R300@ INDI 
+1 NAME Edmund I, The Magnificent
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 301
+1 BIRT 
+2 DATE ABT 921
+2 QUAY 2
+1 DEAT 
+2 DATE 26 MAY 946
+2 PLAC Pucklechurch, Glos.
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Glastonbury
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 939
+2 QUAY 2
+1 MISC End Reign
+2 DATE 946
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F124@
+1 FAMS @F125@
+1 FAMS @F126@
+0 @R301@ INDI 
+1 NAME (St.) Aelfgifu
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 302
+1 DEAT 
+2 DATE 944
+2 QUAY 2
+1 FAMS @F125@
+0 @R302@ INDI 
+1 NAME Aethelflaed of Damerham
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 303
+1 DEAT 
+2 DATE AFT 975
+2 QUAY 2
+1 FAMS @F126@
+0 @R303@ INDI 
+1 NAME Edred
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 304
+1 BIRT 
+2 DATE ABT 923
+2 QUAY 2
+1 DEAT 
+2 DATE 23 NOV 955
+2 PLAC Frome, Somerset
+2 QUAY 2
+1 MISC Crowned
+2 DATE 946
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 946
+2 QUAY 2
+1 MISC End Reign
+2 DATE 955
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F124@
+0 @R304@ INDI 
+1 NAME Edwy the Fair
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 305
+1 BIRT 
+2 DATE ABT 941
+2 QUAY 2
+1 DEAT 
+2 DATE 1 OCT 959
+2 PLAC Gloucestor
+2 QUAY 2
+1 MISC Crowned
+2 DATE JAN 956
+2 QUAY 1
+1 MISC Begin Reign
+2 DATE 955
+2 QUAY 2
+1 MISC End Reign
+2 DATE 959
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F125@
+1 FAMS @F127@
+0 @R305@ INDI 
+1 NAME Aelfgifu
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 306
+1 DEAT 
+2 DATE SEP 959
+2 PLAC Gloucestor
+2 QUAY 2
+1 FAMS @F127@
+0 @R306@ INDI 
+1 NAME Edgar the Peaceful
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 307
+1 BIRT 
+2 DATE 943
+2 QUAY 2
+1 DEAT 
+2 DATE 975
+2 QUAY 2
+1 MISC Crowned
+2 DATE 11 MAY 973
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Glastonbury
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 959
+2 QUAY 2
+1 MISC End Reign
+2 DATE 975
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F125@
+1 FAMS @F128@
+1 FAMS @F129@
+0 @R307@ INDI 
+1 NAME Aethelflaed
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 308
+1 DEAT 
+2 QUAY 3
+1 FAMS @F128@
+0 @R308@ INDI 
+1 NAME Aelfthryth (Elfrida)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 309
+1 BIRT 
+2 DATE ABT 945
+2 QUAY 2
+1 DEAT 
+2 DATE 1000
+2 PLAC Wherwell
+2 QUAY 2
+1 FAMS @F129@
+0 @R309@ INDI 
+1 NAME Edward the Martyr
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 310
+1 BIRT 
+2 DATE ABT 962
+2 QUAY 2
+1 DEAT 
+2 DATE 18 MAR 979
+2 PLAC Castle, Corfe, Dorset
+2 QUAY 2
+1 MISC Crowned
+2 DATE 975
+2 PLAC Kingston, upon-Thames
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Shaftesbury
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 975
+2 QUAY 2
+1 MISC End Reign
+2 DATE 979
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F128@
+0 @R310@ INDI 
+1 NAME Aethelred II, The Unready (The_Redeless)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 24 JUN 1989
+1 NUMB 311
+1 BIRT 
+2 DATE ABT 968
+2 QUAY 2
+1 DEAT 
+2 DATE 23 APR 1016
+2 PLAC London
+2 QUAY 2
+1 MISC Crowned
+2 DATE 14 APR 979
+2 PLAC Kingston, upon-Thames
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, St. Paul's
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 979
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1013
+2 SOUR @S10@
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F129@
+1 FAMS @F130@
+1 FAMS @F131@
+1 NOTE Crowned at Kingston-upon-Thames in 979, he later fled to Normandy after the
+2 CONT Danish invasion in the autumn of 1013.  He was restored to his throne upon the
+2 CONT death of Sweyn, Feb 1014. [His regain of the throne is not shown in the Begin
+2 CONT Reign-End Reign Events, only the initial reign. (ph)]
+0 @R311@ INDI 
+1 NAME Aefgifu (Elfgiva)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 312
+1 DEAT 
+2 QUAY 3
+1 FAMS @F130@
+0 @R312@ INDI 
+1 NAME Emma (Aelfgifu)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 313
+1 BIRT 
+2 DATE ABT 985
+2 PLAC Normandy
+2 QUAY 2
+1 DEAT 
+2 DATE 6 MAR 1052
+2 PLAC Winchester
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 FAMS @F131@
+1 FAMC @F135@
+1 FAMS @F139@
+0 @R313@ INDI 
+1 NAME Richard I, The Fearless
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 314
+1 BIRT 
+2 DATE 933
+2 PLAC Fecamp
+2 QUAY 2
+1 DEAT 
+2 DATE 20 NOV 996
+2 QUAY 2
+1 OCCU Duke of Normandy
+1 FAMS @F135@
+1 FAMC @F172@
+0 @R314@ INDI 
+1 NAME Edmund II, Ironside
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 315
+1 BIRT 
+2 DATE ABT 993
+2 QUAY 2
+1 DEAT 
+2 DATE 30 NOV 1016
+2 QUAY 2
+1 MISC Crowned
+2 DATE APR 1016
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Glastonbury
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE APR 1016
+2 QUAY 2
+1 MISC End Reign
+2 DATE NOV 1016
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F130@
+1 FAMS @F134@
+0 @R315@ INDI 
+1 NAME Edward III, The Confessor
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 316
+1 BIRT 
+2 DATE ABT 1004
+2 PLAC Islip, Oxen
+2 QUAY 2
+1 DEAT 
+2 DATE 5 JAN 1066
+2 QUAY 2
+1 MISC Crowned
+2 DATE 3 APR 1043
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1042
+2 QUAY 2
+1 MISC End Reign
+2 DATE JAN 1066
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F131@
+1 FAMS @F132@
+0 @R316@ INDI 
+1 NAME Eadgyth (Edith)
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 317
+1 DEAT 
+2 DATE 18 DEC 1075
+2 PLAC Winchester
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMS @F132@
+1 FAMC @F133@
+0 @R317@ INDI 
+1 NAME Godwin, Earl of Essex
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 318
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Essex
+1 FAMS @F133@
+0 @R318@ INDI 
+1 NAME Gytha
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 319
+1 DEAT 
+2 QUAY 3
+1 FAMS @F133@
+0 @R319@ INDI 
+1 NAME Ealgyth
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 320
+1 DEAT 
+2 QUAY 3
+1 FAMS @F134@
+0 @R320@ INDI 
+1 NAME Gunnor
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 321
+1 DEAT 
+2 DATE 1031
+2 QUAY 2
+1 FAMS @F135@
+0 @R321@ INDI 
+1 NAME Richard II, The Good
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 322
+1 DEAT 
+2 DATE 23 AUG 1027
+2 QUAY 2
+1 OCCU Duke of Normandy
+1 FAMC @F135@
+1 FAMS @F136@
+0 @R322@ INDI 
+1 NAME Judith
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 323
+1 DEAT 
+2 DATE 1017
+2 QUAY 2
+1 FAMS @F136@
+0 @R323@ INDI 
+1 NAME Robert II, The Magnificent
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 324
+1 DEAT 
+2 DATE 2 JUL 1035
+2 QUAY 2
+1 OCCU Duke of Normandy
+1 FAMC @F136@
+1 FAMS @F176@
+0 @R324@ INDI 
+1 NAME Harlette of Falaise
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 325
+1 DEAT 
+2 QUAY 3
+1 FAMS @F176@
+0 @R325@ INDI 
+1 NAME Sweyn Forkbeard
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 326
+1 DEAT 
+2 DATE 3 FEB 1014
+2 PLAC Gainsborough
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Roskilde
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1013
+2 QUAY 2
+1 MISC End Reign
+2 DATE FEB 1014
+2 QUAY 2
+1 OCCU King of England
+1 FAMS @F137@
+0 @R326@ INDI 
+1 NAME Gunhild
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 327
+1 DEAT 
+2 QUAY 3
+1 FAMS @F137@
+0 @R327@ INDI 
+1 NAME Canute the Great
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 328
+1 BIRT 
+2 DATE ABT 995
+2 QUAY 2
+1 DEAT 
+2 DATE 12 NOV 1035
+2 PLAC Shaftesbury, Dorset
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE NOV 1016
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1035
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F137@
+1 FAMS @F138@
+1 FAMS @F139@
+0 @R328@ INDI 
+1 NAME Aelfgifu
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 329
+1 DEAT 
+2 QUAY 3
+1 FAMS @F138@
+0 @R329@ INDI 
+1 NAME Harold I Harefoot
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 330
+1 BIRT 
+2 DATE ABT 1016
+2 QUAY 2
+1 DEAT 
+2 DATE 17 MAR 1040
+2 PLAC Oxford
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1035
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1040
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F138@
+0 @R330@ INDI 
+1 NAME Hardicanute
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 331
+1 BIRT 
+2 DATE ABT 1018
+2 QUAY 2
+1 DEAT 
+2 DATE 8 JUN 1042
+2 PLAC Lambeth
+2 QUAY 2
+1 BURI 
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 1040
+2 QUAY 2
+1 MISC End Reign
+2 DATE 1042
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F139@
+0 @R331@ INDI 
+1 NAME Harold II
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 332
+1 BIRT 
+2 DATE ABT 1020
+2 QUAY 2
+1 DEAT 
+2 DATE 14 OCT 1066
+2 PLAC Hastings
+2 QUAY 2
+1 MISC Crowned
+2 DATE 5 JAN 1066
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Waltham
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE JAN 1066
+2 QUAY 2
+1 MISC End Reign
+2 DATE OCT 1066
+2 QUAY 2
+1 OCCU King of England
+1 FAMC @F133@
+0 @R332@ INDI 
+1 NAME Woden
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 333
+1 DEAT 
+2 QUAY 2
+1 FAMS @F200@
+0 @R333@ INDI 
+1 NAME Baeldaeg
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 334
+1 DEAT 
+2 QUAY 3
+1 FAMC @F200@
+1 FAMS @F201@
+0 @R334@ INDI 
+1 NAME Brand
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 335
+1 DEAT 
+2 QUAY 3
+1 FAMC @F201@
+1 FAMS @F202@
+0 @R335@ INDI 
+1 NAME Frithugar
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 336
+1 DEAT 
+2 QUAY 3
+1 FAMC @F202@
+1 FAMS @F203@
+0 @R336@ INDI 
+1 NAME Freawine
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 337
+1 DEAT 
+2 QUAY 3
+1 FAMC @F203@
+1 FAMS @F204@
+0 @R337@ INDI 
+1 NAME Wig
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 338
+1 DEAT 
+2 QUAY 3
+1 FAMC @F204@
+1 FAMS @F205@
+0 @R338@ INDI 
+1 NAME Gewis
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 339
+1 DEAT 
+2 QUAY 3
+1 FAMC @F205@
+1 FAMS @F206@
+0 @R339@ INDI 
+1 NAME Esla
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 340
+1 DEAT 
+2 QUAY 3
+1 FAMC @F206@
+1 FAMS @F207@
+0 @R340@ INDI 
+1 NAME Elesa
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 341
+1 DEAT 
+2 QUAY 3
+1 FAMC @F207@
+1 FAMS @F208@
+1 NOTE   According to the Anglo-Saxon Chronicles, Cerdic came to Britain with his son
+2 CONT Cynric and five ships in 495, obtained the kingdom of the West Saxons in 519,
+2 CONT obtained posession of Isle of Wight in 530.
+0 @R341@ INDI 
+1 NAME Cerdic
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 342
+1 DEAT 
+2 DATE 534
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 519
+2 QUAY 2
+1 MISC End Reign
+2 DATE 534
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMC @F208@
+1 FAMS @F209@
+1 NOTE     Some authorities claim that Cynric is the son of Creoda, son of Cerdic.  It
+2 CONT appears that he reigned jointly with Cerdic until 534 when Cerdic died.  He gave
+2 CONT the Isle of Wight to his (or Cerdic's) two nefan (grandsons or nephews) Stuf and
+2 CONT Withgar.
+0 @R342@ INDI 
+1 NAME Cynric
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 343
+1 DEAT 
+2 DATE 560
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 534
+2 QUAY 2
+1 MISC End Reign
+2 DATE 560
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMC @F209@
+1 FAMS @F210@
+0 @R343@ INDI 
+1 NAME Ceawlin
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 344
+1 DEAT 
+2 DATE 593
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 560
+2 QUAY 2
+1 MISC End Reign
+2 DATE 593
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMC @F210@
+1 FAMS @F221@
+1 NOTE     According to Bede Ceawlin was the second acknowledged overlord (Bretwalda)
+2 CONT of the Southern English.  He either associated his nephew Ceol in the kingdom or
+2 CONT was deposed by him in 591.
+0 @R344@ INDI 
+1 NAME Cutha
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 7 JUN 1989
+1 NUMB 345
+1 DEAT 
+2 DATE 584
+2 PLAC Fethanleag, near Stoke-Lyne, Oxon
+2 QUAY 2
+1 FAMC @F210@
+1 FAMS @F211@
+1 NOTE     Killed in battle as he fought against Britons with his brother, King
+2 CONT Ceawlin.
+0 @R345@ INDI 
+1 NAME Ceol, or Ceolric
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 346
+1 DEAT 
+2 DATE 597
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 591
+2 QUAY 2
+1 MISC End Reign
+2 DATE 597
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMC @F211@
+1 FAMS @F212@
+1 NOTE     Reigned jointly with his uncle, King Ceawlin and survived him.
+0 @R346@ INDI 
+1 NAME Ceolwulf
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 347
+1 DEAT 
+2 DATE 611
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 597
+2 QUAY 2
+1 MISC End Reign
+2 DATE 611
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMC @F211@
+1 FAMS @F219@
+1 NOTE     Spent his entire reign fighting the Angles, the Welsh, the Picts, or the
+2 CONT Scots.
+0 @R347@ INDI 
+1 NAME Cynegils
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 348
+1 DEAT 
+2 DATE 643
+2 QUAY 2
+1 BAPM 
+2 DATE 635
+2 PLAC Christianity, by Birinus, Bishop of Dorch.
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 611
+2 QUAY 2
+1 MISC End Reign
+2 DATE 643
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMC @F212@
+1 FAMS @F214@
+1 NOTE     Was converted to Christianity and baptised by Birinus, Bishop of Dorchester
+2 CONT in 635.
+0 @R348@ INDI 
+1 NAME Cenfus
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 349
+1 DEAT 
+2 DATE 674
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 674
+2 QUAY 2
+1 MISC End Reign
+2 DATE 674
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMC @F213@
+1 FAMS @F215@
+0 @R349@ INDI 
+1 NAME Cenwalh
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 350
+1 DEAT 
+2 DATE 672
+2 QUAY 2
+1 BAPM 
+2 DATE 646
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 643
+2 QUAY 2
+1 MISC End Reign
+2 DATE 672
+2 QUAY 3
+1 OCCU King of Wessex
+1 FAMS @F140@
+1 FAMC @F214@
+1 NOTE     Expelled from Wessex by Penda, King of Mercia in 645 and lived in exile in
+2 CONT East Anglia until 648.  He was baptised in 646 and founded the Old Minster at
+2 CONT Winchester in 648.  Married 1st the sister of Penda, King of Mercia whom he
+2 CONT repudiated in 645.  He married Seaxburh in 645.
+0 @R350@ INDI 
+1 NAME Seaxburh
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 351
+1 DEAT 
+2 DATE 674
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 672
+2 QUAY 2
+1 MISC End Reign
+2 DATE 674
+2 QUAY 2
+1 OCCU Queen of Wessex
+1 FAMS @F140@
+0 @R351@ INDI 
+1 NAME Aescwine
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 352
+1 DEAT 
+2 DATE 676
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 674
+2 QUAY 2
+1 MISC End Reign
+2 DATE 676
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMC @F215@
+0 @R352@ INDI 
+1 NAME Centwine
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 353
+1 DEAT 
+2 DATE 685
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 676
+2 QUAY 2
+1 MISC End Reign
+2 DATE 685
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMS @F146@
+1 FAMC @F214@
+1 NOTE     Was overthrown and probably killed by Caedwalla.  His wife was the 2nd wife
+2 CONT of Ecgfrith, King of Northumbria.
+0 @R353@ INDI 
+1 NAME Caedwalla
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 354
+1 BIRT 
+2 DATE ABT 659
+2 QUAY 2
+1 DEAT 
+2 DATE 20 APR 689
+2 PLAC Rome
+2 QUAY 2
+1 BAPM 
+2 DATE 10 APR 689
+2 PLAC Rome, by Pope SergiusI
+2 QUAY 2
+1 BURI 
+2 PLAC St. Peter's
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 685
+2 QUAY 2
+1 MISC End Reign
+2 DATE 688
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMC @F216@
+1 NOTE     Abdicated and went to Rome in 688 where she was baptised by the name of
+2 CONT Peter by Pope Sergius I.
+0 @R354@ INDI 
+1 NAME Ine
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 355
+1 DEAT 
+2 DATE AFT 726
+2 PLAC Rome
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 688
+2 QUAY 2
+1 MISC End Reign
+2 DATE 726
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMS @F141@
+1 FAMC @F217@
+1 NOTE     Founded the monastery of Glastonbury, abdicated and went to Rome in 726.
+0 @R355@ INDI 
+1 NAME Aethelburh
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 356
+1 DEAT 
+2 QUAY 2
+1 OCCU Queen of Wessex
+1 FAMS @F141@
+1 FAMC @F147@
+0 @R356@ INDI 
+1 NAME Aethelheard
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 357
+1 DEAT 
+2 DATE 740
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 726
+2 QUAY 2
+1 MISC End Reign
+2 DATE 740
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMC @F147@
+1 NOTE     From the lineage of Cerdic.  Went to Rome with his wife Frithugyth in 737.
+0 @R357@ INDI 
+1 NAME Cuthred
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 358
+1 DEAT 
+2 DATE 756
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 740
+2 QUAY 2
+1 MISC End Reign
+2 DATE 756
+2 QUAY 2
+1 OCCU King of Wessex
+1 NOTE     From the lineage of Cerdic.  had issue: Cynric who was killed in 748.
+0 @R358@ INDI 
+1 NAME Sigeberht
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 359
+1 DEAT 
+2 DATE AFT 757
+2 PLAC Privett, nr Petersfield
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 756
+2 QUAY 2
+1 MISC End Reign
+2 DATE 757
+2 QUAY 2
+1 OCCU King of Wessex
+1 NOTE     From the lineage of Cerdic.
+2 CONT     Deposed by Cynewulf "for unlawful actions" and was stabbed by a herdsman at
+2 CONT Privett, near Petersfield, Hants.
+0 @R359@ INDI 
+1 NAME Cynewulf
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 360
+1 DEAT 
+2 DATE 786
+2 PLAC Merantum, (Merton, Surrey?)
+2 QUAY 2
+1 BURI 
+2 PLAC Winchester
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 757
+2 QUAY 2
+1 MISC End Reign
+2 DATE 786
+2 QUAY 2
+1 OCCU King of Wessex
+1 NOTE     From the lineage of Cerdic.
+2 CONT     Surprised and killed at Merantum (Merton, Surrey?) by Cyneheard, the brother
+2 CONT of his predecessor, Sigeberht.
+0 @R360@ INDI 
+1 NAME Beorthric
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 361
+1 DEAT 
+2 DATE 802
+2 QUAY 2
+1 BURI 
+2 PLAC Wareham, Dorset
+2 QUAY 2
+1 MISC Begin Reign
+2 DATE 786
+2 QUAY 2
+1 MISC End Reign
+2 DATE 802
+2 QUAY 2
+1 OCCU King of Wessex
+1 FAMS @F142@
+1 NOTE     From the lineage of Cerdic. Accidently poisoned by his wife in 802.
+0 @R361@ INDI 
+1 NAME Eadburh
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 362
+1 DEAT 
+2 PLAC Pavia, a beggar
+2 QUAY 2
+1 FAMS @F142@
+1 FAMC @F143@
+0 @R362@ INDI 
+1 NAME Offa
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 363
+1 DEAT 
+2 QUAY 2
+1 OCCU King of Mercia
+1 FAMS @F143@
+0 @R363@ INDI 
+1 NAME Cynethryth
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 364
+1 DEAT 
+2 QUAY 2
+1 OCCU Queen of Mercia
+1 FAMS @F143@
+0 @R364@ INDI 
+1 NAME Cyneheard
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 365
+1 DEAT 
+2 QUAY 3
+1 BURI 
+2 DATE 786
+2 PLAC Axminster, Dorset
+2 QUAY 2
+0 @R365@ INDI 
+1 NAME Cwichelm
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 366
+1 DEAT 
+2 DATE 636
+2 QUAY 2
+1 BAPM 
+2 DATE 636
+2 PLAC Dorchester
+2 QUAY 2
+1 FAMC @F214@
+1 FAMS @F218@
+1 NOTE     Associated in the kingdom with his father from 626.
+0 @R366@ INDI 
+1 NAME Cuthred
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 367
+1 DEAT 
+2 DATE 661
+2 QUAY 2
+1 BAPM 
+2 DATE 639
+2 PLAC Dorchester
+2 QUAY 2
+1 FAMC @F218@
+1 NOTE     Baptised at Dorchester by Bishop Birinus in 639, apparently associated in
+2 CONT the kingdom with his grandfather and uncle.
+0 @R367@ INDI 
+1 NAME Cyneburg?
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 368
+1 DEAT 
+2 QUAY 2
+1 FAMS @F144@
+1 FAMC @F214@
+0 @R368@ INDI 
+1 NAME St. Oswald
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 369
+1 DEAT 
+2 DATE 5 AUG 641
+2 PLAC Oswestry, Salop
+2 QUAY 2
+1 OCCU King of Northumb
+1 FAMS @F144@
+0 @R369@ INDI 
+1 NAME St. Egelwine, or Ethelwine
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 370
+1 DEAT 
+2 QUAY 2
+1 FAMC @F214@
+1 NOTE     According to William of Malmesbury she was venerated at Athelney.
+0 @R370@ INDI 
+1 NAME Cuthgils
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 371
+1 DEAT 
+2 QUAY 3
+1 FAMC @F219@
+1 FAMS @F220@
+0 @R371@ INDI 
+1 NAME Cenferth
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 372
+1 DEAT 
+2 QUAY 3
+1 FAMS @F213@
+1 FAMC @F220@
+0 @R372@ INDI 
+1 NAME Cuthwine
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 373
+1 DEAT 
+2 QUAY 3
+1 FAMC @F221@
+1 FAMS @F222@
+0 @R373@ INDI 
+1 NAME Cynebald
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 374
+1 DEAT 
+2 QUAY 3
+1 FAMC @F222@
+1 FAMS @F223@
+0 @R374@ INDI 
+1 NAME Cedda
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 375
+1 DEAT 
+2 QUAY 3
+1 FAMC @F222@
+1 FAMS @F224@
+0 @R375@ INDI 
+1 NAME Cutha
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 376
+1 DEAT 
+2 QUAY 3
+1 FAMC @F222@
+1 FAMS @F225@
+0 @R376@ INDI 
+1 NAME Aethelbald
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 377
+1 DEAT 
+2 QUAY 3
+1 FAMC @F223@
+0 @R377@ INDI 
+1 NAME Oswald
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 378
+1 DEAT 
+2 DATE 730
+2 QUAY 2
+1 FAMC @F223@
+1 NOTE     Fought with King Aethelheard (probably contesting the succession) in 728.
+0 @R378@ INDI 
+1 NAME Coenberht
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 379
+1 DEAT 
+2 DATE 661
+2 QUAY 2
+1 OCCU Sub-King of Wesx
+1 FAMS @F216@
+1 FAMC @F224@
+0 @R379@ INDI 
+1 NAME Mul
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 380
+1 DEAT 
+2 DATE 687
+2 PLAC Kent, burned to death
+2 QUAY 2
+1 FAMC @F216@
+1 NOTE     Laid waste to Kent and the Isle of Wight with his brother King Caedwalla in
+2 CONT 686 and was burned to death in Kent in 687.
+0 @R380@ INDI 
+1 NAME Ceowald
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 381
+1 DEAT 
+2 QUAY 3
+1 FAMC @F225@
+1 FAMS @F226@
+0 @R381@ INDI 
+1 NAME Cenred
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 382
+1 DEAT 
+2 QUAY 3
+1 OCCU Sub-King of Wesx
+1 FAMS @F217@
+1 FAMC @F226@
+1 NOTE     A sub-King of Wessex according to Florence of Worcester.
+0 @R382@ INDI 
+1 NAME Ingild
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 383
+1 DEAT 
+2 DATE 718
+2 QUAY 2
+1 FAMC @F217@
+1 FAMS @F227@
+0 @R383@ INDI 
+1 NAME Eoppa
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 384
+1 DEAT 
+2 QUAY 3
+1 FAMC @F227@
+1 FAMS @F228@
+0 @R384@ INDI 
+1 NAME Eafa
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 385
+1 DEAT 
+2 QUAY 3
+1 FAMC @F228@
+1 FAMS @F229@
+1 NOTE     May have met a princess and heiress of the Royal House of Kent (the
+2 CONT Oiscings) and had the following children.
+0 @R385@ INDI 
+1 NAME Ealhmund
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 10 JUN 1989
+1 NUMB 386
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Kent
+1 FAMS @F199@
+1 FAMC @F229@
+0 @R386@ INDI 
+1 NAME Cwenburh
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 387
+1 DEAT 
+2 QUAY 3
+1 FAMC @F217@
+0 @R387@ INDI 
+1 NAME Cuthburh
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 388
+1 DEAT 
+2 QUAY 3
+1 FAMS @F145@
+1 FAMC @F217@
+1 NOTE     Founder of the monastic community at Wimborne.  She separated from her
+2 CONT husband "during their lifetime".
+0 @R388@ INDI 
+1 NAME Aldfrith
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 389
+1 DEAT 
+2 DATE 14 DEC 705
+2 PLAC Driffield, East Riding, Yorks
+2 QUAY 2
+1 OCCU King of Northumb
+1 FAMS @F145@
+0 @R389@ INDI 
+1 NAME Cuthwulf (Possibly same as Cutha)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 390
+1 DEAT 
+2 DATE 571
+2 QUAY 2
+1 FAMC @F210@
+1 NOTE     Fought against the Britons
+0 @R390@ INDI 
+1 NAME Cwichelm?
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 391
+1 DEAT 
+2 DATE 593
+2 QUAY 2
+1 FAMC @F210@
+0 @R391@ INDI 
+1 NAME ?, sister of Eormenburh
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 392
+1 DEAT 
+2 QUAY 3
+1 FAMS @F146@
+0 @R392@ INDI 
+1 NAME Bugge
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 393
+1 DEAT 
+2 QUAY 3
+1 FAMC @F146@
+0 @R393@ INDI 
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 394
+1 DEAT 
+2 QUAY 3
+1 FAMS @F147@
+0 @R394@ INDI 
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 395
+1 DEAT 
+2 QUAY 3
+1 FAMS @F147@
+0 @R395@ INDI 
+1 NAME Edmund (Crouchback)
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 396
+1 BIRT 
+2 DATE 16 JAN 1245
+2 PLAC London
+2 QUAY 2
+1 DEAT 
+2 DATE 5 JUN 1296
+2 PLAC Bayonne
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Earl of Lancastr
+1 FAMC @F45@
+1 FAMS @F148@
+1 FAMS @F150@
+0 @R396@ INDI 
+1 NAME Aveline/de Forz
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 397
+1 BIRT 
+2 DATE 20 JAN 1259
+2 QUAY 2
+1 DEAT 
+2 DATE 10 NOV 1274
+2 PLAC Stockwell
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 FAMS @F148@
+1 FAMC @F149@
+0 @R397@ INDI 
+1 NAME Wiiliam/de Forz
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 398
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Aumale
+1 FAMS @F149@
+0 @R398@ INDI 
+1 NAME Isabella/de Redvers
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 399
+1 DEAT 
+2 QUAY 3
+1 FAMS @F149@
+1 FAMC @F230@
+0 @R399@ INDI 
+1 NAME Baldwin/de Redvers
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 400
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Devon
+1 FAMS @F230@
+0 @R400@ INDI 
+1 NAME Blanche
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 401
+1 BIRT 
+2 DATE ABT 1245
+2 QUAY 2
+1 DEAT 
+2 DATE 2 MAY 1302
+2 PLAC a country abroad
+2 QUAY 2
+1 BURI 
+2 PLAC Convent, Minoresses, Aldgate
+2 QUAY 1
+1 FAMS @F150@
+1 FAMS @F151@
+1 FAMC @F152@
+0 @R401@ INDI 
+1 NAME Henri I
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 402
+1 DEAT 
+2 DATE BEF 1276
+2 QUAY 2
+1 OCCU King of Navarre
+1 FAMS @F151@
+0 @R402@ INDI 
+1 NAME Robert I
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 403
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Artois
+1 FAMS @F152@
+1 FAMC @F231@
+0 @R403@ INDI 
+1 NAME Mahaut
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 404
+1 DEAT 
+2 QUAY 3
+1 FAMS @F152@
+0 @R404@ INDI 
+1 NAME Louis VIII, King of France
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 405
+1 DEAT 
+2 QUAY 3
+1 OCCU King of France
+1 FAMS @F231@
+0 @R405@ INDI 
+1 NAME Thomas
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 406
+1 BIRT 
+2 DATE ABT 1279
+2 QUAY 2
+1 DEAT 
+2 DATE 22 MAR 1322
+2 PLAC Pontefract, Yorkshire
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Pontefract
+2 QUAY 2
+1 ATTR Behead
+1 OCCU Earl of Lancastr
+1 FAMC @F150@
+0 @R406@ INDI 
+1 NAME Henry
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 407
+1 BIRT 
+2 DATE ABT 1281
+2 PLAC Castle, Grosmont, Mon
+2 QUAY 2
+1 DEAT 
+2 DATE 22 SEP 1345
+2 PLAC Leicester
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Leicester
+2 QUAY 2
+1 OCCU Earl of Lancastr
+1 FAMC @F150@
+0 @R407@ INDI 
+1 NAME John
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 408
+1 BIRT 
+2 DATE MAY 1286
+2 QUAY 2
+1 DEAT 
+2 DATE 1327
+2 PLAC France
+2 QUAY 2
+1 OCCU Lord of Beaufort
+1 FAMC @F150@
+1 FAMS @F232@
+0 @R408@ INDI 
+1 NAME Mary
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 409
+1 DEAT 
+2 QUAY 3
+1 FAMC @F232@
+0 @R409@ INDI 
+1 NAME Philip/Mountbatten
+1 SEX M
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 410
+1 BIRT 
+2 DATE 10 JUN 1921
+2 PLAC Mon Repos, Corfu
+2 QUAY 2
+1 OCCU Duke of Edinburg
+1 FAMS @F153@
+1 FAMC @F157@
+0 @R411@ INDI 
+1 NAME Anne Elizabeth Alice/of Windsor
+1 SEX F
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 412
+1 BIRT 
+2 DATE 15 AUG 1950
+2 QUAY 2
+1 FAMC @F153@
+0 @R412@ INDI 
+1 NAME Andrew Albert Christian/of Windsor
+1 SEX M
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 413
+1 BIRT 
+2 DATE 19 FEB 1960
+2 QUAY 2
+1 FAMC @F153@
+0 @R413@ INDI 
+1 NAME Edward Anthony Richard/of Windsor
+1 SEX M
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 414
+1 BIRT 
+2 DATE 10 MAR 1964
+2 QUAY 2
+1 FAMC @F153@
+0 @R414@ INDI 
+1 NAME Elizabeth Angela Marguerite/Bowes-Lyon
+1 SEX F
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 415
+1 BIRT 
+2 DATE 4 AUG 1900
+2 PLAC St. Paul's, Waldenbury, Herts.
+2 QUAY 2
+1 MISC Crowned
+2 DATE 12 MAY 1937
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F154@
+0 @R415@ INDI 
+1 NAME Margaret
+1 SEX F
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 416
+1 BIRT 
+2 DATE 21 AUG 1930
+2 PLAC Castle, Glamis, Angus
+2 QUAY 2
+1 OCCU Countess Snowdon
+1 FAMC @F154@
+1 FAMS @F158@
+0 @R416@ INDI 
+1 NAME Wallis Warfield/Simpson
+1 SEX F
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 417
+1 DEAT 
+2 QUAY 3
+1 OCCU Duchess of Windr
+1 FAMS @F155@
+0 @R417@ INDI 
+1 NAME Mary/Teck
+1 SEX F
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 418
+1 DEAT 
+2 DATE 1953
+2 QUAY 2
+1 OCCU Queen of England
+1 FAMS @F156@
+0 @R418@ INDI 
+1 NAME Prince Andrew of Greece and_Denmark
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 419
+1 DEAT 
+2 QUAY 3
+1 OCCU Prince of Greece
+1 FAMS @F157@
+0 @R419@ INDI 
+1 NAME Princess Alice
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 420
+1 DEAT 
+2 QUAY 3
+1 FAMS @F157@
+0 @R420@ INDI 
+1 NAME Antony Charles Robert/Armstrong-Jones
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 421
+1 OCCU Earl of Snowdon
+1 FAMS @F158@
+0 @R421@ INDI 
+1 NAME David Albert Charles/Armstrong-Jones
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 422
+1 BIRT 
+2 DATE 3 NOV 1961
+2 QUAY 2
+1 OCCU Viscount Linley
+1 FAMC @F158@
+0 @R422@ INDI 
+1 NAME Sarah Frances Elizabeth/Armstrong-Jones
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 423
+1 BIRT 
+2 DATE 1 MAY 1964
+2 QUAY 2
+1 FAMC @F158@
+0 @R423@ INDI 
+1 NAME Matilda
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 424
+1 BIRT 
+2 DATE ABT 1105
+2 QUAY 2
+1 DEAT 
+2 DATE 3 MAY 1152
+2 PLAC Castle, Hedingham, Essex
+2 QUAY 2
+1 MISC Crowned
+2 DATE 22 MAR 1136
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Faversham
+2 QUAY 2
+1 OCCU Countess,Boulogn
+1 FAMS @F160@
+0 @R424@ INDI 
+1 NAME Eustace III
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 425
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Boulogn
+1 FAMS @F161@
+0 @R425@ INDI 
+1 NAME Mary
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 426
+1 DEAT 
+2 QUAY 3
+1 FAMS @F161@
+0 @R426@ INDI 
+1 NAME Baldwin
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 427
+1 BIRT 
+2 DATE ABT 1126
+2 QUAY 2
+1 DEAT 
+2 DATE 2 DEC 1135
+2 QUAY 1
+1 BURI 
+2 PLAC Church, Holy Trinity, Aldgate
+2 QUAY 2
+1 FAMC @F160@
+0 @R427@ INDI 
+1 NAME Eustace IV
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 428
+1 BIRT 
+2 DATE ABT 1130
+2 QUAY 2
+1 DEAT 
+2 DATE 10 AUG 1153
+2 PLAC Bury St. Edmunds
+2 QUAY 2
+1 BURI 
+2 PLAC Abbey, Faversham
+2 QUAY 2
+1 OCCU Count of Boulogn
+1 FAMC @F160@
+1 FAMS @F162@
+0 @R428@ INDI 
+1 NAME Constance
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 429
+1 BIRT 
+2 DATE ABT 1128
+2 QUAY 2
+1 DEAT 
+2 DATE 16 AUG 1176
+2 PLAC Rheims
+2 QUAY 2
+1 FAMS @F162@
+1 FAMC @F163@
+1 FAMS @F164@
+0 @R429@ INDI 
+1 NAME Louis VI, King of France
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 430
+1 DEAT 
+2 QUAY 3
+1 OCCU King of France
+1 FAMS @F163@
+0 @R430@ INDI 
+1 NAME Adelaide
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 431
+1 DEAT 
+2 QUAY 3
+1 FAMS @F163@
+1 FAMC @F233@
+0 @R431@ INDI 
+1 NAME Raymond V
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 432
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Toulous
+1 FAMS @F164@
+0 @R432@ INDI 
+1 NAME Umberto II
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 433
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Savoy
+1 FAMS @F233@
+0 @R433@ INDI 
+1 NAME Halfdan the Old
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 434
+1 BIRT 
+2 DATE ABT 750
+2 QUAY 2
+1 DEAT 
+2 QUAY 3
+1 FAMS @F234@
+0 @R434@ INDI 
+1 NAME Ivar, Earl of the Uplands
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 435
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Uplands
+1 FAMC @F234@
+1 FAMS @F235@
+0 @R435@ INDI 
+1 NAME Eystein Glumra
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 436
+1 DEAT 
+2 QUAY 3
+1 FAMC @F235@
+1 FAMS @F236@
+0 @R436@ INDI 
+1 NAME Rognvald the Mighty
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 437
+1 DEAT 
+2 DATE ABT 890
+2 QUAY 2
+1 OCCU Earl of More
+1 FAMS @F165@
+1 FAMC @F236@
+0 @R437@ INDI 
+1 NAME Sigurd
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 438
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Orkney
+1 FAMC @F236@
+0 @R438@ INDI 
+1 NAME Hild
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 439
+1 DEAT 
+2 QUAY 3
+1 FAMS @F165@
+1 FAMC @F237@
+0 @R439@ INDI 
+1 NAME Rolf Nefja
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 440
+1 DEAT 
+2 QUAY 3
+1 FAMS @F237@
+0 @R440@ INDI 
+1 NAME Rolf, or Rollo the Ganger
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 441
+1 BIRT 
+2 DATE ABT 846
+2 QUAY 2
+1 DEAT 
+2 DATE ABT 932
+2 QUAY 2
+1 BAPM 
+2 DATE 912
+2 QUAY 2
+1 BURI 
+2 PLAC Rouen
+2 QUAY 2
+1 FAMC @F165@
+1 FAMS @F168@
+1 FAMS @F171@
+0 @R441@ INDI 
+1 NAME Tore the Silent
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 442
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of More
+1 FAMC @F165@
+1 FAMS @F166@
+0 @R442@ INDI 
+1 NAME Aalof Aarbot
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 443
+1 DEAT 
+2 QUAY 3
+1 FAMS @F166@
+1 FAMC @F238@
+0 @R443@ INDI 
+1 NAME Harald the Fairhaired
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 444
+1 DEAT 
+2 QUAY 3
+1 OCCU King of Norway
+1 FAMS @F238@
+0 @R444@ INDI 
+1 NAME Bergljot
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 445
+1 DEAT 
+2 QUAY 3
+1 FAMC @F166@
+1 FAMS @F167@
+0 @R445@ INDI 
+1 NAME Sigurd
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 446
+1 DEAT 
+2 QUAY 3
+1 OCCU Earl of Lade
+1 FAMS @F167@
+0 @R446@ INDI 
+1 NAME Popa, or Papie
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 447
+1 DEAT 
+2 QUAY 3
+1 FAMS @F168@
+1 FAMC @F239@
+0 @R447@ INDI 
+1 NAME Berenger
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 448
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Bayeaux
+1 FAMS @F239@
+0 @R448@ INDI 
+1 NAME William I, Longsword
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 449
+1 BIRT 
+2 DATE ABT 900
+2 QUAY 2
+1 DEAT 
+2 DATE 17 DEC 942
+2 QUAY 2
+1 OCCU Duke of Normandy
+1 FAMC @F168@
+1 FAMS @F172@
+1 FAMS @F175@
+0 @R449@ INDI 
+1 NAME Gerloc, or Adele
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 450
+1 DEAT 
+2 DATE 963
+2 QUAY 2
+1 FAMC @F168@
+1 FAMS @F169@
+0 @R450@ INDI 
+1 NAME William I, Count of Poitiers
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 451
+1 DEAT 
+2 QUAY 3
+1 OCCU Duke of Acquitan
+1 FAMS @F169@
+0 @R451@ INDI 
+1 NAME Giselle
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 452
+1 DEAT 
+2 DATE 919
+2 QUAY 2
+1 FAMC @F170@
+1 FAMS @F171@
+0 @R452@ INDI 
+1 NAME Charles III, the Simple
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 453
+1 DEAT 
+2 QUAY 3
+1 OCCU King of France
+1 FAMS @F170@
+0 @R453@ INDI 
+1 NAME Frederona
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 454
+1 DEAT 
+2 QUAY 3
+1 FAMS @F170@
+0 @R454@ INDI 
+1 NAME Sprota
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 455
+1 DEAT 
+2 QUAY 3
+1 FAMS @F172@
+0 @R455@ INDI 
+1 NAME Liutgarde
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 456
+1 DEAT 
+2 DATE FEB 978
+2 QUAY 2
+1 FAMC @F173@
+1 FAMS @F174@
+1 FAMS @F175@
+0 @R456@ INDI 
+1 NAME Herdert II
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 457
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Verman
+1 FAMS @F173@
+0 @R457@ INDI 
+1 NAME Hildebrande of France
+1 SEX F
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 458
+1 DEAT 
+2 QUAY 3
+1 FAMS @F173@
+0 @R458@ INDI 
+1 NAME Theobald II
+1 SEX M
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 459
+1 DEAT 
+2 QUAY 3
+1 OCCU Count of Blois
+1 FAMS @F174@
+0 @F0@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 12 SEP 1988
+1 NUMB 1
+1 MARR 
+2 DATE ABT 1051
+2 PLAC Eu
+2 QUAY 3
+1 HUSB @R1@
+1 WIFE @R5@
+1 CHIL @R4@
+1 CHIL @R6@
+1 CHIL @R7@
+1 CHIL @R8@
+1 CHIL @R9@
+1 CHIL @R10@
+1 CHIL @R11@
+1 CHIL @R12@
+1 CHIL @R13@
+1 CHIL @R77@
+0 @F1@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 15 SEP 1988
+1 NUMB 2
+1 MARR 
+2 DATE ABT 1081
+2 PLAC Chartres
+2 QUAY 2
+1 HUSB @R15@
+1 WIFE @R11@
+1 CHIL @R14@
+1 CHIL @R16@
+1 CHIL @R17@
+1 CHIL @R18@
+1 CHIL @R19@
+1 CHIL @R20@
+1 CHIL @R21@
+0 @F2@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 15 SEP 1988
+1 NUMB 3
+1 MARR 
+2 DATE 11 NOV 1100
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 HUSB @R7@
+1 WIFE @R22@
+1 CHIL @R23@
+1 CHIL @R24@
+1 CHIL @R25@
+1 CHIL @R26@
+0 @F3@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 15 SEP 1988
+1 NUMB 4
+1 MARR 
+2 DATE 7 JAN 1114
+2 PLAC Mainz
+2 QUAY 2
+1 HUSB @R27@
+1 WIFE @R26@
+0 @F4@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 15 SEP 1988
+1 NUMB 5
+1 MARR 
+2 DATE 22 NOV 1127
+2 PLAC Le Mans
+2 QUAY 2
+1 HUSB @R28@
+1 WIFE @R26@
+1 CHIL @R30@
+1 CHIL @R31@
+1 CHIL @R32@
+0 @F5@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 15 SEP 1988
+1 NUMB 6
+1 MARR 
+2 DATE 29 JAN 1121
+2 PLAC Windsor Castle
+2 QUAY 2
+1 HUSB @R7@
+1 WIFE @R33@
+0 @F6@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 18 DEC 1988
+1 NUMB 7
+1 MARR 
+2 DATE 1455
+2 QUAY 2
+1 HUSB @R55@
+1 WIFE @R54@
+1 CHIL @R56@
+0 @F7@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 26 DEC 1988
+1 NUMB 8
+1 MARR 
+2 DATE 1100
+2 PLAC Apulia
+2 QUAY 2
+1 HUSB @R6@
+1 WIFE @R64@
+1 CHIL @R65@
+1 CHIL @R66@
+0 @F8@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 26 DEC 1988
+1 NUMB 9
+1 MARR 
+2 DATE 1123
+2 QUAY 2
+1 ANUL 
+2 DATE 1124
+2 QUAY 2
+1 HUSB @R65@
+1 WIFE @R67@
+0 @F9@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 26 DEC 1988
+1 NUMB 10
+1 MARR 
+2 DATE 1134
+2 QUAY 2
+1 HUSB @R68@
+1 WIFE @R67@
+0 @F10@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 26 DEC 1988
+1 NUMB 11
+1 MARR 
+2 QUAY 3
+1 HUSB @R69@
+1 WIFE @R70@
+1 CHIL @R28@
+1 CHIL @R29@
+1 CHIL @R67@
+0 @F11@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 26 DEC 1988
+1 NUMB 12
+1 MARR 
+2 DATE JAN 1128
+2 QUAY 2
+1 HUSB @R65@
+1 WIFE @R72@
+0 @F12@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 26 DEC 1988
+1 NUMB 13
+1 MARR 
+2 QUAY 3
+1 HUSB @R75@
+1 WIFE @R74@
+0 @F13@ FAM 
+1 CHAN 
+2 DATE 26 DEC 1988
+1 NUMB 14
+1 MARR 
+2 DATE BEF 1030
+2 QUAY 2
+1 HUSB @R73@
+1 WIFE @R74@
+1 CHIL @R5@
+0 @F14@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 30 DEC 1988
+1 NUMB 15
+1 MARR 
+2 QUAY 3
+1 HUSB @R78@
+1 WIFE @R79@
+1 CHIL @R15@
+0 @F15@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 30 DEC 1988
+1 NUMB 16
+1 MARR 
+2 QUAY 3
+1 HUSB @R82@
+1 WIFE @R83@
+1 CHIL @R81@
+0 @F16@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 30 DEC 1988
+1 NUMB 17
+1 MARR 
+2 QUAY 3
+1 HUSB @R16@
+1 WIFE @R81@
+0 @F17@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 30 DEC 1988
+1 NUMB 18
+1 MARR 
+2 DATE 1123
+2 QUAY 2
+1 HUSB @R17@
+1 WIFE @R84@
+0 @F18@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 30 DEC 1988
+1 NUMB 19
+1 MARR 
+2 QUAY 3
+1 HUSB @R85@
+1 WIFE @R86@
+1 CHIL @R84@
+0 @F19@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 20
+1 MARR 
+2 DATE 8 AUG 1503
+2 PLAC Holyrood House, Edinburgh
+2 QUAY 2
+1 HUSB @R90@
+1 WIFE @R62@
+1 CHIL @R91@
+0 @F20@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 21
+1 MARR 
+2 DATE 12 JUN 1538
+2 QUAY 2
+1 HUSB @R91@
+1 WIFE @R92@
+1 CHIL @R93@
+0 @F21@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 22
+1 MARR 
+2 DATE 29 JUL 1565
+2 QUAY 2
+1 HUSB @R94@
+1 WIFE @R93@
+1 CHIL @R98@
+0 @F22@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 23
+1 MARR 
+2 DATE 4 AUG 1514
+2 PLAC Kinnoull
+2 QUAY 2
+1 MISC Dissolved
+2 DATE 11 MAR 1527
+2 QUAY 2
+1 HUSB @R95@
+1 WIFE @R62@
+1 CHIL @R96@
+0 @F23@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 24
+1 MARR 
+2 DATE 6 JUL 1544
+2 PLAC Palace, St. James's, London
+2 QUAY 2
+1 HUSB @R97@
+1 WIFE @R96@
+1 CHIL @R94@
+0 @F24@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 25
+1 MARR 
+2 QUAY 3
+1 HUSB @R100@
+1 WIFE @R101@
+1 CHIL @R99@
+0 @F25@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 26
+1 MARR 
+2 DATE 23 NOV 1589
+2 PLAC Oslo, Norway
+2 QUAY 2
+1 HUSB @R98@
+1 WIFE @R99@
+1 CHIL @R103@
+1 CHIL @R104@
+1 CHIL @R105@
+1 CHIL @R106@
+1 CHIL @R107@
+1 CHIL @R108@
+1 CHIL @R109@
+1 CHIL @R110@
+0 @F26@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 27
+1 MARR 
+2 QUAY 3
+1 HUSB @R112@
+1 WIFE @R113@
+1 CHIL @R111@
+0 @F27@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 28
+1 MARR 
+2 DATE 14 FEB 1612/1613
+2 PLAC Chapel Royal, Whitehall
+2 QUAY 2
+1 HUSB @R111@
+1 WIFE @R107@
+1 CHIL @R115@
+0 @F28@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 29
+1 MARR 
+2 DATE 30 SEP 1658
+2 PLAC Heidelberg
+2 QUAY 2
+1 HUSB @R116@
+1 WIFE @R115@
+1 CHIL @R157@
+0 @F29@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 30
+1 MARR 
+2 QUAY 3
+1 HUSB @R119@
+1 WIFE @R120@
+1 CHIL @R118@
+0 @F30@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JAN 1989
+1 NUMB 31
+1 MARR 
+2 DATE 13 JUN 1625
+2 PLAC Canterbury
+2 QUAY 2
+1 HUSB @R104@
+1 WIFE @R120@
+1 CHIL @R122@
+1 CHIL @R123@
+1 CHIL @R124@
+1 CHIL @R125@
+1 CHIL @R126@
+1 CHIL @R127@
+1 CHIL @R128@
+1 CHIL @R129@
+1 CHIL @R130@
+0 @F31@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JAN 1989
+1 NUMB 32
+1 MARR 
+2 DATE 31 MAR 1661
+2 PLAC Chapel, Palais Royal, Paris
+2 QUAY 2
+1 HUSB @R131@
+1 WIFE @R130@
+0 @F32@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JAN 1989
+1 NUMB 33
+1 MARR 
+2 QUAY 3
+1 HUSB @R134@
+1 WIFE @R135@
+1 CHIL @R133@
+0 @F33@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JAN 1989
+1 NUMB 34
+1 MARR 
+2 DATE 24 NOV 1659
+2 PLAC Breda
+2 QUAY 2
+1 DIV 
+2 QUAY 3
+1 MARR 
+2 DATE 3 SEP 1660
+2 PLAC Worchester House, London
+2 QUAY 2
+1 HUSB @R123@
+1 WIFE @R137@
+1 CHIL @R139@
+1 CHIL @R140@
+1 CHIL @R141@
+1 CHIL @R142@
+1 CHIL @R143@
+1 CHIL @R144@
+1 CHIL @R145@
+1 CHIL @R146@
+0 @F34@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 15 JAN 1989
+1 NUMB 35
+1 MARR 
+2 QUAY 3
+1 HUSB @R148@
+1 WIFE @R149@
+1 CHIL @R147@
+0 @F35@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 28 JAN 1989
+1 NUMB 36
+1 MARR 
+2 DATE 4 NOV 1677
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 HUSB @R151@
+1 WIFE @R143@
+0 @F36@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 28 JAN 1989
+1 NUMB 37
+1 MARR 
+2 QUAY 3
+1 HUSB @R152@
+1 WIFE @R125@
+1 CHIL @R151@
+0 @F37@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 28 JAN 1989
+1 NUMB 38
+1 MARR 
+2 QUAY 3
+1 HUSB @R154@
+1 WIFE @R155@
+1 CHIL @R153@
+0 @F38@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JUN 1989
+1 NUMB 39
+1 MARR 
+2 QUAY 3
+1 ANUL 
+2 DATE 11 MAR 1152
+2 QUAY 2
+1 HUSB @R162@
+1 WIFE @R161@
+0 @F39@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 1 JUN 1989
+1 NUMB 40
+1 MARR 
+2 DATE 18 MAY 1152
+2 PLAC Bordeaux
+2 QUAY 2
+1 HUSB @R30@
+1 WIFE @R161@
+1 CHIL @R34@
+1 CHIL @R35@
+0 @F40@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 41
+1 MARR 
+2 DATE 29 AUG 1189
+2 PLAC Marlebridge
+2 QUAY 2
+1 ANUL 
+2 DATE 1200
+2 QUAY 2
+1 HUSB @R35@
+1 WIFE @R163@
+0 @F41@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 42
+1 MARR 
+2 QUAY 3
+1 HUSB @R164@
+1 WIFE @R165@
+1 CHIL @R163@
+0 @F42@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 43
+1 MARR 
+2 DATE 24 AUG 1200
+2 PLAC Bordeaux
+2 QUAY 2
+1 HUSB @R35@
+1 WIFE @R166@
+1 CHIL @R36@
+0 @F43@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 44
+1 MARR 
+2 QUAY 3
+1 HUSB @R167@
+1 WIFE @R168@
+1 CHIL @R166@
+0 @F44@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 45
+1 MARR 
+2 QUAY 3
+1 HUSB @R170@
+1 WIFE @R171@
+1 CHIL @R169@
+0 @F45@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 46
+1 MARR 
+2 DATE 14 JAN 1236
+2 QUAY 2
+1 HUSB @R36@
+1 WIFE @R169@
+1 CHIL @R37@
+1 CHIL @R395@
+0 @F46@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 47
+1 MARR 
+2 DATE OCT 1254
+2 PLAC Burgos
+2 QUAY 2
+1 HUSB @R37@
+1 WIFE @R172@
+1 CHIL @R38@
+0 @F47@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 48
+1 MARR 
+2 QUAY 3
+1 HUSB @R173@
+1 WIFE @R174@
+1 CHIL @R172@
+0 @F48@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 49
+1 MARR 
+2 DATE 8 SEP 1299
+2 PLAC Cathedral, Canterbury
+2 QUAY 2
+1 HUSB @R37@
+1 WIFE @R175@
+1 CHIL @R185@
+0 @F49@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 50
+1 MARR 
+2 DATE 25 JAN 1308
+2 PLAC Boulogne
+2 QUAY 2
+1 HUSB @R38@
+1 WIFE @R178@
+1 CHIL @R39@
+0 @F50@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 51
+1 MARR 
+2 QUAY 3
+1 HUSB @R179@
+1 WIFE @R180@
+1 CHIL @R178@
+0 @F51@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 52
+1 MARR 
+2 DATE 24 JAN 1328
+2 PLAC York Minster
+2 QUAY 2
+1 HUSB @R39@
+1 WIFE @R181@
+1 CHIL @R40@
+1 CHIL @R42@
+1 CHIL @R49@
+0 @F52@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 53
+1 MARR 
+2 QUAY 3
+1 HUSB @R182@
+1 WIFE @R183@
+1 CHIL @R181@
+0 @F53@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 54
+1 MARR 
+2 DATE 25 DEC 1325
+2 QUAY 2
+1 HUSB @R185@
+1 WIFE @R186@
+1 CHIL @R184@
+0 @F54@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 55
+1 MARR 
+2 DATE 10 OCT 1361
+2 PLAC Windsor
+2 QUAY 2
+1 HUSB @R40@
+1 WIFE @R184@
+1 CHIL @R41@
+0 @F55@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 56
+1 MARR 
+2 DATE 13 MAY 1359
+2 PLAC Queen's Chapel, Reading
+2 QUAY 2
+1 HUSB @R42@
+1 WIFE @R187@
+1 CHIL @R43@
+0 @F56@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 3 JUN 1989
+1 NUMB 57
+1 MARR 
+2 QUAY 3
+1 HUSB @R188@
+1 WIFE @R189@
+1 CHIL @R187@
+0 @F57@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 58
+1 MARR 
+2 DATE SEP 1371
+2 PLAC Roquefort, Guienne
+2 QUAY 2
+1 HUSB @R42@
+1 WIFE @R190@
+0 @F58@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 59
+1 MARR 
+2 QUAY 3
+1 HUSB @R191@
+1 WIFE @R192@
+1 CHIL @R190@
+1 CHIL @R195@
+0 @F59@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 60
+1 MARR 
+2 DATE 13 JAN 1396
+2 PLAC Lincoln
+2 QUAY 2
+1 HUSB @R42@
+1 WIFE @R193@
+1 CHIL @R52@
+1 CHIL @R229@
+0 @F60@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 61
+1 MARR 
+2 DATE 1 MAR 1372
+2 PLAC Hertford (?)
+2 QUAY 2
+1 HUSB @R49@
+1 WIFE @R195@
+1 CHIL @R48@
+0 @F61@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 62
+1 MARR 
+2 DATE 4 NOV 1393
+2 QUAY 2
+1 HUSB @R49@
+1 WIFE @R196@
+0 @F62@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 63
+1 MARR 
+2 DATE 20 JAN 1382
+2 QUAY 2
+1 HUSB @R41@
+1 WIFE @R198@
+0 @F63@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 64
+1 MARR 
+2 QUAY 3
+1 HUSB @R199@
+1 WIFE @R200@
+1 CHIL @R198@
+0 @F64@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 65
+1 MARR 
+2 DATE 4 NOV 1396
+2 PLAC Church, St. Nicholas, Calais
+2 QUAY 2
+1 HUSB @R41@
+1 WIFE @R201@
+0 @F65@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 66
+1 MARR 
+2 QUAY 3
+1 HUSB @R202@
+1 WIFE @R203@
+1 CHIL @R201@
+1 CHIL @R209@
+0 @F66@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 67
+1 MARR 
+2 DATE ABT 1380
+2 PLAC Castle, Arundel
+2 QUAY 2
+1 HUSB @R43@
+1 WIFE @R204@
+1 CHIL @R44@
+0 @F67@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 68
+1 MARR 
+2 DATE 7 FEB 1403
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 HUSB @R43@
+1 WIFE @R206@
+0 @F68@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 69
+1 MARR 
+2 QUAY 3
+1 HUSB @R207@
+1 WIFE @R208@
+1 CHIL @R206@
+0 @F69@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 70
+1 MARR 
+2 DATE 2 JUN 1420
+2 QUAY 2
+1 HUSB @R44@
+1 WIFE @R209@
+1 CHIL @R45@
+0 @F70@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 71
+1 MARR 
+2 DATE ABT 1428
+2 QUAY 2
+1 HUSB @R210@
+1 WIFE @R209@
+1 CHIL @R55@
+0 @F71@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 72
+1 MARR 
+2 DATE 23 APR 1445
+2 PLAC Titchfield, Hants.
+2 QUAY 2
+1 HUSB @R45@
+1 WIFE @R211@
+1 CHIL @R214@
+0 @F72@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 73
+1 MARR 
+2 QUAY 3
+1 HUSB @R212@
+1 WIFE @R213@
+1 CHIL @R211@
+0 @F73@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 74
+1 MARR 
+2 DATE AUG 1470
+2 PLAC Ambiose
+2 QUAY 2
+1 HUSB @R214@
+1 WIFE @R215@
+0 @F74@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 75
+1 MARR 
+2 DATE 12 JUL 1472
+2 PLAC Westminster
+2 QUAY 2
+1 HUSB @R51@
+1 WIFE @R215@
+1 CHIL @R233@
+0 @F75@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 76
+1 MARR 
+2 DATE 23 APR 1399
+2 QUAY 2
+1 HUSB @R52@
+1 WIFE @R217@
+1 CHIL @R53@
+0 @F76@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 77
+1 MARR 
+2 DATE 1439
+2 QUAY 2
+1 HUSB @R53@
+1 WIFE @R218@
+1 CHIL @R54@
+0 @F77@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 78
+1 MARR 
+2 DATE ABT 1459
+2 QUAY 2
+1 HUSB @R220@
+1 WIFE @R54@
+0 @F78@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 79
+1 MARR 
+2 QUAY 3
+1 HUSB @R221@
+1 WIFE @R54@
+0 @F79@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 80
+1 MARR 
+2 DATE MAY 1406
+2 PLAC Castle, Conisborough, Yorks
+2 QUAY 2
+1 HUSB @R48@
+1 WIFE @R222@
+1 CHIL @R47@
+0 @F80@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 81
+1 MARR 
+2 DATE 7 OCT 1388
+2 QUAY 2
+1 HUSB @R223@
+1 WIFE @R224@
+1 CHIL @R222@
+0 @F81@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 82
+1 MARR 
+2 DATE ABT 1412
+2 QUAY 0
+1 HUSB @R48@
+1 WIFE @R225@
+0 @F82@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 83
+1 MARR 
+2 DATE ABT 1437
+2 QUAY 2
+1 HUSB @R47@
+1 WIFE @R227@
+1 CHIL @R46@
+1 CHIL @R51@
+0 @F83@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 84
+1 MARR 
+2 DATE 20 FEB 1397
+2 QUAY 1
+1 HUSB @R228@
+1 WIFE @R229@
+0 @F84@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 85
+1 MARR 
+2 DATE 1 MAY 1464
+2 PLAC Grafton Regis, Nothants.
+2 QUAY 2
+1 HUSB @R46@
+1 WIFE @R230@
+1 CHIL @R50@
+1 CHIL @R234@
+0 @F85@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 86
+1 MARR 
+2 QUAY 3
+1 HUSB @R231@
+1 WIFE @R232@
+1 CHIL @R230@
+0 @F86@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 87
+1 MARR 
+2 DATE 18 JAN 1486
+2 PLAC Westminster
+2 QUAY 2
+1 HUSB @R56@
+1 WIFE @R234@
+1 CHIL @R57@
+1 CHIL @R61@
+1 CHIL @R62@
+0 @F87@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 88
+1 MARR 
+2 DATE 11 JUN 1509
+2 QUAY 2
+1 ANUL 
+2 DATE 23 MAY 1533
+2 QUAY 2
+1 HUSB @R57@
+1 WIFE @R235@
+1 CHIL @R88@
+0 @F88@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 89
+1 MARR 
+2 QUAY 3
+1 HUSB @R236@
+1 WIFE @R237@
+1 CHIL @R235@
+0 @F89@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 90
+1 MARR 
+2 DATE 25 JAN 1533
+2 PLAC Whitehall, or Westminster
+2 QUAY 2
+1 ANUL 
+2 DATE 17 MAY 1536
+2 QUAY 2
+1 HUSB @R57@
+1 WIFE @R238@
+1 CHIL @R89@
+0 @F90@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 91
+1 MARR 
+2 QUAY 3
+1 HUSB @R239@
+1 WIFE @R240@
+0 @F91@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 92
+1 MARR 
+2 DATE 30 MAY 1536
+2 PLAC Wolf Hall, Savernake, Wilts.
+2 QUAY 2
+1 HUSB @R57@
+1 WIFE @R241@
+1 CHIL @R58@
+0 @F92@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 93
+1 MARR 
+2 DATE 6 JAN 1540
+2 PLAC Greenwich
+2 QUAY 2
+1 ANUL 
+2 DATE 9 JUL 1540
+2 QUAY 2
+1 HUSB @R57@
+1 WIFE @R243@
+0 @F93@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 94
+1 MARR 
+2 QUAY 3
+1 HUSB @R244@
+1 WIFE @R245@
+1 CHIL @R243@
+0 @F94@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 95
+1 MARR 
+2 DATE 28 JUL 1540
+2 PLAC Palace, Hampton Court
+2 QUAY 2
+1 HUSB @R57@
+1 WIFE @R246@
+0 @F95@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 96
+1 MARR 
+2 DATE 12 JUL 1543
+2 PLAC Palace, Hampton Court
+2 QUAY 2
+1 HUSB @R57@
+1 WIFE @R249@
+0 @F96@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 97
+1 MARR 
+2 QUAY 3
+1 HUSB @R250@
+1 WIFE @R251@
+1 CHIL @R249@
+0 @F97@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 98
+1 MARR 
+2 DATE BEF 1542
+2 QUAY 0
+1 HUSB @R252@
+1 WIFE @R249@
+0 @F98@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 99
+1 MARR 
+2 DATE BEF 1543
+2 QUAY 2
+1 HUSB @R253@
+1 WIFE @R249@
+0 @F99@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 100
+1 MARR 
+2 DATE APR 1547
+2 QUAY 2
+1 HUSB @R254@
+1 WIFE @R249@
+0 @F100@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 101
+1 MARR 
+2 DATE 21 MAY 1553
+2 PLAC Durham House, London
+2 QUAY 2
+1 HUSB @R255@
+1 WIFE @R59@
+0 @F101@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 102
+1 MARR 
+2 DATE 25 JUL 1554
+2 PLAC Cathedral, Winchester
+2 QUAY 2
+1 HUSB @R256@
+1 WIFE @R88@
+0 @F102@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 103
+1 MARR 
+2 QUAY 3
+1 HUSB @R257@
+1 WIFE @R258@
+1 CHIL @R256@
+0 @F103@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 104
+1 MARR 
+2 DATE 9 OCT 1514
+2 PLAC Abbeville
+2 QUAY 2
+1 HUSB @R259@
+1 WIFE @R61@
+0 @F104@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 105
+1 MARR 
+2 DATE 3 MAR 1515
+2 PLAC Paris
+2 QUAY 2
+1 MARR 
+2 DATE 13 MAY 1515
+2 PLAC Grey Friars, Greenwich
+2 QUAY 2
+1 HUSB @R260@
+1 WIFE @R61@
+1 CHIL @R60@
+0 @F105@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 106
+1 MARR 
+2 DATE ABT 1534
+2 QUAY 2
+1 HUSB @R261@
+1 WIFE @R60@
+1 CHIL @R59@
+0 @F106@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 107
+1 MARR 
+2 DATE 9 MAR 1554
+2 QUAY 2
+1 HUSB @R262@
+1 WIFE @R60@
+0 @F107@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 108
+1 MARR 
+2 DATE 21 NOV 1682
+2 PLAC Zelle
+2 QUAY 2
+1 HUSB @R157@
+1 WIFE @R117@
+1 CHIL @R158@
+0 @F108@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 109
+1 MARR 
+2 QUAY 3
+1 HUSB @R263@
+1 WIFE @R264@
+1 CHIL @R117@
+0 @F109@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 110
+1 MARR 
+2 DATE 22 AUG 1705
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 HUSB @R158@
+1 WIFE @R265@
+1 CHIL @R159@
+0 @F110@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 111
+1 MARR 
+2 QUAY 3
+1 HUSB @R266@
+1 WIFE @R267@
+1 CHIL @R265@
+0 @F111@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 112
+1 MARR 
+2 DATE 8 MAY 1736
+2 PLAC Chapel Royal, St; James
+2 QUAY 2
+1 HUSB @R159@
+1 WIFE @R268@
+1 CHIL @R160@
+0 @F112@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 113
+1 MARR 
+2 QUAY 3
+1 HUSB @R269@
+1 WIFE @R270@
+1 CHIL @R268@
+0 @F113@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 114
+1 MARR 
+2 DATE 8 SEP 1761
+2 PLAC Palace, St. James's
+2 QUAY 2
+1 HUSB @R160@
+1 WIFE @R271@
+1 CHIL @R272@
+1 CHIL @R273@
+1 CHIL @R274@
+0 @F114@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 115
+1 MARR 
+2 DATE 29 MAY 1818
+2 PLAC Coburg
+2 QUAY 2
+1 MARR 
+2 DATE 11 JUL 1818
+2 PLAC Palace, Kew
+2 QUAY 2
+1 HUSB @R274@
+1 WIFE @R275@
+1 CHIL @R276@
+0 @F115@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 116
+1 MARR 
+2 DATE 10 FEB 1840
+2 PLAC Chapel Royal, St. James's, Palace
+2 QUAY 2
+1 HUSB @R277@
+1 WIFE @R276@
+1 CHIL @R278@
+0 @F116@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 4 JUN 1989
+1 NUMB 117
+1 MARR 
+2 DATE 10 MAR 1863
+2 PLAC Chapel, St. George's, Windsor
+2 QUAY 2
+1 HUSB @R278@
+1 WIFE @R279@
+1 CHIL @R280@
+0 @F117@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 118
+1 MARR 
+2 QUAY 0
+1 HUSB @R285@
+1 WIFE @R286@
+1 CHIL @R287@
+0 @F118@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 119
+1 MARR 
+2 QUAY 3
+1 HUSB @R287@
+1 WIFE @R288@
+1 CHIL @R290@
+1 CHIL @R291@
+1 CHIL @R292@
+1 CHIL @R293@
+0 @F119@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 120
+1 MARR 
+2 DATE 1 OCT 856
+2 QUAY 2
+1 HUSB @R287@
+1 WIFE @R289@
+0 @F120@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 121
+1 MARR 
+2 DATE 858
+2 QUAY 2
+1 ANUL 
+2 QUAY 2
+1 HUSB @R290@
+1 WIFE @R289@
+0 @F121@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 122
+1 MARR 
+2 DATE 869
+2 QUAY 2
+1 HUSB @R293@
+1 WIFE @R294@
+1 CHIL @R295@
+0 @F122@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 123
+1 MARR 
+2 QUAY 3
+1 HUSB @R295@
+1 WIFE @R296@
+1 CHIL @R299@
+0 @F123@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 124
+1 MARR 
+2 QUAY 3
+1 HUSB @R295@
+1 WIFE @R297@
+0 @F124@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 125
+1 MARR 
+2 QUAY 3
+1 HUSB @R295@
+1 WIFE @R298@
+1 CHIL @R300@
+1 CHIL @R303@
+0 @F125@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 126
+1 MARR 
+2 QUAY 3
+1 HUSB @R300@
+1 WIFE @R301@
+1 CHIL @R304@
+1 CHIL @R306@
+0 @F126@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 127
+1 MARR 
+2 QUAY 3
+1 HUSB @R300@
+1 WIFE @R302@
+0 @F127@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 128
+1 MARR 
+2 DATE 955
+2 QUAY 2
+1 ANUL 
+2 DATE 958
+2 QUAY 2
+1 HUSB @R304@
+1 WIFE @R305@
+0 @F128@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 129
+1 MARR 
+2 QUAY 3
+1 HUSB @R306@
+1 WIFE @R307@
+1 CHIL @R309@
+0 @F129@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 130
+1 MARR 
+2 QUAY 3
+1 HUSB @R306@
+1 WIFE @R308@
+1 CHIL @R310@
+0 @F130@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 131
+1 MARR 
+2 QUAY 3
+1 HUSB @R310@
+1 WIFE @R311@
+1 CHIL @R314@
+0 @F131@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 132
+1 MARR 
+2 QUAY 3
+1 HUSB @R310@
+1 WIFE @R312@
+1 CHIL @R315@
+0 @F132@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 133
+1 MARR 
+2 DATE 23 JAN 1045
+2 QUAY 2
+1 HUSB @R315@
+1 WIFE @R316@
+0 @F133@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 134
+1 MARR 
+2 QUAY 3
+1 HUSB @R317@
+1 WIFE @R318@
+1 CHIL @R316@
+1 CHIL @R331@
+0 @F134@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 135
+1 MARR 
+2 QUAY 3
+1 HUSB @R314@
+1 WIFE @R319@
+0 @F135@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 136
+1 MARR 
+2 QUAY 3
+1 HUSB @R313@
+1 WIFE @R320@
+1 CHIL @R312@
+1 CHIL @R321@
+0 @F136@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 137
+1 MARR 
+2 QUAY 3
+1 HUSB @R321@
+1 WIFE @R322@
+1 CHIL @R75@
+1 CHIL @R323@
+0 @F137@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 138
+1 MARR 
+2 QUAY 3
+1 HUSB @R325@
+1 WIFE @R326@
+1 CHIL @R327@
+0 @F138@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 139
+1 MARR 
+2 QUAY 3
+1 HUSB @R327@
+1 WIFE @R328@
+1 CHIL @R329@
+0 @F139@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 5 JUN 1989
+1 NUMB 140
+1 MARR 
+2 DATE 2 JUL 1017
+2 QUAY 2
+1 HUSB @R327@
+1 WIFE @R312@
+1 CHIL @R330@
+0 @F140@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 141
+1 MARR 
+2 DATE 645
+2 QUAY 2
+1 HUSB @R349@
+1 WIFE @R350@
+0 @F141@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 142
+1 MARR 
+2 QUAY 2
+1 HUSB @R354@
+1 WIFE @R355@
+0 @F142@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 143
+1 MARR 
+2 DATE 789
+2 QUAY 2
+1 HUSB @R360@
+1 WIFE @R361@
+0 @F143@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 144
+1 MARR 
+2 QUAY 3
+1 HUSB @R362@
+1 WIFE @R363@
+1 CHIL @R361@
+0 @F144@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 145
+1 MARR 
+2 DATE ABT 635
+2 QUAY 2
+1 HUSB @R368@
+1 WIFE @R367@
+0 @F145@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 146
+1 MARR 
+2 QUAY 3
+1 HUSB @R388@
+1 WIFE @R387@
+0 @F146@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 147
+1 MARR 
+2 QUAY 3
+1 HUSB @R352@
+1 WIFE @R391@
+1 CHIL @R392@
+0 @F147@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 8 JUN 1989
+1 NUMB 148
+1 MARR 
+2 QUAY 3
+1 HUSB @R393@
+1 WIFE @R394@
+1 CHIL @R355@
+1 CHIL @R356@
+0 @F148@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 149
+1 MARR 
+2 DATE 9 APR 1269
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 HUSB @R395@
+1 WIFE @R396@
+0 @F149@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 150
+1 MARR 
+2 QUAY 3
+1 HUSB @R397@
+1 WIFE @R398@
+1 CHIL @R396@
+0 @F150@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 151
+1 MARR 
+2 DATE 3 FEB 1276
+2 PLAC Paris
+2 QUAY 2
+1 HUSB @R395@
+1 WIFE @R400@
+1 CHIL @R405@
+1 CHIL @R406@
+1 CHIL @R407@
+0 @F151@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 152
+1 MARR 
+2 DATE BEF 1275
+2 QUAY 2
+1 HUSB @R401@
+1 WIFE @R400@
+0 @F152@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 11 JUN 1989
+1 NUMB 153
+1 MARR 
+2 QUAY 3
+1 HUSB @R402@
+1 WIFE @R403@
+1 CHIL @R400@
+0 @F153@ FAM 
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 154
+1 MARR 
+2 DATE 20 NOV 1947
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 ENGA 
+2 DATE 9 JUL 1847
+2 QUAY 2
+1 HUSB @R409@
+1 WIFE @R283@
+1 CHIL @R284@
+1 CHIL @R411@
+1 CHIL @R412@
+1 CHIL @R413@
+0 @F154@ FAM 
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 155
+1 MARR 
+2 DATE 26 APR 1923
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 HUSB @R282@
+1 WIFE @R414@
+1 CHIL @R283@
+1 CHIL @R415@
+0 @F155@ FAM 
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 156
+1 MARR 
+2 DATE 3 JUN 1937
+2 QUAY 2
+1 HUSB @R281@
+1 WIFE @R416@
+0 @F156@ FAM 
+1 SOUR @S9@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 157
+1 MARR 
+2 QUAY 3
+1 HUSB @R280@
+1 WIFE @R417@
+1 CHIL @R281@
+1 CHIL @R282@
+0 @F157@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 158
+1 MARR 
+2 QUAY 3
+1 HUSB @R418@
+1 WIFE @R419@
+1 CHIL @R409@
+0 @F158@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 159
+1 MARR 
+2 DATE 6 MAY 1960
+2 PLAC Abbey, Westminster
+2 QUAY 2
+1 HUSB @R420@
+1 WIFE @R415@
+1 CHIL @R421@
+1 CHIL @R422@
+0 @F159@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 160
+1 MARR 
+2 DATE JUN 1119
+2 PLAC Lisieux
+2 QUAY 2
+1 HUSB @R24@
+1 WIFE @R29@
+0 @F160@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 161
+1 MARR 
+2 DATE 1125
+2 QUAY 2
+1 HUSB @R14@
+1 WIFE @R423@
+1 CHIL @R426@
+1 CHIL @R427@
+0 @F161@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 162
+1 MARR 
+2 QUAY 3
+1 HUSB @R424@
+1 WIFE @R425@
+0 @F162@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 163
+1 MARR 
+2 DATE FEB 1140
+2 PLAC Paris
+2 QUAY 2
+1 HUSB @R427@
+1 WIFE @R428@
+0 @F163@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 164
+1 MARR 
+2 QUAY 3
+1 HUSB @R429@
+1 WIFE @R430@
+1 CHIL @R428@
+0 @F164@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 13 JUN 1989
+1 NUMB 165
+1 MARR 
+2 DATE ABT 1154
+2 QUAY 2
+1 HUSB @R431@
+1 WIFE @R428@
+0 @F165@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 166
+1 MARR 
+2 QUAY 3
+1 HUSB @R436@
+1 WIFE @R438@
+1 CHIL @R440@
+1 CHIL @R441@
+0 @F166@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 167
+1 MARR 
+2 DATE ABT 890
+2 QUAY 2
+1 HUSB @R441@
+1 WIFE @R442@
+1 CHIL @R444@
+0 @F167@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 168
+1 MARR 
+2 QUAY 3
+1 HUSB @R445@
+1 WIFE @R444@
+0 @F168@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 169
+1 MARR 
+2 DATE BEF 911
+2 QUAY 2
+1 MISC Dissolved
+2 DATE ABT 912
+2 QUAY 2
+1 MARR 
+2 DATE AFT 920
+2 QUAY 2
+1 HUSB @R440@
+1 WIFE @R446@
+1 CHIL @R448@
+1 CHIL @R449@
+0 @F169@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 170
+1 MARR 
+2 DATE 933
+2 QUAY 2
+1 HUSB @R450@
+1 WIFE @R449@
+0 @F170@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 171
+1 MARR 
+2 QUAY 3
+1 HUSB @R452@
+1 WIFE @R453@
+1 CHIL @R451@
+0 @F171@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 172
+1 MARR 
+2 DATE 912
+2 QUAY 2
+1 HUSB @R440@
+1 WIFE @R451@
+0 @F172@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 173
+1 MARR 
+2 QUAY 3
+1 HUSB @R448@
+1 WIFE @R454@
+1 CHIL @R313@
+0 @F173@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 174
+1 MARR 
+2 QUAY 3
+1 HUSB @R456@
+1 WIFE @R457@
+1 CHIL @R455@
+0 @F174@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 175
+1 MARR 
+2 QUAY 3
+1 HUSB @R458@
+1 WIFE @R455@
+0 @F175@ FAM 
+1 SOUR @S2@
+1 CHAN 
+2 DATE 14 JUN 1989
+1 NUMB 176
+1 MARR 
+2 QUAY 3
+1 HUSB @R448@
+1 WIFE @R455@
+0 @F176@ FAM 
+1 HUSB @R323@
+1 WIFE @R324@
+1 CHIL @R1@
+0 @F177@ FAM 
+1 HUSB @R63@
+1 CHIL @R64@
+0 @F178@ FAM 
+1 HUSB @R71@
+1 CHIL @R70@
+0 @F179@ FAM 
+1 HUSB @R76@
+1 CHIL @R74@
+0 @F180@ FAM 
+1 HUSB @R80@
+1 CHIL @R79@
+0 @F181@ FAM 
+1 HUSB @R87@
+1 CHIL @R86@
+0 @F182@ FAM 
+1 HUSB @R102@
+1 CHIL @R101@
+0 @F183@ FAM 
+1 HUSB @R114@
+1 CHIL @R113@
+0 @F184@ FAM 
+1 HUSB @R156@
+1 CHIL @R116@
+1 CHIL @R155@
+0 @F185@ FAM 
+1 HUSB @R121@
+1 CHIL @R120@
+0 @F186@ FAM 
+1 HUSB @R132@
+1 CHIL @R131@
+0 @F187@ FAM 
+1 HUSB @R136@
+1 CHIL @R135@
+0 @F188@ FAM 
+1 HUSB @R138@
+1 CHIL @R137@
+0 @F189@ FAM 
+1 HUSB @R150@
+1 CHIL @R149@
+0 @F190@ FAM 
+1 HUSB @R194@
+1 CHIL @R193@
+0 @F191@ FAM 
+1 HUSB @R197@
+1 CHIL @R196@
+1 CHIL @R217@
+1 CHIL @R224@
+0 @F192@ FAM 
+1 HUSB @R205@
+1 CHIL @R204@
+0 @F193@ FAM 
+1 HUSB @R216@
+1 CHIL @R215@
+0 @F194@ FAM 
+1 HUSB @R219@
+1 CHIL @R218@
+0 @F195@ FAM 
+1 HUSB @R226@
+1 CHIL @R225@
+0 @F196@ FAM 
+1 HUSB @R242@
+1 CHIL @R241@
+0 @F197@ FAM 
+1 HUSB @R247@
+1 CHIL @R246@
+0 @F198@ FAM 
+1 HUSB @R248@
+1 CHIL @R247@
+0 @F199@ FAM 
+1 HUSB @R385@
+1 CHIL @R285@
+0 @F200@ FAM 
+1 HUSB @R332@
+1 CHIL @R333@
+0 @F201@ FAM 
+1 HUSB @R333@
+1 CHIL @R334@
+0 @F202@ FAM 
+1 HUSB @R334@
+1 CHIL @R335@
+0 @F203@ FAM 
+1 HUSB @R335@
+1 CHIL @R336@
+0 @F204@ FAM 
+1 HUSB @R336@
+1 CHIL @R337@
+0 @F205@ FAM 
+1 HUSB @R337@
+1 CHIL @R338@
+0 @F206@ FAM 
+1 HUSB @R338@
+1 CHIL @R339@
+0 @F207@ FAM 
+1 HUSB @R339@
+1 CHIL @R340@
+0 @F208@ FAM 
+1 HUSB @R340@
+1 CHIL @R341@
+0 @F209@ FAM 
+1 HUSB @R341@
+1 CHIL @R342@
+0 @F210@ FAM 
+1 HUSB @R342@
+1 CHIL @R343@
+1 CHIL @R344@
+1 CHIL @R389@
+1 CHIL @R390@
+0 @F211@ FAM 
+1 HUSB @R344@
+1 CHIL @R345@
+1 CHIL @R346@
+0 @F212@ FAM 
+1 HUSB @R345@
+1 CHIL @R347@
+0 @F213@ FAM 
+1 HUSB @R371@
+1 CHIL @R348@
+0 @F214@ FAM 
+1 HUSB @R347@
+1 CHIL @R349@
+1 CHIL @R352@
+1 CHIL @R365@
+1 CHIL @R367@
+1 CHIL @R369@
+0 @F215@ FAM 
+1 HUSB @R348@
+1 CHIL @R351@
+0 @F216@ FAM 
+1 HUSB @R378@
+1 CHIL @R353@
+1 CHIL @R379@
+0 @F217@ FAM 
+1 HUSB @R381@
+1 CHIL @R354@
+1 CHIL @R382@
+1 CHIL @R386@
+1 CHIL @R387@
+0 @F218@ FAM 
+1 HUSB @R365@
+1 CHIL @R366@
+0 @F219@ FAM 
+1 HUSB @R346@
+1 CHIL @R370@
+0 @F220@ FAM 
+1 HUSB @R370@
+1 CHIL @R371@
+0 @F221@ FAM 
+1 HUSB @R343@
+1 CHIL @R372@
+0 @F222@ FAM 
+1 HUSB @R372@
+1 CHIL @R373@
+1 CHIL @R374@
+1 CHIL @R375@
+0 @F223@ FAM 
+1 HUSB @R373@
+1 CHIL @R376@
+1 CHIL @R377@
+0 @F224@ FAM 
+1 HUSB @R374@
+1 CHIL @R378@
+0 @F225@ FAM 
+1 HUSB @R375@
+1 CHIL @R380@
+0 @F226@ FAM 
+1 HUSB @R380@
+1 CHIL @R381@
+0 @F227@ FAM 
+1 HUSB @R382@
+1 CHIL @R383@
+0 @F228@ FAM 
+1 HUSB @R383@
+1 CHIL @R384@
+0 @F229@ FAM 
+1 HUSB @R384@
+1 CHIL @R385@
+0 @F230@ FAM 
+1 HUSB @R399@
+1 CHIL @R398@
+0 @F231@ FAM 
+1 HUSB @R404@
+1 CHIL @R402@
+0 @F232@ FAM 
+1 HUSB @R407@
+1 CHIL @R408@
+0 @F233@ FAM 
+1 HUSB @R432@
+1 CHIL @R430@
+0 @F234@ FAM 
+1 HUSB @R433@
+1 CHIL @R434@
+0 @F235@ FAM 
+1 HUSB @R434@
+1 CHIL @R435@
+0 @F236@ FAM 
+1 HUSB @R435@
+1 CHIL @R436@
+1 CHIL @R437@
+0 @F237@ FAM 
+1 HUSB @R439@
+1 CHIL @R438@
+0 @F238@ FAM 
+1 HUSB @R443@
+1 CHIL @R442@
+0 @F239@ FAM 
+1 HUSB @R447@
+1 CHIL @R446@
+0 TRLR 

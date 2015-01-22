@@ -1,0 +1,25 @@
+0 HEAD
+0 @I1@ INDI
+  1 NAME John /Begood/
+  1 SEX M
+  1 FAMS @F1@
+
+0 @I2@ INDI
+  1 NAME Ada /Begood/
+  1 FAMS @F1@
+
+0 @I3@ INDI
+  1 NAME Fred /Begood/
+  1 FAMC @F1@
+
+0 @I4@ INDI
+  1 NAME Lea /Begood/
+  1 SEX F
+  1 FAMC @F1@
+
+0 @F1@ FAM
+  1 HUSB @I1@
+  1 WIFE @I2@
+  1 CHIL @I3@
+  1 CHIL @I4@
+0 TRLR

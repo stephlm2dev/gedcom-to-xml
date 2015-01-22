@@ -1,0 +1,140 @@
+0 HEAD
+
+0 @F1@ FAM
+  1 HUSB @I1@
+  1 WIFE @I2@
+  1 CHIL @I3@
+  1 CHIL @I4@
+  1 MARR
+    2 DATE 7 AUG 1987
+    2 PLAC United States
+  1 OBJE
+    2 FILE http://www.liafa.univ-paris-diderot.fr/~carton/gaston-jeanne.gif
+      3 FORM gif
+    2 TITL Photo de famille
+
+0 @F2@ FAM
+  1 HUSB @I3@
+  1 WIFE @I5@
+  1 CHIL @I7@
+  1 CHIL @I9@
+  1 MARR
+    2 DATE 7 APR 1997
+    2 PLAC France
+
+0 @F3@ FAM
+  1 HUSB @I6@
+  1 WIFE @I4@
+  1 CHIL @I17@
+  1 CHIL @I11@
+  1 CHIL @I12@
+  1 CHIL @I13@
+  1 MARR
+    2 DATE 13 JUN 2001
+    2 PLAC Italie
+
+0 @F4@ FAM
+  1 HUSB @I7@
+  1 WIFE @I8@
+  1 CHIL @I14@
+  1 CHIL @I15@
+
+0 @F5@ FAM
+  1 HUSB @I9@
+  1 WIFE @I10@
+  1 CHIL @I16@
+
+0 @I1@ INDI
+  1 NAME Jérôme /Turing/
+  1 SEX M
+  1 FAMS @F1@
+
+0 @I2@ INDI
+  1 NAME Estelle /Knuth/
+  1 SEX F
+  1 FAMS @F1@
+
+0 @I3@ INDI
+  1 NAME Frederic /Turing/
+  1 SEX M
+  1 FAMC @F1@
+  1 FAMS @F2@
+
+0 @I5@ INDI
+  1 NAME Caroline /Rabin/
+  1 SEX F
+  1 FAMS @F2@
+
+0 @I4@ INDI
+  1 NAME Julie /Turing/
+  1 SEX F
+  1 FAMC @F1@
+  1 FAMS @F3@
+
+0 @I6@ INDI
+  1 NAME Nicolas /Büchi/
+  1 SEX M
+  1 FAMS @F3@
+
+0 @I7@ INDI
+  1 NAME Arnaud /Turing/
+  1 SEX M
+  1 FAMC @F2@
+  1 FAMS @F4@
+
+0 @I8@ INDI
+  1 NAME Laurence /Church/
+  1 SEX F
+  1 FAMS @F4@
+
+0 @I9@ INDI
+  1 NAME Manuel /Turing/
+  1 SEX M
+  1 FAMC @F2@
+  1 FAMS @F5@
+
+0 @I10@ INDI
+  1 NAME Nicole /von Neumann/
+  1 SEX F
+  1 FAMS @F5@
+
+0 @I11@ INDI
+  1 NAME Dylan /Büchi/
+  1 SEX M
+  1 FAMC @F3@
+
+0 @I12@ INDI
+  1 NAME Séverine /Büchi/
+  1 SEX F
+  1 FAMC @F3@
+
+0 @I13@ INDI
+  1 NAME Martine /Büchi/
+  1 SEX F
+  1 FAMC @F3@
+
+0 @I17@ INDI
+  1 NAME Sylvain /Büchi/
+  1 SEX M
+  1 FAMC @F3@
+
+0 @I14@ INDI
+  1 NAME Françoise /Turing/
+  1 SEX F
+  1 FAMC @F4@
+
+0 @I15@ INDI
+  1 NAME David /Turing/
+  1 SEX M
+  1 FAMC @F4@
+
+0 @I16@ INDI
+  1 NAME Alan /Turing/
+  1 SEX M
+  1 FAMC @F5@
+  1 OBJE
+    2 FILE http://fr.wikipedia.org/wiki/Alan_Turing
+    2 FORM html
+    2 TITL Page wikipedia
+
+0 TRLR
